@@ -1,4 +1,4 @@
-<h2 align="center">  Java | POO, JDBC, Servlets, JavaEE, Web Services, JSF, EJB, JPA, PrimeFaces, Hibernate, Spring, Struts 🦸‍♂️</h2>
+<h2 align="center">  Java | POO, JDBC, Servlets, JavaEE, Web Services, JSF, EJB, JPA, PrimeFaces, Hibernate, Spring, Struts </h2>
 
 
 <p align="center">
