@@ -67,7 +67,6 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 ## Instalacion
 
 📦 [Instalar JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕
-
 📦 [Instalar Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans
 
 
