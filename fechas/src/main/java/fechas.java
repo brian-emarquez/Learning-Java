@@ -26,7 +26,5 @@ public class fechas {
         
         int edad = anoNac-anoHoy;
         System.err.println("Edad"+ edad);
-        
-    }
-    
+    } 
 }
