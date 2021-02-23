@@ -29,15 +29,22 @@
 | ------------ |--------|-------------- |
 |  001   |✔️ | [Que es java](#Que-es-java)   |  
 |  002   |✔️ | [Instalacion](#instalacion)  |
+|  003   |✔️ | [Hola Java](#Hola-Java)  |  
 |  003   |✔️ | [Variables](#variables)  |  
 |  004   |✔️ | [Variables-II](#Variables-II)  |  
 |  005   |✔️ | [Constantes](#Constantes)  |  
-|  002   |✔️ | [](#instalacion)  |  
-|  002   |✔️ | [](#instalacion)  |  
-|  002   |✔️ | [](#instalacion)  |  
-|  002   |✔️ | [](#instalacion)  |  
-|  002   |✔️ | [](#instalacion)  |    
-|  002   |✔️ | [](#instalacion)  |  
+|  002   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
+|  002   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
+|  002   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
+|  002   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
+|  002   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
+|  002   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
+|  002   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
+|  002   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
+|  002   |✔️ | [Condicionales](#Condicionales)  
+
+
+
 ## Ques es Java 
 
 La plataforma Java es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones, y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común. [Wikipedia](https://es.wikipedia.org/wiki/Plataforma_Java)<br>
@@ -71,6 +78,15 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
 
  ![java](./images/Install.png)
+
+---
+
+
+## Hola Java 
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Hola Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | 
 
 ---
 
@@ -192,6 +208,97 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
   | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [Constantes](https://github.com/BrianMarquez3/Learnig-Java/tree/main/contantes)          |      ✔️     | 
+
+---
+
+## Ingresar Datos Consola
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ingresar Datos Consola ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosConsola)          |      ✔️     | 
+
+---
+
+## Ingresar Dato ViaShow InputDialog
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ingresar Dato ViaShow InputDialog ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosViaShowInputDialog)          |      ✔️     | 
+
+---
+
+## Operadores Matematicos
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Operadores Matematicos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicos)          |      ✔️     |
+
+---
+
+## Operadores Matematicos Cortos
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Operadores Matematicos Cortos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicosCortos)          |      ✔️     |
+
+---
+
+## Operador Incremental Decremental
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Operador Incremental Decremental ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadorIncrementalDecremental)          |      ✔️     |
+
+---
+
+## Operaciones Matematicas Math
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Operaciones Matematicas Math ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operacionesMatematicasMath)          |      ✔️     |
+
+---
+
+## Calcular volumen de un cilindro
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Calcular volumen de un cilindro ](https://github.com/BrianMarquez3/Learning-Java/tree/main/calcularvolumendeuncilindro)          |      ✔️     |
+
+---
+
+## Manejo de Fechas
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Manejo de fechas ](https://github.com/BrianMarquez3/Learning-Java/tree/main/fechas)          |      ✔️     |
+
+---
+
+## Condicionales
+
+_Ejemplo de Condiciones_
+
+```java
+public static void main(String[] args) {
+        // condicionales (Sentencia IF, Else)
+        Scanner entra= new Scanner(System.in);
+        int numUser, numSis;
+        numSis = (int) (Math.random()*10);
+        System.out.println("Ingresa este numero "+numSis+": ");
+        numUser = entra.nextInt();
+        
+        if(numUser == numSis){
+            System.out.println("Coinciden ");
+        }else{
+            System.out.println("no coinciden ");
+        }
+    }
+```
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Condicionales](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales)          |      ✔️     |
 
 ---
 
