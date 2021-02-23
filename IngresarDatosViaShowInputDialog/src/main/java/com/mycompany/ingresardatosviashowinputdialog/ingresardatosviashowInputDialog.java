@@ -27,6 +27,9 @@ public class ingresardatosviashowInputDialog {
         float flotante = Float.parseFloat(JOptionPane.showInputDialog("Inserta un entero"));
         JOptionPane.showMessageDialog(null, "Esto es una cadena: " + flotante);
         
+        char caracter = JOptionPane.showInputDialog("Inserta un caracter").charAt(0);
+        JOptionPane.showMessageDialog(null, "Esto es tu caracter: " + caracter);
+       
     }
     
 }
