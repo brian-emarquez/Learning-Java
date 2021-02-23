@@ -93,26 +93,30 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
 <strong>byte</strong>
 
-Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127 (ambos inclusive).
+  Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127 (ambos inclusive).
 
 <strong>short</strong>
 
-Representa un tipo de dato de 16 bits con signo. De esta manera almacena valores numéricos de -32.768 a 32.767.
+  Representa un tipo de dato de 16 bits con signo. De esta manera almacena valores numéricos de -32.768 a 32.767.
 
 <strong> int </strong>
-Es un tipo de dato de 32 bits con signo para almacenar valores numéricos. Cuyo valor mínimo es -2^31 y el valor máximo 2^31-1.
+
+  Es un tipo de dato de 32 bits con signo para almacenar valores numéricos. Cuyo valor mínimo es -2^31 y el valor máximo 2^31-1.
 
 <strong> float </strong>
-Es un tipo dato para almacenar números en coma flotante con precisión simple de 32 bits.
+
+  Es un tipo dato para almacenar números en coma flotante con precisión simple de 32 bits.
 
 <strong> double </strong>
-Es un tipo de dato para almacenar números en coma flotante con doble precisión de 64 bits.
+
+  Es un tipo de dato para almacenar números en coma flotante con doble precisión de 64 bits.
 
 <strong> boolean </strong>
-Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true o false. Ocupa 1 bit de información.
+
+  Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true o false. Ocupa 1 bit de información.
 
 <strong> char </strong>
-Es un tipo de datos que representa a un carácter Unicode sencillo de 16 bits.
+  Es un tipo de datos que representa a un carácter Unicode sencillo de 16 bits.
 
 ### Valores por defecto de los tipos de datos primitivos
 
