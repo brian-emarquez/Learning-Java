@@ -81,17 +81,17 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 ```java
     byte - 8 bits
     short - 16 bit
-    int 32 bits
-    long 64 bits
-    float 32 bits
-    double 64 bits
-    char 16 bits
-    boolean 1 bits
+    int - 32 bits
+    long - 64 bits
+    float  -32 bits
+    double  -64 bits
+    char - 16 bits
+    boolean - 1 bits
 ```
 
 ###  Tipos de Datos Primitivos en Java   
 
-<br>byte</br>
+<strong>byte</strong>
 
 Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127 (ambos inclusive).
 
