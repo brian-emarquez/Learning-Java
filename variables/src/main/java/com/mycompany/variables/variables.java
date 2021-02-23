@@ -34,7 +34,22 @@ public class variables {
         entero = 33000;
         System.out.println("Entero="+ entero);
         
+        float flotante;
+        flotante = 33000.50f;
+        System.out.println("Flotante="+ flotante);
         
+        double doublee;
+        doublee = 33000.55f;
+        System.out.println("Double="+ doublee);
+        
+        char caracter;
+        caracter = 'b';
+        System.out.println("char="+caracter);
+        
+        boolean booleano;
+        booleano = true;
+        System.err.println("Bolleano = " + booleano);
+   
         
     }
     
