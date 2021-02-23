@@ -1,5 +1,6 @@
 ### Variables
    
+```java
     byte - 8 bits
     short - 16 bit
     int 32 bits
@@ -8,6 +9,7 @@
     double 64 bits
     char 16 bits
     bollean - i bits
+```
 
 ###  Tipos de Datos Primitivos en Java   
 
@@ -36,23 +38,16 @@ Es un tipo de datos que representa a un carácter Unicode sencillo de 16 bits.
 
 ### Valores por defecto de los tipos de datos primitivos
 
-<table class="default">
+<table>
 
   <tr>
-
     <td>Dato Primitivo</td>
-
     <td>Valor por Defecto</td>
-
-
   </tr>
 
   <tr>
-
     <td>byte</td>
-
     <td>0</td>
-
   </tr>
 
 </table>
