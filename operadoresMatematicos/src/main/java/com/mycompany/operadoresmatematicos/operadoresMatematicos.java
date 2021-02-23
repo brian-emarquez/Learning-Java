@@ -33,7 +33,5 @@ public class operadoresMatematicos {
         System.out.println("La Multiplicacion es: "+ mult);
         System.out.println("La Division es: "+ div);
         System.out.println("El residuo es: "+ residuo);
-
-    }
-    
+    } 
 }
