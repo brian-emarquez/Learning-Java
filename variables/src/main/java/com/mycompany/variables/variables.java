@@ -26,9 +26,13 @@ public class variables {
         mordida = 126;
         System.out.println("Mordida="+ mordida);
         
-        short mordida;
-        mordida = 126;
-        System.out.println("Mordida="+ mordida);
+        short corto;
+        corto = 32000;
+        System.out.println("Corto="+ corto);
+        
+        int entero;
+        entero = 33000;
+        System.out.println("Entero="+ entero);
         
         
         

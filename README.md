@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
   
-  ![java](./images/java.jpg)
+  ![java](./images/mega.jpg)
 
 
 ## Tabla de contenidos
