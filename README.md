@@ -30,18 +30,18 @@
 |  001   |✔️ | [Que es java](#Que-es-java)   |  
 |  002   |✔️ | [Instalacion](#instalacion)  |
 |  003   |✔️ | [Hola Java](#Hola-Java)  |  
-|  003   |✔️ | [Variables](#variables)  |  
-|  004   |✔️ | [Variables-II](#Variables-II)  |  
-|  005   |✔️ | [Constantes](#Constantes)  |  
-|  002   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
-|  002   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
-|  002   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
-|  002   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
-|  002   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
-|  002   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
-|  002   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
-|  002   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
-|  002   |✔️ | [Condicionales](#Condicionales)  
+|  004   |✔️ | [Variables](#variables)  |  
+|  005   |✔️ | [Variables-II](#Variables-II)  |  
+|  006   |✔️ | [Constantes](#Constantes)  |  
+|  007   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
+|  008   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
+|  009   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
+|  010   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
+|  011  |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
+|  012   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
+|  013   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
+|  014   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
+|  015   |✔️ | [Condicionales](#Condicionales)  
 
 
 
