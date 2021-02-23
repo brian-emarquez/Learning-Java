@@ -8,7 +8,7 @@
     float 32 bits
     double 64 bits
     char 16 bits
-    bollean - i bits
+    boolean 1 bits
 ```
 
 ###  Tipos de Datos Primitivos en Java   
@@ -49,5 +49,46 @@ Es un tipo de datos que representa a un carácter Unicode sencillo de 16 bits.
     <td>byte</td>
     <td>0</td>
   </tr>
+
+   <tr>
+    <td>short</td>
+    <td>0</td>
+  </tr>
+
+  <tr>
+    <td>int</td>
+    <td>0</td>
+  </tr>
+
+   <tr>
+    <td>long</td>
+    <td>0L</td>
+  </tr>
+
+   <tr>
+    <td>float</td>
+    <td>0.0f</td>
+  </tr>
+
+  <tr>
+    <td>double</td>
+    <td>0.0d</td>
+  </tr>
+
+  <tr>
+    <td>char</td>
+    <td>‘u0000’</td>
+  </tr>
+
+  <tr>
+    <td>String</td>
+    <td>null</td>
+  </tr>
+
+   <tr>
+    <td>boolean</td>
+    <td>false</td>
+  </tr>
+  
 
 </table>
