@@ -27,30 +27,42 @@
 
 | Numeration   | Check  |Topic          |
 | ------------ |--------|-------------- |
-|  001   |✔️ | [Que es java](#Que-es-java)   |  
-|  002   |✔️ | [Instalacion](#instalacion)  |
-|  003   |✔️ | [Hola Java](#Hola-Java)  |  
-|  004   |✔️ | [Variables](#variables)  |  
-|  005   |✔️ | [Variables-II](#Variables-II)  |  
-|  006   |✔️ | [Constantes](#Constantes)  |  
-|  007   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
-|  008   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
-|  009   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
-|  010   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
-|  011  |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
-|  012   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
-|  013   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
-|  014   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
-|  015   |✔️ | [Condicionales](#Condicionales)  
+|  001   |✔️ | [Que es java](#Que-es-java)   | 
+|  002   |✔️ | [James Gosling](#James-Gosling)   | 
+|  003   |✔️ | [Instalacion](#instalacion)  |
+|  004   |✔️ | [Hola Mundo](#Hola-Mundo)  |  
+|  005   |✔️ | [Variables](#variables)  |  
+|  006   |✔️ | [Variables-II](#Variables-II)  |  
+|  007   |✔️ | [Constantes](#Constantes)  |  
+|  008   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
+|  009   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
+|  010   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
+|  011   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
+|  012   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
+|  013   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
+|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
+|  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
+|  016   |✔️ | [Condicionales](#Condicionales)  
 
 
 ### Spring
-
-|  001  |✔️ | [Condicionales](#Condicionales)  
+| Numeration   | Check  |Topic          |
+| ------------ |--------|-------------- |
+|  001  |✔️ | [Spring](#Spring)   | 
 
 ## Ques es Java 
 
 La plataforma Java es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones, y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común. [Wikipedia](https://es.wikipedia.org/wiki/Plataforma_Java)<br>
+
+## James Gosling
+
+<p> James Gosling, OC (19 de mayo de 1955 cerca de Calgary, Alberta, Canadá) es un famoso científico de la computación conocido como el padre del lenguaje de programación Java. </p>
+
+![java](./images/james-gosling.jpg)
+
+<p> En 1977, Gosling se licenció en ciencias de la computación por la Universidad de Calgary. En 1983, se doctoró por la Universidad Carnegie Mellon, su tesis doctoral se tituló La manipulación algebraica de las limitaciones. Su director de tesis fue Raj Reddy. Mientras trabajaba para su doctorado, escribió una versión de Emacs (Gosling Emacs), y antes de unirse a Sun Microsystems, construyó una versión multi-procesador de Unix, así como varios compiladores y sistemas de correo.</p>
+
+[nighthacks.com](http://nighthacks.com/jag/bio/index.html)<br>
 
 ### Incluye
 
@@ -73,23 +85,51 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
   ![java](./images/ejemplo.png)
 
+### Las plataformas de lenguaje de programación Java
+
+_Hay cuatro plataformas del lenguaje de programación Java:_
+
+    Plataforma Java, Edición Estándar (Java SE)
+
+    Plataforma Java, Enterprise Edition (Java EE)
+
+    Plataforma Java, Micro Edition (Java ME)
+
+    Javafx
+
+* Java SE
+Cuando la mayoría de la gente piensa en el lenguaje de programación Java, piensan en la API de Java SE. La API de Java SE proporciona la funcionalidad principal del lenguaje de programación Java. Define todo, desde los tipos y objetos básicos del lenguaje de programación Java hasta las clases de alto nivel que se utilizan para redes, seguridad, acceso a bases de datos, desarrollo de interfaz gráfica de usuario (GUI) y análisis XML.
+
+Además de la API principal, la plataforma Java SE consta de una máquina virtual, herramientas de desarrollo, tecnologías de implementación y otras bibliotecas de clases y kits de herramientas comúnmente utilizados en aplicaciones de tecnología Java.
+
+* Java EE
+La plataforma Java EE se basa en la plataforma Java SE. La plataforma Java EE proporciona una API y un entorno de tiempo de ejecución para desarrollar y ejecutar aplicaciones de red seguras, escalables, fiables y de gran escalado.
+
+* Java ME
+La plataforma Java ME proporciona una API y una máquina virtual de espacio pequeño para ejecutar aplicaciones de lenguaje de programación Java en dispositivos pequeños, como teléfonos móviles. La API es un subconjunto de la API de Java SE, junto con bibliotecas de clases especiales útiles para el desarrollo de aplicaciones de dispositivos pequeños. Las aplicaciones Java ME son a menudo clientes de servicios de plataforma Java EE.
+
+* Javafx
+JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas mediante una API ligera de interfaz de usuario. Las aplicaciones JavaFX utilizan motores de medios y gráficos acelerados por hardware para aprovechar los clientes de mayor rendimiento y una apariencia moderna, así como API de alto nivel para conectarse a orígenes de datos en red. Las aplicaciones JavaFX pueden ser clientes de servicios de plataforma Java EE.
+
 ---
 ## Instalacion
 
-📦 [Instalar JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕
-📦 [Instalar Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans
-
+📦 [Instalador JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕ <br>
+📦 [Instalador Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans. <br>
+📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Intalador Visual Studio Code. <br>
+📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Intalador Eclipse Technology. <br>
+📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Intalador IntelliJ IDEA de jetbrains. <br>
 
  ![java](./images/Install.png)
 
 ---
 
 
-## Hola Java 
+## Hola Mundo
 
   | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Hola Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | 
+| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | 
 
 ---
 
@@ -327,7 +367,6 @@ public static void main(String[] args) {
 
 ## Spotify Music Java
 🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
->>>>>>> 2336d991cb1003a070c31f109b77b8ce440c1fa4
 
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
