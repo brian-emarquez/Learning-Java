@@ -27,21 +27,22 @@
 
 | Numeration   | Check  |Topic          |
 | ------------ |--------|-------------- |
-|  001   |✔️ | [Que es java](#Que-es-java)   |  
-|  002   |✔️ | [Instalacion](#instalacion)  |
-|  003   |✔️ | [Hola Java](#Hola-Java)  |  
-|  004   |✔️ | [Variables](#variables)  |  
-|  005   |✔️ | [Variables-II](#Variables-II)  |  
-|  006   |✔️ | [Constantes](#Constantes)  |  
-|  007   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
-|  008   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
-|  009   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
-|  010   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
-|  011  |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
-|  012   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
-|  013   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
-|  014   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
-|  015   |✔️ | [Condicionales](#Condicionales)  
+|  001   |✔️ | [Que es java](#Que-es-java)   | 
+|  002   |✔️ | [James Gosling](#James-Gosling)   | 
+|  003   |✔️ | [Instalacion](#instalacion)  |
+|  004   |✔️ | [Hola Mundo](#Hola-Mundo)  |  
+|  005   |✔️ | [Variables](#variables)  |  
+|  006   |✔️ | [Variables-II](#Variables-II)  |  
+|  007   |✔️ | [Constantes](#Constantes)  |  
+|  008   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
+|  009   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
+|  010   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
+|  011   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
+|  012   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
+|  013   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
+|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
+|  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
+|  016   |✔️ | [Condicionales](#Condicionales)  
 
 
 ### Spring
@@ -51,6 +52,16 @@
 ## Ques es Java 
 
 La plataforma Java es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones, y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común. [Wikipedia](https://es.wikipedia.org/wiki/Plataforma_Java)<br>
+
+## James Gosling
+
+<p> James Gosling, OC (19 de mayo de 1955 cerca de Calgary, Alberta, Canadá) es un famoso científico de la computación conocido como el padre del lenguaje de programación Java. </p>
+
+![java](./images/james-gosling.jpg)
+
+<p> En 1977, Gosling se licenció en ciencias de la computación por la Universidad de Calgary. En 1983, se doctoró por la Universidad Carnegie Mellon, su tesis doctoral se tituló La manipulación algebraica de las limitaciones. Su director de tesis fue Raj Reddy. Mientras trabajaba para su doctorado, escribió una versión de Emacs (Gosling Emacs), y antes de unirse a Sun Microsystems, construyó una versión multi-procesador de Unix, así como varios compiladores y sistemas de correo.</p>
+
+[nighthacks.com/](http://nighthacks.com/jag/bio/index.html)<br>
 
 ### Incluye
 
@@ -73,6 +84,7 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
   ![java](./images/ejemplo.png)
 
+### James Gosling
 ---
 ## Instalacion
 
@@ -85,11 +97,11 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 ---
 
 
-## Hola Java 
+## Hola Mundo
 
   | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Hola Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | 
+| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | 
 
 ---
 
