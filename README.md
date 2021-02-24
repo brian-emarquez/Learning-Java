@@ -121,13 +121,13 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 ---
 ## Instalacion
 
+ ![java](./images/Install.png)
+
 📦 [Instalador JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕ <br>
 📦 [Instalador Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans. <br>
 📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Intalador Visual Studio Code. <br>
 📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Intalador Eclipse Technology. <br>
 📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Intalador IntelliJ IDEA de jetbrains. <br>
-
- ![java](./images/Install.png)
 
 ---
 
