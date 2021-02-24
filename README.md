@@ -114,11 +114,11 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 ---
 ## Instalacion
 
-📦 [Instalador JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕
-📦 [Instalador Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans.
-📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Intalador Visual Studio Code.
-📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Intalador Eclipse Technology.
-📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Intalador IntelliJ IDEA de jetbrains.
+📦 [Instalador JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕ <br>
+📦 [Instalador Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans. <br>
+📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Intalador Visual Studio Code. <br>
+📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Intalador Eclipse Technology. <br>
+📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Intalador IntelliJ IDEA de jetbrains. <br>
 
  ![java](./images/Install.png)
 
@@ -367,7 +367,6 @@ public static void main(String[] args) {
 
 ## Spotify Music Java
 🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
->>>>>>> 2336d991cb1003a070c31f109b77b8ce440c1fa4
 
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
