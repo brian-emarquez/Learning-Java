@@ -15,6 +15,13 @@ public class arreglos {
      */
     public static void main(String[] args) {
         // Arreglos
+        // Un arreglopuede dinirse como un grupo o un coleccion finita, homogenia y ordenas de elemtos
+                           // 0,1,2,3,4
+        int []listaNUmeros = {5,6,1,4,9};
+        for (int i= 0; i<4; i++){
+            System.out.println(listaNUmeros[i]);
+        }
+        
     }
     
 }
