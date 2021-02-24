@@ -50,6 +50,7 @@
 |  021   |✔️ | [Ciclo While](#Ciclo-While)  | 
 |  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | 
 |  023   |✔️ | [Ciclo For](#Ciclo-For)  | 
+|  023   |✔️ | [Arreglos](#Ciclo-For)  | 
 
 ### Spring
 | Numeration   | Check  |Topic          |
@@ -435,7 +436,16 @@ Scanner entrada = new Scanner(System.in);
   | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [Ciclo For](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_For)          |      ✔️     |
+
 ---
+
+## Arreglos
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     |
+
+
 ## Spring
 
   ![Spring](./images/spring.png)
