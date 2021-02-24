@@ -85,13 +85,40 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
   ![java](./images/ejemplo.png)
 
-### James Gosling
+### Las plataformas de lenguaje de programación Java
+
+_Hay cuatro plataformas del lenguaje de programación Java:_
+
+    Plataforma Java, Edición Estándar (Java SE)
+
+    Plataforma Java, Enterprise Edition (Java EE)
+
+    Plataforma Java, Micro Edition (Java ME)
+
+    Javafx
+
+* Java SE
+Cuando la mayoría de la gente piensa en el lenguaje de programación Java, piensan en la API de Java SE. La API de Java SE proporciona la funcionalidad principal del lenguaje de programación Java. Define todo, desde los tipos y objetos básicos del lenguaje de programación Java hasta las clases de alto nivel que se utilizan para redes, seguridad, acceso a bases de datos, desarrollo de interfaz gráfica de usuario (GUI) y análisis XML.
+
+Además de la API principal, la plataforma Java SE consta de una máquina virtual, herramientas de desarrollo, tecnologías de implementación y otras bibliotecas de clases y kits de herramientas comúnmente utilizados en aplicaciones de tecnología Java.
+
+* Java EE
+La plataforma Java EE se basa en la plataforma Java SE. La plataforma Java EE proporciona una API y un entorno de tiempo de ejecución para desarrollar y ejecutar aplicaciones de red seguras, escalables, fiables y de gran escalado.
+
+* Java ME
+La plataforma Java ME proporciona una API y una máquina virtual de espacio pequeño para ejecutar aplicaciones de lenguaje de programación Java en dispositivos pequeños, como teléfonos móviles. La API es un subconjunto de la API de Java SE, junto con bibliotecas de clases especiales útiles para el desarrollo de aplicaciones de dispositivos pequeños. Las aplicaciones Java ME son a menudo clientes de servicios de plataforma Java EE.
+
+* Javafx
+JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas mediante una API ligera de interfaz de usuario. Las aplicaciones JavaFX utilizan motores de medios y gráficos acelerados por hardware para aprovechar los clientes de mayor rendimiento y una apariencia moderna, así como API de alto nivel para conectarse a orígenes de datos en red. Las aplicaciones JavaFX pueden ser clientes de servicios de plataforma Java EE.
+
 ---
 ## Instalacion
 
-📦 [Instalar JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕
-📦 [Instalar Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans
-
+📦 [Instalador JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕
+📦 [Instalador Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans.
+📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Intalador Visual Studio Code.
+📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Intalador Eclipse Technology.
+📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Intalador IntelliJ IDEA de jetbrains.
 
  ![java](./images/Install.png)
 
