@@ -40,10 +40,16 @@
 |  011   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
 |  012   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
 |  013   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
-|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)  
-|  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  
-|  016   |✔️ | [Condicionales](#Condicionales)  
-
+|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro) | 
+|  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  | 
+|  016   |✔️ | [Condicionales](#Condicionales)  | 
+|  017   |✔️ | [Condicionales](#Condicionales)  | 
+|  018   |✔️ | [Condicionales II](#Condicionales-II)  | 
+|  019   |✔️ | [Condicionales III](#Condicionales-III)  | 
+|  020   |✔️ | [Adivinar-numero-random](#adivinar-numero-random)  | 
+|  021   |✔️ | [Ciclo While](#Ciclo-While)  | 
+|  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | 
+|  023   |✔️ | [Ciclo For](#Ciclo-For)  | 
 
 ### Spring
 | Numeration   | Check  |Topic          |
@@ -345,6 +351,91 @@ public static void main(String[] args) {
 
 ---
 
+## Condicionales II
+
+```java
+Scanner entrada = new Scanner(System.in);
+        System.out.println("Sleccione una Opcion: \n1: Acceso\n2: Confguracion\n3: Ayuda");
+        int seleccione = entrada.nextInt();
+        switch(seleccione){
+            case 1: System.out.println("Seleccionaleste el Acceso");
+            break;
+            
+            case 2: System.out.println("Seleccionaleste Configuracion");
+            break;
+            
+            case 3: System.out.println("Seleccionaleste Ayuda");
+            break;
+            
+            default:
+            System.out.println("Opcion no Valida"); 
+            break;
+        }
+```
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Condicionales II](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_II_switch_case)          |      ✔️     |
+
+---
+
+## Condicionales III  
+
+```java
+Scanner entrada = new Scanner(System.in);
+        System.out.println("Escriba una opcion:\nacceso\nconfguracion\nayuda");
+        String seleccione = entrada.nextLine();
+        seleccione = seleccione.toLowerCase();
+        switch(seleccione){
+            case "acceso" :
+                   System.out.println("Seleccionaleste el acceso");
+            break;
+            
+            case "confguracion" :
+                System.out.println("Seleccionaleste configuracion");
+            break;
+            
+            case "ayuda":
+                System.out.println("Seleccionaleste ayuda");
+            break;
+            
+            default:
+            System.out.println("Opcion no Valida"); 
+            break;
+        }
+```
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     |
+
+---
+## Adivinar numero random
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Adivinar numero random](https://github.com/BrianMarquez3/Learning-Java/tree/main/adivinar_numero_random)          |      ✔️     |
+
+---
+
+## Ciclo While
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ciclo While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_While)          |      ✔️     |
+---
+## Ciclo Do While
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ciclo Do While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_doWhile)          |      ✔️     |
+---
+## Ciclo For
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ciclo For](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_For)          |      ✔️     |
+---
 ## Spring
 
   ![Spring](./images/spring.png)
