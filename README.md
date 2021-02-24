@@ -441,6 +441,8 @@ Scanner entrada = new Scanner(System.in);
 
 ## Arreglos
 
+<P> Un array (arreglo) en Java es una estructura de datos que nos permite almacenar un conjunto de datos de un mismo tipo. El tamaño de los arrays se declara en un primer momento y no puede cambiar luego durante la ejecución del programa, como sí puede hacerse en otros lenguajes.</P>
+
   | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     |
