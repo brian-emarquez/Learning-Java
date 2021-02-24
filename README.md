@@ -50,7 +50,7 @@
 |  021   |✔️ | [Ciclo While](#Ciclo-While)  | 
 |  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | 
 |  023   |✔️ | [Ciclo For](#Ciclo-For)  | 
-|  023   |✔️ | [Arreglos](#Ciclo-For)  | 
+|  024   |✔️ | [Arreglos](#Ciclo-For)  | 
 
 ### Spring
 | Numeration   | Check  |Topic          |
