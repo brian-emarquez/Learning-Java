@@ -46,8 +46,9 @@
 
 
 ### Spring
-
-|  001  |✔️ | [Condicionales](#Condicionales)  
+| Numeration   | Check  |Topic          |
+| ------------ |--------|-------------- |
+|  001  |✔️ | [Condicionales](#Condicionales)   | 
 
 ## Ques es Java 
 
@@ -61,7 +62,7 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
 <p> En 1977, Gosling se licenció en ciencias de la computación por la Universidad de Calgary. En 1983, se doctoró por la Universidad Carnegie Mellon, su tesis doctoral se tituló La manipulación algebraica de las limitaciones. Su director de tesis fue Raj Reddy. Mientras trabajaba para su doctorado, escribió una versión de Emacs (Gosling Emacs), y antes de unirse a Sun Microsystems, construyó una versión multi-procesador de Unix, así como varios compiladores y sistemas de correo.</p>
 
-[nighthacks.com/](http://nighthacks.com/jag/bio/index.html)<br>
+[nighthacks.com](http://nighthacks.com/jag/bio/index.html)<br>
 
 ### Incluye
 
