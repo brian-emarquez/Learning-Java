@@ -17,7 +17,7 @@ public class condicionales_anidadas {
     public static void main(String[] args) {
         // condicionales_anidadas
         Scanner entra = new Scanner (System.in);
-        System.out.println("Escribe un numero de 1 y 9999 ");
+        System.out.println("Escribe un numero de 1 y 999 ");
         int num = entra.nextInt();
         if(num>0 && num <10) {
             System.out.println("el numero es de unidad ");
@@ -26,7 +26,7 @@ public class condicionales_anidadas {
             System.out.println("El numero es una decena ");
             }else{
                 if(num>=100 && num<1000){
-                System.out.println("el numero es de unidad de miles");
+                System.out.println("el numero es de unidad de cientos");
                 }
             }
         }
