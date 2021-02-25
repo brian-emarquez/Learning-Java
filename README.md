@@ -173,7 +173,6 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 Observa el siguiente código:
 
 ```diff
-+ import type { pluginsGlobal } from '@nativescript-community/capacitor-plugins/src/interfaces';
 
   /*
  * To change this license header, choose License Headers in Project Properties.
@@ -189,8 +188,8 @@ Observa el siguiente código:
  /**
      * @param args the command line arguments
      */
-    + public static void main(String[] args) {
-        - // ordenamiento_burbuja
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
 }
  
 ```
