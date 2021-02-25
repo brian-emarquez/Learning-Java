@@ -140,10 +140,11 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
 ## Hola Mundo
 
-  | Carpeta                    | Link |     Home   |  
-|----------------------------|:-----------:|:-----------:|
-| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) 
+  | Carpeta                    | Link |     Home   |  Code | Version | Year |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | <a href="input id="date" type="date">"> |
 
+ <a href="input id="date" type="date">">
 ---
 
 ## Variables
