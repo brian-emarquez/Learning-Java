@@ -190,7 +190,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
 <strong>1. byte</strong>
 
-  <h3>Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127.</h3>
+  Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127.
 ---
 <strong2. >short</strong>
 
