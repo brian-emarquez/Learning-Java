@@ -50,7 +50,13 @@
 |  021   |✔️ | [Ciclo While](#Ciclo-While)  | 
 |  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | 
 |  023   |✔️ | [Ciclo For](#Ciclo-For)  | 
-|  024   |✔️ | [Arreglos](#Ciclo-For)  | 
+|  023   |✔️ | [Ciclo foreach](#fCiclo-foreach)  | 
+|  024   |✔️ | [Escalera con For](#Escalera-con-For)  | 
+|  024   |✔️ | [Arreglos](#Arreglos)  | 
+|  024   |✔️ | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | 
+|  024   |✔️ | [Palindromos](#Palindromos)  | 
+|  024   |✔️ | [Ordenamientos Metodo de la Burbuja](#Ordenamiento-Metodo-de-la-Burbuja)  | 
+
 
 ### Spring
 | Numeration   | Check  |Topic          |
@@ -439,6 +445,20 @@ Scanner entrada = new Scanner(System.in);
 
 ---
 
+## Ciclo foreach
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     |
+
+---
+
+## Escalera con For
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Escalera con For](https://github.com/BrianMarquez3/Learning-Java/tree/main/escalera_conFor)    |      ✔️     |
+---
 ## Arreglos
 
 <P> Un array (arreglo) en Java es una estructura de datos que nos permite almacenar un conjunto de datos de un mismo tipo. El tamaño de los arrays se declara en un primer momento y no puede cambiar luego durante la ejecución del programa, como sí puede hacerse en otros lenguajes.</P>
@@ -447,7 +467,37 @@ Scanner entrada = new Scanner(System.in);
 |----------------------------|:-----------:|
 | [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     |
 
+---
+## Mezclar 2 Arreglos
 
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     |
+
+
+---
+
+## Palindromos
+
+<P>, también llamado palíndromo, palíndroma o palindroma, es una palabra o frase que se lee igual en un sentido que en otro (por ejemplo, Ana) </P>
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Palindromos](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos)          |      ✔️     |
+
+---
+
+## Ordenamientos Metodo de la Burbuja
+
+<P>  hace múltiples pasadas a lo largo de una lista. Compara los ítems adyacentes e intercambia los que no están en orden. Cada pasada a lo largo de la lista ubica el siguiente valor más grande en su lugar apropiado. En esencia, cada ítem “burbujea” hasta el lugar al que pertenece.</P>
+
+  ![Spring](./images/burbuja.png)
+
+  | Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ordenamientos Metodo de la Burbuja](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja)          |      ✔️     |
+
+---
 ## Spring Boot
 
   ![Spring](./images/spring.png)
