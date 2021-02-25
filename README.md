@@ -113,14 +113,15 @@ _Hay cuatro plataformas del lenguaje de programación Java:_
 * Java SE
 Cuando la mayoría de la gente piensa en el lenguaje de programación Java, piensan en la API de Java SE. La API de Java SE proporciona la funcionalidad principal del lenguaje de programación Java. Define todo, desde los tipos y objetos básicos del lenguaje de programación Java hasta las clases de alto nivel que se utilizan para redes, seguridad, acceso a bases de datos, desarrollo de interfaz gráfica de usuario (GUI) y análisis XML.
 
+-----
 Además de la API principal, la plataforma Java SE consta de una máquina virtual, herramientas de desarrollo, tecnologías de implementación y otras bibliotecas de clases y kits de herramientas comúnmente utilizados en aplicaciones de tecnología Java.
 
 * Java EE
 La plataforma Java EE se basa en la plataforma Java SE. La plataforma Java EE proporciona una API y un entorno de tiempo de ejecución para desarrollar y ejecutar aplicaciones de red seguras, escalables, fiables y de gran escalado.
-
+-----
 * Java ME
 La plataforma Java ME proporciona una API y una máquina virtual de espacio pequeño para ejecutar aplicaciones de lenguaje de programación Java en dispositivos pequeños, como teléfonos móviles. La API es un subconjunto de la API de Java SE, junto con bibliotecas de clases especiales útiles para el desarrollo de aplicaciones de dispositivos pequeños. Las aplicaciones Java ME son a menudo clientes de servicios de plataforma Java EE.
-
+-----
 * Javafx
 JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas mediante una API ligera de interfaz de usuario. Las aplicaciones JavaFX utilizan motores de medios y gráficos acelerados por hardware para aprovechar los clientes de mayor rendimiento y una apariencia moderna, así como API de alto nivel para conectarse a orígenes de datos en red. Las aplicaciones JavaFX pueden ser clientes de servicios de plataforma Java EE.
 
@@ -140,9 +141,9 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
 ## Hola Mundo
 
-  | Carpeta                    | Link |     Home   |  Code | Version | Year |
+  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | <a href="input id="date" type="date">"> |
+| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
  <a href="input id="date" type="date">">
 ---
@@ -167,27 +168,27 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 <strong>1. byte</strong>
 
   Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127 (ambos inclusive).
-
+----
 <strong2. >short</strong>
 
   Representa un tipo de dato de 16 bits con signo. De esta manera almacena valores numéricos de -32.768 a 32.767.
-
+----
 <strong>3. int </strong>
 
   Es un tipo de dato de 32 bits con signo para almacenar valores numéricos. Cuyo valor mínimo es -2^31 y el valor máximo 2^31-1.
-
+----
 <strong>4. float </strong>
-
+----
   Es un tipo dato para almacenar números en coma flotante con precisión simple de 32 bits.
 
 <strong>5. double </strong>
 
   Es un tipo de dato para almacenar números en coma flotante con doble precisión de 64 bits.
-
+----
 <strong>6. boolean </strong>
 
   Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true o false. Ocupa 1 bit de información.
-
+----
 <strong>7. char </strong>
   Es un tipo de datos que representa a un carácter Unicode sencillo de 16 bits.
 
