@@ -332,8 +332,8 @@ Look at the following code:
 
 ## Variables-II
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Variables II Datos Envoltorio](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables_II_Datos_Envoltorio)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
