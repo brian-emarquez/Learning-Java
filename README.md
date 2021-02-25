@@ -110,10 +110,32 @@ _Hay cuatro plataformas del lenguaje de programación Java:_
 
     Javafx
 
+```bash
+######################
+### java ###
+######################
+
+Java [1]
+|
+| Java SE [2]
+|   |
+|   | Java EE [3]
+|   |   |
+|   |   | Java ME [4]
+|   |   |  |
+|   |   |  |  Java Fx [5]
+|   |   |  |   |_ _ _ _ _
+|   |   |  |_ _ _ _ _ _         
+|   |   |_ _ _ _ _     |        
+|   |_ _ _ _ _    |    |         
+|             |   |    |         
+Edición  Enterprise  Teléfonos
+Estándar   Edition    móviles
+
 * Java SE
 Cuando la mayoría de la gente piensa en el lenguaje de programación Java, piensan en la API de Java SE. La API de Java SE proporciona la funcionalidad principal del lenguaje de programación Java. Define todo, desde los tipos y objetos básicos del lenguaje de programación Java hasta las clases de alto nivel que se utilizan para redes, seguridad, acceso a bases de datos, desarrollo de interfaz gráfica de usuario (GUI) y análisis XML.
 
-  Además de la API principal, la plataforma Java SE consta de una máquina virtual, herramientas de desarrollo, tecnologías de implementación y otras bibliotecas de clases y kits de herramientas comúnmente utilizados en aplicaciones de tecnología Java.
+     Además de la API principal, la plataforma Java SE consta de una máquina virtual, herramientas de desarrollo, tecnologías de        implementación y otras bibliotecas de clases y kits de herramientas comúnmente utilizados en aplicaciones de tecnología Java.
 -----
 * Java EE
 La plataforma Java EE se basa en la plataforma Java SE. La plataforma Java EE proporciona una API y un entorno de tiempo de ejecución para desarrollar y ejecutar aplicaciones de red seguras, escalables, fiables y de gran escalado.
