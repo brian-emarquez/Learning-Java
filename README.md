@@ -188,31 +188,32 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
 ###  Tipos de Datos Primitivos en Java   
 
-<strong>1. byte</strong>
-
+1. byte
+---
   Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127.
----
-<strong2. >short</strong>
 
+2. >short
+---
   Representa un tipo de dato de 16 bits con signo. De esta manera almacena valores numéricos de -32.768 a 32.767.
----
-<strong>3. int </strong>
 
-  Es un tipo de dato de 32 bits con signo para almacenar valores numéricos. Cuyo valor mínimo es -2^31 y el valor máximo 2^31-1.
+3. int 
 ---
-<strong>4. float </strong>
+  Es un tipo de dato de 32 bits con signo para almacenar valores numéricos. Cuyo valor mínimo es -2^31 y el valor máximo 2^31-1.
+
+4. float
 ---
   Es un tipo dato para almacenar números en coma flotante con precisión simple de 32 bits.
 
-<strong>5. double </strong>
-
+5. double 
+---
   Es un tipo de dato para almacenar números en coma flotante con doble precisión de 64 bits.
----
-<strong>6. boolean </strong>
 
-  Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true o false. Ocupa 1 bit de información.
+6. boolean 
 ---
-<strong>7. char </strong>
+  Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true o false. Ocupa 1 bit de información.
+
+7. char 
+---
   Es un tipo de datos que representa a un carácter Unicode sencillo de 16 bits.
 
 ### Valores por defecto de los tipos de datos primitivos
