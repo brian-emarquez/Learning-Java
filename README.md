@@ -332,25 +332,97 @@ Look at the following code:
 
 ## Variables-II
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Variables II Datos Envoltorio](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables_II_Datos_Envoltorio)          |      ✔️     | 
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Variables II Datos Envoltorio](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables_II_Datos_Envoltorio)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Constantes
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Constantes](https://github.com/BrianMarquez3/Learnig-Java/tree/main/contantes)          |      ✔️     | 
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Constantes](https://github.com/BrianMarquez3/Learnig-Java/tree/main/contantes)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Ingresar Datos Consola
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Ingresar Datos Consola ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosConsola)          |      ✔️     | 
+  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ingresar Datos Consola ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosConsola)          |      ✔️     |  ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
