@@ -29,6 +29,7 @@ public class palidromos {
             letrasInv[i] = texto.toLowerCase().charAt(inverso-1);
             inverso--;
             letras[i]=texto.toLowerCase().charAt(i);
+            
             if (letrasInv[i] != letras[i]){
                 igual= false;
                 break;
