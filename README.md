@@ -115,22 +115,23 @@ _Hay cuatro plataformas del lenguaje de programación Java:_
 ### java ###
 ######################
 
-Java [1]
+Java SE [1]
 |
-| Java SE [2]
+| Java EE [2]
 |   |
-|   | Java EE [3]
+|   | Java ME [3]
 |   |   |
-|   |   | Java ME [4]
+|   |   | Java FX [4]
 |   |   |  |
-|   |   |  |  Java Fx [5]
-|   |   |  |   |_ _ _ _ _
-|   |   |  |_ _ _ _ _ _         
-|   |   |_ _ _ _ _     |        
-|   |_ _ _ _ _    |    |         
-|             |   |    |         
-Edición  Enterprise  Teléfonos
-Estándar   Edition    móviles
+|   |   |  |  
+|   |   |  |   
+|   |   |  |_ _ _ _ _ _ _ _ _ _        
+|   |   |_ _ _ _ _ _ _ _       |        
+|   |_ _ _ _ _          |      |         
+|             |         |      |         
+Edición  Enterprise   Java 
+Estándar   Edition    Micro 
+                     Edition
 
 ```
 
