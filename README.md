@@ -172,7 +172,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
 Observa el siguiente código:
 
-```java
+```diff
 + import type { pluginsGlobal } from '@nativescript-community/capacitor-plugins/src/interfaces';
 
   /*
