@@ -526,3 +526,6 @@ Scanner entrada = new Scanner(System.in);
 
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+## License 
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
