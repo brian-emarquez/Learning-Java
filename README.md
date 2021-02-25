@@ -112,7 +112,7 @@ _Hay cuatro plataformas del lenguaje de programación Java:_
 
 ```bash
 ######################
-### java ###
+### Grafico ###
 ######################
 
 Java SE [1]
@@ -134,6 +134,7 @@ Estándar   Edition    Micro
                      Edition
 
 ```
+### Plataformas
 
 * Java SE
 Cuando la mayoría de la gente piensa en el lenguaje de programación Java, piensan en la API de Java SE. La API de Java SE proporciona la funcionalidad principal del lenguaje de programación Java. Define todo, desde los tipos y objetos básicos del lenguaje de programación Java hasta las clases de alto nivel que se utilizan para redes, seguridad, acceso a bases de datos, desarrollo de interfaz gráfica de usuario (GUI) y análisis XML.
@@ -169,20 +170,29 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Replace the following code:
+Observa el siguiente código:
 
-```diff
+```java
 + import type { pluginsGlobal } from '@nativescript-community/capacitor-plugins/src/interfaces';
 
-  declare module '@nativescript/capacitor' {
-    export interface customNativeAPI extends nativeCustom {}
-  }
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
   /**
-   * Define your own custom strongly typed native helpers here.
-   */
-- export interface nativeCustom {
-+ export interface nativeCustom extends pluginsGlobal {
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
+    + public static void main(String[] args) {
+        - // ordenamiento_burbuja
+}
+ 
 ```
 
 ---
