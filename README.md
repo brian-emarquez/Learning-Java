@@ -300,9 +300,33 @@ Look at the following code:
   </tr>
   
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Variables I Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     | 
+  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Variables I Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
