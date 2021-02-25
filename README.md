@@ -132,6 +132,8 @@ Java [1]
 Edición  Enterprise  Teléfonos
 Estándar   Edition    móviles
 
+```
+
 * Java SE
 Cuando la mayoría de la gente piensa en el lenguaje de programación Java, piensan en la API de Java SE. La API de Java SE proporciona la funcionalidad principal del lenguaje de programación Java. Define todo, desde los tipos y objetos básicos del lenguaje de programación Java hasta las clases de alto nivel que se utilizan para redes, seguridad, acceso a bases de datos, desarrollo de interfaz gráfica de usuario (GUI) y análisis XML.
 
