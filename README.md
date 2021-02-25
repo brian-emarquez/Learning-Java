@@ -144,7 +144,6 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
- <a href="input id="date" type="date">">
 ---
 
 ## Variables
@@ -166,7 +165,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
 <strong>1. byte</strong>
 
-  Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127 (ambos inclusive).
+  <h3> Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127. </h3>
 ----
 <strong2. >short</strong>
 
