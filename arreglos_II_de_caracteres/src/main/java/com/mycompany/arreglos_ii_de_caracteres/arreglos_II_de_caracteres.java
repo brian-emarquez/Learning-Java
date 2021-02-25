@@ -18,16 +18,17 @@ public class arreglos_II_de_caracteres {
      */
     public static void main(String[] args) {
         // arreglos_II_de_caracteres
-        String texto = JOptionPane.showInputDialog("Ingresa un texto: ");
-        int longitud = texto.length();
+        String texto = JOptionPane.showInputDialog("Ingresa un texto: "); // Ingrese por pantalla
+        int longitud = texto.length(); // tamaño de texto
         char []caracteres = new char [longitud]; // cadenas
         int inverso=longitud;
+        
         for(int i=0; i<longitud; i++)
         {
             caracteres[i] = texto.charAt(inverso-1);
             inverso--;
         }
         System.out.println(caracteres);
-    }
+    }  
     
 }
