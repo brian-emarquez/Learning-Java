@@ -170,7 +170,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Observa el siguiente código:
+Look at the following code:
 
 ```diff
 
