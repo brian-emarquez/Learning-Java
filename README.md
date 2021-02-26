@@ -428,57 +428,225 @@ Look at the following code:
 
 ## Ingresar Dato ViaShow InputDialog
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Ingresar Dato ViaShow InputDialog ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosViaShowInputDialog)          |      ✔️     | 
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ingresar Dato ViaShow InputDialog ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosViaShowInputDialog)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Operadores Matematicos
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Operadores Matematicos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicos)          |      ✔️     |
+  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores Matematicos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicos)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Operadores Matematicos Cortos
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Operadores Matematicos Cortos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicosCortos)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores Matematicos Cortos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicosCortos)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Operador Incremental Decremental
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Operador Incremental Decremental ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadorIncrementalDecremental)          |      ✔️     |
+  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operador Incremental Decremental ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadorIncrementalDecremental)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Operaciones Matematicas Math
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Operaciones Matematicas Math ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operacionesMatematicasMath)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operaciones Matematicas Math ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operacionesMatematicasMath)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Calcular volumen de un cilindro
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Calcular volumen de un cilindro ](https://github.com/BrianMarquez3/Learning-Java/tree/main/calcularvolumendeuncilindro)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Calcular volumen de un cilindro ](https://github.com/BrianMarquez3/Learning-Java/tree/main/calcularvolumendeuncilindro)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Manejo de Fechas
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Manejo de fechas ](https://github.com/BrianMarquez3/Learning-Java/tree/main/fechas)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Manejo de fechas ](https://github.com/BrianMarquez3/Learning-Java/tree/main/fechas)          |      ✔️     |  ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
@@ -503,9 +671,33 @@ public static void main(String[] args) {
     }
 ```
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Condicionales](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales)          |      ✔️     |
+  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Condicionales](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
@@ -531,9 +723,33 @@ Scanner entrada = new Scanner(System.in);
         }
 ```
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Condicionales II](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_II_switch_case)          |      ✔️     |
+  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Condicionales II](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_II_switch_case)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
@@ -563,35 +779,131 @@ Scanner entrada = new Scanner(System.in);
         }
 ```
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 ## Adivinar numero random
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Adivinar numero random](https://github.com/BrianMarquez3/Learning-Java/tree/main/adivinar_numero_random)          |      ✔️     |
+  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Adivinar numero random](https://github.com/BrianMarquez3/Learning-Java/tree/main/adivinar_numero_random)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
 ## Ciclo While
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Ciclo While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_While)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ciclo While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_While)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 ---
 ## Ciclo Do While
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Ciclo Do While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_doWhile)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ciclo Do While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_doWhile)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 ---
 ## Ciclo For
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo For](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_For)          |      ✔️     |
 
 ---
@@ -599,24 +911,72 @@ Scanner entrada = new Scanner(System.in);
 ## Ciclo foreach
 
   | Carpeta                    | Link |     
-|----------------------------|:-----------:|
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     |
 
 ---
 
 ## Escalera con For
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Escalera con For](https://github.com/BrianMarquez3/Learning-Java/tree/main/escalera_conFor)    |      ✔️     |
+  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Escalera con For](https://github.com/BrianMarquez3/Learning-Java/tree/main/escalera_conFor)    |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 ---
 ## Arreglos
 
 <P> Un array (arreglo) en Java es una estructura de datos que nos permite almacenar un conjunto de datos de un mismo tipo. El tamaño de los arrays se declara en un primer momento y no puede cambiar luego durante la ejecución del programa, como sí puede hacerse en otros lenguajes.</P>
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     |
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 ## Mezclar 2 Arreglos
