@@ -910,9 +910,33 @@ Look at the following code:
 
 ## Ciclo foreach
 
-  | Carpeta                    | Link |     
+  | Carpeta                    | Link |   Home   |  Code | Version | Estado | 
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     |
+| [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 
