@@ -981,9 +981,33 @@ Look at the following code:
 ---
 ## Mezclar 2 Arreglos
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     |
+  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 
 ---
@@ -992,9 +1016,34 @@ Look at the following code:
 
 <P>, también llamado palíndromo, palíndroma o palindroma, es una palabra o frase que se lee igual en un sentido que en otro (por ejemplo, Ana) </P>
 
-  | Carpeta                    | Link |     
+  | Carpeta                    | Link |     Home   |  Code | Version | Estado | 
 |----------------------------|:-----------:|
-| [Palindromos](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos)          |      ✔️     |
+| [Palindromos](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
+
 
 ---
 
@@ -1004,9 +1053,33 @@ Look at the following code:
 
   ![Spring](./images/burbuja.png)
 
-  | Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Ordenamientos Metodo de la Burbuja](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja)          |      ✔️     |
+  | Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ordenamientos Metodo de la Burbuja](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
 
 ---
 ## Spring Boot
