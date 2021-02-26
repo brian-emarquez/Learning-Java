@@ -31,7 +31,7 @@
 |  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      |  |  |
 |  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:  |  |  |
 |  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       |
-|  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+|  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)
 |  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:       |
 |  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       |
 |  007   |:heavy_check_mark: | [Constantes](#Constantes)  |  :hourglass:       |
