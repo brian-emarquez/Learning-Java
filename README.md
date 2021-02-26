@@ -22,12 +22,13 @@
   
   ![java](./images/mega.jpg)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tabla de contenidos
 
 | Numeration   | Check  |Topic          | Quantization| Quantization|
 | ------------ |--------|-------------- |-------------- |-------------- |
-|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snakers4/silero-models/blob/master/examples.ipynb) |
+|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) |
 |  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:       |
 |  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       |
 |  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       |
