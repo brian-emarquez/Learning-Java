@@ -28,7 +28,7 @@
 
 | Numeration   | Check  |Topic          |   Quantization   |    Visual Studio Code   |    Downloads    |
 | ------------ |--------|-------------- |----------------- |------------------------ |---------------- |
-|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [![made-fo3r-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) |  |
+|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) | KJKJDHS |
 |  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:       |
 |  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       |
 |  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       |
