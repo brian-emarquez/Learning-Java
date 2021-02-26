@@ -26,9 +26,9 @@
 
 ## Tabla de contenidos
 
-| Numeration   | Check  |Topic          | Quantization| Quantization|
-| ------------ |--------|-------------- |-------------- |-------------- |
-|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) |
+| Numeration   | Check  |Topic          |   Quantization   |    Visual Studio Code   |    Downloads    |
+| ------------ |--------|-------------- |----------------- |------------------------ |---------------- |
+|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) |https://vsmarketplacebadge.apphb.com/downloads/Installs.svg|
 |  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:       |
 |  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       |
 |  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       |
