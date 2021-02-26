@@ -28,10 +28,10 @@
 
 | Numeration   | Check  |Topic          |   Quantization   |    Visual Studio Code   |    Downloads    |
 | ------------ |--------|-------------- |----------------- |------------------------ |---------------- |
-|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) | KJKJDHS |
+|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) |
 |  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:       |
 |  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       |
-|  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       |
+|  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 |  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:       |
 |  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       |
 |  007   |:heavy_check_mark: | [Constantes](#Constantes)  |  :hourglass:       |
