@@ -1005,6 +1005,34 @@ Look at the following code:
 ---
 ## Mezclar 2 Arreglos
 
+```java
+
+ public static void main(String[] args) {
+        // mezclar2Arreglos
+          int a[]=new int[5];
+          int b[]=new int[5];
+          int c[]=new int[10];
+          
+        for(int i=0;i<5;i++){
+            a[i]= Integer.parseInt(JOptionPane.showInputDialog("Ingresa el valor "+ (i+1)+" del arreglo a"));
+        }
+        for(int i=0;i<5;i++){
+            b[i]= Integer.parseInt(JOptionPane.showInputDialog("Ingresa el valor "+ (i+1)+" del arreglo b"));
+        }
+        
+        int j=0;
+        for(int i=0;i<5;i++){
+            c[j]=a[i];
+            j++;
+            c[j]=b[i];
+            j++;
+        }
+        for(int elemento:c){
+            System.out.println(elemento);
+    }
+    
+```
+
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
