@@ -25,9 +25,9 @@
 
 ## Tabla de contenidos
 
-| Numeration   | Check  |Topic          | Quantization|
-| ------------ |--------|-------------- |-------------- |
-|  001   |✔️ | [Que es java](#Que-es-java)   |  ⌛      |
+| Numeration   | Check  |Topic          | Quantization| Quantization|
+| ------------ |--------|-------------- |-------------- |-------------- |
+|  001   |✔️ | [Que es java](#Que-es-java)   |  ⌛      | [![Open on Torch Hub](https://img.shields.io/badge/Torch-Hub-red?logo=pytorch&style=for-the-badge)](https://pytorch.org/hub/snakers4_silero-models_stt/) [![Open on TF Hub](https://img.shields.io/badge/TF-Hub-yellow?logo=tensorflow&style=for-the-badge)](https://tfhub.dev/silero/collections/silero-stt/1)
 |  002   |✔️ | [James Gosling](#James-Gosling)   | ⌛      |
 |  003   |✔️ | [Instalacion](#instalacion)  |⌛      |
 |  004   |✔️ | [Hola Mundo](#Hola-Mundo)  |  ⌛      |
