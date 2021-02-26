@@ -27,7 +27,7 @@
 
 | Numeration   | Check  |Topic          | Quantization| Quantization|
 | ------------ |--------|-------------- |-------------- |-------------- |
-|  001   |✔️ | [Que es java](#Que-es-java)   |  ⌛      | [link](https://github.com/snakers4/silero-models/wiki/Quality-Benchmarks#en-v2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snakers4/silero-models/blob/master/examples.ipynb) |
+|  001   |✔️ | [Que es java](#Que-es-java)   | :hourglass:      | [link](https://github.com/snakers4/silero-models/wiki/Quality-Benchmarks#en-v2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snakers4/silero-models/blob/master/examples.ipynb) |
 |  002   |✔️ | [James Gosling](#James-Gosling)   | ⌛      |
 |  003   |✔️ | [Instalacion](#instalacion)  |⌛      |
 |  004   |✔️ | [Hola Mundo](#Hola-Mundo)  |  ⌛      |
