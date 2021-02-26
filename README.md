@@ -28,9 +28,9 @@
 
 | Numeration   | Check  |Topic          |   Quantization   |    Visual Studio Code   |    Downloads    |
 | ------------ |--------|-------------- |----------------- |------------------------ |---------------- |
-|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      |  |  |
-|  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:  |  |  |
-|  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       |
+|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | - | - |
+|  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:  | - | - |
+|  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       | -  | - |
 |  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)
 |  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:       | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)
 |  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)
