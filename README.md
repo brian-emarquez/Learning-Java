@@ -27,35 +27,34 @@
 
 | Numeration   | Check  |Topic          | Quantization| Quantization|
 | ------------ |--------|-------------- |-------------- |-------------- |
-|  001   |✔️ | [Que es java](#Que-es-java)   | :hourglass:      | [link](https://github.com/snakers4/silero-models/wiki/Quality-Benchmarks#en-v2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snakers4/silero-models/blob/master/examples.ipynb) |
-|  002   |✔️ | [James Gosling](#James-Gosling)   | ⌛      |
-|  003   |✔️ | [Instalacion](#instalacion)  |⌛      |
-|  004   |✔️ | [Hola Mundo](#Hola-Mundo)  |  ⌛      |
-|  005   |✔️ | [Variables](#variables)  |  ⌛      |
-|  006   |✔️ | [Variables-II](#Variables-II)  |  ⌛      |
-|  007   |✔️ | [Constantes](#Constantes)  |  ⌛      |
-|  008   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |⌛      |  
-|  009   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  ⌛      |
-|  010   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  ⌛      |
-|  011   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  | ⌛      | 
-|  012   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |   ⌛      | 
-|  013   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | ⌛      |
-|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro) |⌛      | 
-|  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  | ⌛      |
-|  016   |✔️ | [Condicionales](#Condicionales)  | ⌛      |
-|  017   |✔️ | [Condicionales](#Condicionales)  | ⌛      |
-|  018   |✔️ | [Condicionales II](#Condicionales-II)  | ⌛      |
-|  019   |✔️ | [Condicionales III](#Condicionales-III)  | ⌛      |
-|  020   |✔️ | [Adivinar-numero-random](#adivinar-numero-random)  | ⌛      |
-|  021   |✔️ | [Ciclo While](#Ciclo-While)  | ⌛      |
-|  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | ⌛      |
-|  023   |✔️ | [Ciclo For](#Ciclo-For)  | ⌛      |
-|  024  |✔️ | [Ciclo foreach](#fCiclo-foreach)  | ⌛      |
-|  025   |✔️ | [Escalera con For](#Escalera-con-For)  | ⌛      |
-|  026   |✔️ | [Arreglos](#Arreglos)  | ⌛      |
-|  027   |✔️ | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | ⌛      |
-|  028  |✔️ | [Palindromos](#Palindromos)  | ⌛      |
-|  029   |✔️ | [Ordenamientos Metodo de la Burbuja](#Ordenamiento-Metodo-de-la-Burbuja)  | ⌛      |
+|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:      | [link](https://github.com/snakers4/silero-models/wiki/Quality-Benchmarks#de-v1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snakers4/silero-models/blob/master/examples.ipynb) |
+|  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass:       |
+|  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       |
+|  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       |
+|  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:       |
+|  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       |
+|  007   |:heavy_check_mark: | [Constantes](#Constantes)  |  :hourglass:       |
+|  008   |:heavy_check_mark: | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |:hourglass:       |  
+|  009   |:heavy_check_mark: | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  :hourglass:       |
+|  010   |:heavy_check_mark: | [Operadores Matematicos](#Operadores-Matematicos)  |  :hourglass:       |
+|  011   |:heavy_check_mark: | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |:hourglass:       | 
+|  012   |:heavy_check_mark: | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |   :hourglass:       | 
+|  013   |:heavy_check_mark: | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | :hourglass:       |
+|  014   |:heavy_check_mark: | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro) |:hourglass:       | 
+|  015   |:heavy_check_mark: | [Manejo de Fechas](#Manejo-de-Fechas)  | :hourglass:       |
+|  016   |:heavy_check_mark: | [Condicionales](#Condicionales)  | :hourglass:       |
+|  017   |:heavy_check_mark: | [Condicionales](#Condicionales)  | :hourglass:       |
+|  019   |:heavy_check_mark: | [Condicionales III](#Condicionales-III)  | :hourglass:       |
+|  020   |:heavy_check_mark: | [Adivinar-numero-random](#adivinar-numero-random)  | :hourglass:       |
+|  021   |:heavy_check_mark: | [Ciclo While](#Ciclo-While)  | :hourglass:       |
+|  022   |:heavy_check_mark: | [Ciclo Do While](#Ciclo-Do-While)  | :hourglass:       |
+|  023   |:heavy_check_mark: | [Ciclo For](#Ciclo-For)  | :hourglass:       |
+|  024   |:heavy_check_mark: | [Ciclo foreach](#fCiclo-foreach)  | :hourglass:       |
+|  025   |:heavy_check_mark: | [Escalera con For](#Escalera-con-For)  | :hourglass:       |
+|  026   |:heavy_check_mark: | [Arreglos](#Arreglos)  | :hourglass:       |
+|  027   |:heavy_check_mark: | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | :hourglass:       |
+|  028   |:heavy_check_mark: | [Palindromos](#Palindromos)  | :hourglass:       |
+|  029   |:heavy_check_mark: | [Ordenamientos Metodo de la Burbuja](#Ordenamiento-Metodo-de-la-Burbuja)  | :hourglass:       |
 
 
 ### Spring
