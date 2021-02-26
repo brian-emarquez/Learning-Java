@@ -25,37 +25,37 @@
 
 ## Tabla de contenidos
 
-| Numeration   | Check  |Topic          |
-| ------------ |--------|-------------- |
-|  001   |✔️ | [Que es java](#Que-es-java)   | 
-|  002   |✔️ | [James Gosling](#James-Gosling)   | 
-|  003   |✔️ | [Instalacion](#instalacion)  |
-|  004   |✔️ | [Hola Mundo](#Hola-Mundo)  |  
-|  005   |✔️ | [Variables](#variables)  |  
-|  006   |✔️ | [Variables-II](#Variables-II)  |  
-|  007   |✔️ | [Constantes](#Constantes)  |  
-|  008   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |  
-|  009   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  
-|  010   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  
-|  011   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  |  
-|  012   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |    
-|  013   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | 
-|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro) | 
-|  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  | 
-|  016   |✔️ | [Condicionales](#Condicionales)  | 
-|  017   |✔️ | [Condicionales](#Condicionales)  | 
-|  018   |✔️ | [Condicionales II](#Condicionales-II)  | 
-|  019   |✔️ | [Condicionales III](#Condicionales-III)  | 
-|  020   |✔️ | [Adivinar-numero-random](#adivinar-numero-random)  | 
-|  021   |✔️ | [Ciclo While](#Ciclo-While)  | 
-|  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | 
-|  023   |✔️ | [Ciclo For](#Ciclo-For)  | 
-|  023   |✔️ | [Ciclo foreach](#fCiclo-foreach)  | 
-|  024   |✔️ | [Escalera con For](#Escalera-con-For)  | 
-|  024   |✔️ | [Arreglos](#Arreglos)  | 
-|  024   |✔️ | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | 
-|  024   |✔️ | [Palindromos](#Palindromos)  | 
-|  024   |✔️ | [Ordenamientos Metodo de la Burbuja](#Ordenamiento-Metodo-de-la-Burbuja)  | 
+| Numeration   | Check  |Topic          | Quantization|
+| ------------ |--------|-------------- |-------------- |
+|  001   |✔️ | [Que es java](#Que-es-java)   |  ⌛      |
+|  002   |✔️ | [James Gosling](#James-Gosling)   | ⌛      |
+|  003   |✔️ | [Instalacion](#instalacion)  |⌛      |
+|  004   |✔️ | [Hola Mundo](#Hola-Mundo)  |  ⌛      |
+|  005   |✔️ | [Variables](#variables)  |  ⌛      |
+|  006   |✔️ | [Variables-II](#Variables-II)  |  ⌛      |
+|  007   |✔️ | [Constantes](#Constantes)  |  ⌛      |
+|  008   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |⌛      |  
+|  009   |✔️ | [Ingresar Dato ViaShow InputDialog]⌛      |(#Ingresa-Dato-ViaShow-InputDialog)  |  ⌛      |
+|  010   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  ⌛      |
+|  011   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  | ⌛      | 
+|  012   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |   ⌛      | 
+|  013   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | ⌛      |
+|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)⌛      | | 
+|  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  | ⌛      |
+|  016   |✔️ | [Condicionales](#Condicionales)  | ⌛      |
+|  017   |✔️ | [Condicionales](#Condicionales)  | ⌛      |
+|  018   |✔️ | [Condicionales II](#Condicionales-II)  | ⌛      |
+|  019   |✔️ | [Condicionales III](#Condicionales-III)  | ⌛      |
+|  020   |✔️ | [Adivinar-numero-random](#adivinar-numero-random)  | ⌛      |
+|  021   |✔️ | [Ciclo While](#Ciclo-While)  | ⌛      |
+|  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | ⌛      |
+|  023   |✔️ | [Ciclo For](#Ciclo-For)  | ⌛      |
+|  023   |✔️ | [Ciclo foreach](#fCiclo-foreach)  | ⌛      |
+|  024   |✔️ | [Escalera con For](#Escalera-con-For)  | ⌛      |
+|  024   |✔️ | [Arreglos](#Arreglos)  | ⌛      |
+|  024   |✔️ | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | ⌛      |
+|  024   |✔️ | [Palindromos](#Palindromos)  | ⌛      |
+|  024   |✔️ | [Ordenamientos Metodo de la Burbuja](#Ordenamiento-Metodo-de-la-Burbuja)  | ⌛      |
 
 
 ### Spring
@@ -1030,7 +1030,7 @@ Look at the following code:
         for(int elemento:c){
             System.out.println(elemento);
     }
-    
+
 ```
 
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
