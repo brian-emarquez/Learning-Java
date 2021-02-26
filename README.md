@@ -59,9 +59,10 @@
 
 
 ### Spring
-| Numeration   | Check  |Topic          |
-| ------------ |--------|-------------- |
-|  001  |✔️ | [Spring Boot](#Spring)   | 
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  001  |:heavy_check_mark: | [Spring Boot](#Spring)   | | :hourglass:       | [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | ⬅️[Atras](https://github.com/BrianMarquez3) | 
 
 ## Ques es Java 
 
