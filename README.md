@@ -35,12 +35,12 @@
 |  006   |✔️ | [Variables-II](#Variables-II)  |  ⌛      |
 |  007   |✔️ | [Constantes](#Constantes)  |  ⌛      |
 |  008   |✔️ | [Ingresar Datos Consola](#Ingresar-Datos-Consola)  |⌛      |  
-|  009   |✔️ | [Ingresar Dato ViaShow InputDialog]⌛      |(#Ingresa-Dato-ViaShow-InputDialog)  |  ⌛      |
+|  009   |✔️ | [Ingresar Dato ViaShow InputDialog](#Ingresa-Dato-ViaShow-InputDialog)  |  ⌛      |
 |  010   |✔️ | [Operadores Matematicos](#Operadores-Matematicos)  |  ⌛      |
 |  011   |✔️ | [Operadores Matematicos Cortos](#operadores-Matematicos-Cortos)  | ⌛      | 
 |  012   |✔️ | [Operador Incremental Decremental](#Operador-Incremental-Decremental)  |   ⌛      | 
 |  013   |✔️ | [Operaciones Matematicas Math](#Operaciones-Matematicas-Math)  | ⌛      |
-|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro)⌛      | | 
+|  014   |✔️ | [Calcular volumen de un cilindro](#Calcular-volumen-de-un-cilindro) |⌛      | 
 |  015   |✔️ | [Manejo de Fechas](#Manejo-de-Fechas)  | ⌛      |
 |  016   |✔️ | [Condicionales](#Condicionales)  | ⌛      |
 |  017   |✔️ | [Condicionales](#Condicionales)  | ⌛      |
@@ -50,12 +50,12 @@
 |  021   |✔️ | [Ciclo While](#Ciclo-While)  | ⌛      |
 |  022   |✔️ | [Ciclo Do While](#Ciclo-Do-While)  | ⌛      |
 |  023   |✔️ | [Ciclo For](#Ciclo-For)  | ⌛      |
-|  023   |✔️ | [Ciclo foreach](#fCiclo-foreach)  | ⌛      |
-|  024   |✔️ | [Escalera con For](#Escalera-con-For)  | ⌛      |
-|  024   |✔️ | [Arreglos](#Arreglos)  | ⌛      |
-|  024   |✔️ | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | ⌛      |
-|  024   |✔️ | [Palindromos](#Palindromos)  | ⌛      |
-|  024   |✔️ | [Ordenamientos Metodo de la Burbuja](#Ordenamiento-Metodo-de-la-Burbuja)  | ⌛      |
+|  024  |✔️ | [Ciclo foreach](#fCiclo-foreach)  | ⌛      |
+|  025   |✔️ | [Escalera con For](#Escalera-con-For)  | ⌛      |
+|  026   |✔️ | [Arreglos](#Arreglos)  | ⌛      |
+|  027   |✔️ | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | ⌛      |
+|  028  |✔️ | [Palindromos](#Palindromos)  | ⌛      |
+|  029   |✔️ | [Ordenamientos Metodo de la Burbuja](#Ordenamiento-Metodo-de-la-Burbuja)  | ⌛      |
 
 
 ### Spring
