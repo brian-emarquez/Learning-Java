@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Java?color=darkred&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Java?style=for-the-badge">
 
-  ![java](./images/mega.jpg)
+  ![java](./images/mag.gif)
 
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
