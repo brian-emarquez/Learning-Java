@@ -12,8 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Learnig-Java/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learnig-Java.svg?style=flat" alt="Forks">
   </a>
-  <a href="https://github.com/BrianMarquez3/Learnig-Java/network">
-    <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Java?color=gren&label=Version&logo=java">
   </a>
    </a>
    <a href="https://github.com/BrianMarquez3/Learnig-Java/network">
@@ -21,8 +20,6 @@
   </a>
   
   ![java](./images/mega.jpg)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tabla de contenidos
