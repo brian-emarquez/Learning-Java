@@ -38,7 +38,7 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:     | - | - | ⬅️[Atras](https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass: | - | - | ⬅️[Atras](https://github.com/BrianMarquez3) | 
 |  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       | -  | - | ⬅️[Atras](https://github.com/BrianMarquez3) | 
 |  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | ⬅️[Atras](https://github.com/BrianMarquez3) |  ⬅️[Atras](https://github.com/BrianMarquez3) | 
