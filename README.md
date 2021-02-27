@@ -14,6 +14,16 @@
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Java?color=gren&label=Version&logo=java">
   </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Learning-Java">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Java/total?color=violet">
+  </a>
+  
+  
    </a>
    <a href="https://github.com/BrianMarquez3/Learnig-Java/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
