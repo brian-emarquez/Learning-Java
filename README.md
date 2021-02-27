@@ -28,11 +28,6 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
   
-  <p align="center">
-  </a>
-    <img src=" https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Java">
-  </a>
-
   ![java](./images/mega.jpg)
 
 
