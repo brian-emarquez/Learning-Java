@@ -27,6 +27,8 @@
    <a href="https://github.com/BrianMarquez3/Learnig-Java/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Java?style=for-the-badge">
   
   ![java](./images/mega.jpg)
 
