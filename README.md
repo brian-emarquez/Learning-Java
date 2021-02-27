@@ -3,8 +3,8 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Learnig-Java/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Learnig-Java.svg?label=version&style=flat" alt="Version">
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Java?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/Learnig-Java/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Learnig-Java.svg?style=flat" alt="Stars">
