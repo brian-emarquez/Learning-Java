@@ -37,7 +37,7 @@
 
 ## Tabla de contenidos
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
