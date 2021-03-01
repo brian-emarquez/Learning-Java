@@ -10,13 +10,15 @@ public class App {
         String numerosEnTexto[]=texto.split(",");
         int cantidad=numerosEnTexto.length;
 
-        int numeros[]=new int[cantidad],tem;
+        int numeros[]=new int[cantidad],tem, bandera=1;
         for(int i=0;i<cantidad;i++){
                     numeros[i]=Integer.parseInt( numerosEnTexto[i]);
         }
 
-        for(int i=0;i<(cantidad-1);i++){
+        for(int i=0;i<(cantidad-1) && bandera == 1 ;i++){
+            bandera =0;
             for(int j=0;j<(cantidad-1);j++){
+                bandera =1;
                 if(numeros[j]>numeros[j+1]){
                     tem=numeros[j];
                     numeros[j]=numeros[j+1];
