@@ -1,24 +1,12 @@
-
 import javax.swing.JOptionPane;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author brian
- */
-public class ordenamiento_burbuja {
-
+public class App {
     /**
      * @param args the command line arguments
      */
-       public static void main(String[] args) {
+    public static void main(String[] args) {
         //5,4,2,1,3
-        String texto=JOptionPane.showInputDialog("Ingresa numero divididos por coma");
+        String texto=JOptionPane.showInputDialog("Humano ingresa numero divididos por coma");
         String numerosEnTexto[]=texto.split(",");
         int cantidad=numerosEnTexto.length;
 
@@ -43,3 +31,4 @@ public class ordenamiento_burbuja {
         }
     }
 }
+
