@@ -1236,7 +1236,7 @@ Look at the following code:
 ## Spotify Play Java
 🎵 Music Play Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
 
-## Donacion Paypal
+## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ## License 
