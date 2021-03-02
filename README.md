@@ -1234,7 +1234,7 @@ Look at the following code:
 📦 [Spring Tools](https://spring.io/tools) Intalador de Spring Tools 🍃 <br>
 
 ## Spotify Play Java
-🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
+🎵 Music Play Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
 
 ## Donacion Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
