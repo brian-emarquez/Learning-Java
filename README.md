@@ -67,7 +67,8 @@
 |  027   |:heavy_check_mark: | [Mezclar 2 Arreglos](#Mezclar-2-Arreglos)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  028   |:heavy_check_mark: | [Palindromos](#Palindromos)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  030   |:heavy_check_mark: | [Ordenamientos Metodo de la Burbuja](#Ordenamientos-Metodo-de-la-Burbuja)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  031   |:heavy_check_mark: | [Ordenamientos Metodo de la Burbuja Mejorado](#Ordenamientos-Metodo-de-la-Burbuja-Mejorado)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamientos_burbujaMejorado) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamientos_burbujaMejorado) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  032   |:heavy_check_mark: | [Ordenamientos por Seleccion](#Ordenamientos-por-Seleccion)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ### Spring
 
@@ -180,7 +181,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -314,7 +315,7 @@ Look at the following code:
 
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Variables I Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Variables I Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -346,7 +347,7 @@ Look at the following code:
 
 | Carpeta                    | Link        |      Home   |  Code       | Version     | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Variables II Datos Envoltorio](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables_II_Datos_Envoltorio)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Variables II Datos Envoltorio](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables_II_Datos_Envoltorio)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -378,7 +379,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Constantes](https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Constantes](https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -410,7 +411,7 @@ Look at the following code:
 
   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ingresar Datos Consola ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosConsola)          |      ✔️     |  ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ingresar Datos Consola ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosConsola)          |      ✔️     |   [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -442,7 +443,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ingresar Dato ViaShow InputDialog ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosViaShowInputDialog)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ingresar Dato ViaShow InputDialog ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosViaShowInputDialog)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -474,7 +475,7 @@ Look at the following code:
 
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operadores Matematicos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicos)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Operadores Matematicos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -506,7 +507,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operadores Matematicos Cortos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicosCortos)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Operadores Matematicos Cortos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicosCortos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -538,7 +539,7 @@ Look at the following code:
 
   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operador Incremental Decremental ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadorIncrementalDecremental)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Operador Incremental Decremental ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadorIncrementalDecremental)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -570,7 +571,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operaciones Matematicas Math ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operacionesMatematicasMath)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Operaciones Matematicas Math ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operacionesMatematicasMath)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -602,7 +603,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Calcular volumen de un cilindro ](https://github.com/BrianMarquez3/Learning-Java/tree/main/calcularvolumendeuncilindro)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Calcular volumen de un cilindro ](https://github.com/BrianMarquez3/Learning-Java/tree/main/calcularvolumendeuncilindro)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -634,7 +635,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Manejo de fechas ](https://github.com/BrianMarquez3/Learning-Java/tree/main/fechas)          |      ✔️     |  ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Manejo de fechas ](https://github.com/BrianMarquez3/Learning-Java/tree/main/fechas)          |      ✔️     |   [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -685,7 +686,7 @@ public static void main(String[] args) {
 
   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Condicionales](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Condicionales](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -737,7 +738,7 @@ Scanner entrada = new Scanner(System.in);
 
   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Condicionales II](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_II_switch_case)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Condicionales II](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_II_switch_case)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -793,7 +794,7 @@ Scanner entrada = new Scanner(System.in);
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -824,7 +825,7 @@ Look at the following code:
 
   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Adivinar numero random](https://github.com/BrianMarquez3/Learning-Java/tree/main/adivinar_numero_random)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Adivinar numero random](https://github.com/BrianMarquez3/Learning-Java/tree/main/adivinar_numero_random)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -856,7 +857,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ciclo While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_While)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ciclo While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_While)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -886,7 +887,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ciclo Do While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_doWhile)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ciclo Do While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_doWhile)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -916,7 +917,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ciclo For](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_For)          |      ✔️     |
+| [Ciclo For](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_For)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -924,7 +925,7 @@ Look at the following code:
 
   | Carpeta                    | Link |   Home   |  Code | Version | Estado | 
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -956,7 +957,7 @@ Look at the following code:
 
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Escalera con For](https://github.com/BrianMarquez3/Learning-Java/tree/main/escalera_conFor)    |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Escalera con For](https://github.com/BrianMarquez3/Learning-Java/tree/main/escalera_conFor)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -988,7 +989,7 @@ Look at the following code:
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -1047,7 +1048,7 @@ Look at the following code:
 
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -1082,7 +1083,7 @@ Look at the following code:
 
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Palindromos](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos)          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Palindromos](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
@@ -1119,7 +1120,70 @@ Look at the following code:
 
   | Carpeta                    | Link |    Home   |  Code | Version | Estado |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ordenamientos Metodo de la Burbuja](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja)          |      ✔️     |⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ordenamientos Metodo de la Burbuja](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
+
+---
+
+## Ordenamientos Metodo de la Burbuja Mejorado
+
+| Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ordenamientos Metodo de la Burbuja Mejorado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamientos_burbujaMejorado)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
+---
+## Ordenamientos por Seleccion
+
+
+| Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ordenamientos Metodo de la Burbuja Mejorado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
