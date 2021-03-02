@@ -1233,7 +1233,7 @@ Look at the following code:
 
 📦 [Spring Tools](https://spring.io/tools) Intalador de Spring Tools 🍃 <br>
 
-## Spotify Music Java
+## Spotify Play Java
 🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
 
 ## Donacion Paypal
