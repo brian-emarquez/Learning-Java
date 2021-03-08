@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DatosConsola",
+            "request": "launch",
+            "mainClass": "com.mycompany.ingresardatosconsola.DatosConsola",
+            "projectName": "IngresarDatosConsola"
+        },
+        {
+            "type": "java",
+            "name": "Launch ingresardatosviashowInputDialog",
+            "request": "launch",
+            "mainClass": "com.mycompany.ingresardatosviashowinputdialog.ingresardatosviashowInputDialog",
+            "projectName": "IngresarDatosViaShowInputDialog"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Learning-Java_65d1d992"
+        },
+        {
+            "type": "java",
+            "name": "Launch adivinar_numero_random",
+            "request": "launch",
+            "mainClass": "adivinar_numero_random",
+            "projectName": "adivinar_numero_random"
+        },
+        {
+            "type": "java",
+            "name": "Launch arreglos_II_de_caracteres",
+            "request": "launch",
+            "mainClass": "com.mycompany.arreglos_ii_de_caracteres.arreglos_II_de_caracteres",
+            "projectName": "arreglos_II_de_caracteres"
+        },
+        {
+            "type": "java",
+            "name": "Launch arreglos",
+            "request": "launch",
+            "mainClass": "arreglos",
+            "projectName": "arreglos"
+        },
+        {
+            "type": "java",
+            "name": "Launch calcularvolumendeuncilindro",
+            "request": "launch",
+            "mainClass": "calcularvolumendeuncilindro",
+            "projectName": "calcularvolumendeuncilindro"
+        },
+        {
+            "type": "java",
+            "name": "Launch ciclo_For",
+            "request": "launch",
+            "mainClass": "com.mycompany.ciclo_for.ciclo_For",
+            "projectName": "ciclo_For"
+        },
+        {
+            "type": "java",
+            "name": "Launch ciclo_While",
+            "request": "launch",
+            "mainClass": "ciclo_While",
+            "projectName": "ciclo_While"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ciclo_doWhile",
+            "request": "launch",
+            "mainClass": "com.mycompany.ciclo_dowhile.Ciclo_doWhile",
+            "projectName": "ciclo_doWhile"
+        },
+        {
+            "type": "java",
+            "name": "Launch ciclo_foreach",
+            "request": "launch",
+            "mainClass": "ciclo_foreach",
+            "projectName": "ciclo_foreach"
+        },
+        {
+            "type": "java",
+            "name": "Launch condicionales_III_String",
+            "request": "launch",
+            "mainClass": "com.mycompany.condicionales_iii_string.condicionales_III_String",
+            "projectName": "condicionales_III_String"
+        },
+        {
+            "type": "java",
+            "name": "Launch hola",
+            "request": "launch",
+            "mainClass": "com.mycompany.condicionales_iii_string.hola",
+            "projectName": "condicionales_III_String"
+        },
+        {
+            "type": "java",
+            "name": "Launch condicionales_II",
+            "request": "launch",
+            "mainClass": "condicionales_II",
+            "projectName": "condicionales_II_switch_case"
+        },
+        {
+            "type": "java",
+            "name": "Launch condicionales_anidadas",
+            "request": "launch",
+            "mainClass": "condicionales_anidadas",
+            "projectName": "condicionales_anidadas"
+        },
+        {
+            "type": "java",
+            "name": "Launch condicionales",
+            "request": "launch",
+            "mainClass": "condicionales",
+            "projectName": "condicionales"
+        },
+        {
+            "type": "java",
+            "name": "Launch contantes",
+            "request": "launch",
+            "mainClass": "com.mycompany.contantes.contantes",
+            "projectName": "constantes"
+        },
+        {
+            "type": "java",
+            "name": "Launch escalera_for",
+            "request": "launch",
+            "mainClass": "escalera_for",
+            "projectName": "escalera_conFor"
+        },
+        {
+            "type": "java",
+            "name": "Launch fechas",
+            "request": "launch",
+            "mainClass": "fechas",
+            "projectName": "fechas"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "com.mycompany.holamundo.hello",
+            "projectName": "holaMundo"
+        },
+        {
+            "type": "java",
+            "name": "Launch mezclar2Arreglos",
+            "request": "launch",
+            "mainClass": "mezclar2Arreglos",
+            "projectName": "mezclar2Arreglos"
+        },
+        {
+            "type": "java",
+            "name": "Launch operacionesMatematicasMath",
+            "request": "launch",
+            "mainClass": "operacionesMatematicasMath",
+            "projectName": "operacionesMatematicasMath"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadorIncrementalDecremental",
+            "request": "launch",
+            "mainClass": "operadorIncrementalDecremental",
+            "projectName": "operadorIncrementalDecremental"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadoresMatematicosCortos",
+            "request": "launch",
+            "mainClass": "operadoresMatematicosCortos",
+            "projectName": "operadoresMatematicosCortos"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadoresMatematicos",
+            "request": "launch",
+            "mainClass": "com.mycompany.operadoresmatematicos.operadoresMatematicos",
+            "projectName": "operadoresMatematicos"
+        },
+        {
+            "type": "java",
+            "name": "Launch ordenamiento_burbuja",
+            "request": "launch",
+            "mainClass": "ordenamiento_burbuja",
+            "projectName": "ordenamiento_burbuja"
+        },
+        {
+            "type": "java",
+            "name": "Launch palidromos",
+            "request": "launch",
+            "mainClass": "palidromos",
+            "projectName": "palidromos"
+        },
+        {
+            "type": "java",
+            "name": "Launch envoltorio",
+            "request": "launch",
+            "mainClass": "com.mycompany.variables_ii_datos_envoltorio.envoltorio",
+            "projectName": "variables_II_Datos_Envoltorio"
+        },
+        {
+            "type": "java",
+            "name": "Launch variables",
+            "request": "launch",
+            "mainClass": "com.mycompany.variables.variables",
+            "projectName": "variables"
+        }
+    ]
+}
