@@ -70,6 +70,7 @@
 |  031   |:heavy_check_mark: | [Ordenamientos Metodo de la Burbuja Mejorado](#Ordenamientos-Metodo-de-la-Burbuja-Mejorado)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamientos_burbujaMejorado) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamientos_burbujaMejorado) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  032   |:heavy_check_mark: | [Ordenamientos por Seleccion](#Ordenamientos-por-Seleccion)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  033   |:heavy_check_mark: | [Busqueda Secuencial](#Busqueda-Secuencial)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  034   |:heavy_check_mark: | [Busqueda Binaria](#Busqueda-Binaria)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ### Spring
 
@@ -1209,12 +1210,43 @@ Look at the following code:
 }
  
 ```
-
+---
 ## Busqueda Secuencial
 
 | Carpeta                    | Link |    Home   |  Code | Version | Estado |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Secuencial](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+Look at the following code:
+
+```diff
+
+  /*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+  /**
+ *
+ * @author brian
+ */
+ 
+ /**
+     * @param args the command line arguments
+     */
++     public static void main(String[] args) {
+-         // ordenamiento_burbuja
+}
+ 
+```
+---
+
+## Busqueda Binaria
+
+| Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Busqueda Binaria](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
