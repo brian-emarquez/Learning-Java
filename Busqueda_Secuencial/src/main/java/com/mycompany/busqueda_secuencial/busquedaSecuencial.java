@@ -23,11 +23,12 @@ public class busquedaSecuencial {
         Scanner entra = new Scanner(System.in);
         int elemento[] = new int[7];
         System.out.println("Ingresa 7 numeros: ");
+        
         for (int i= 0; i<7; i++){
             elemento[i] = entra.nextInt();
         }
         
-        System.out.println("Ingresa un numero para Buscar");
+        System.out.println("Ingresa un numero: ");
         int numBuscar = entra.nextInt();
         
         int i=0;
