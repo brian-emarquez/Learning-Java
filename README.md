@@ -1184,7 +1184,7 @@ Look at the following code:
 
 | Carpeta                    | Link |    Home   |  Code | Version | Estado |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ordenamientos Metodo de la Burbuja Mejorado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ordenamiento por seleccion](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 Look at the following code:
 
