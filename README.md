@@ -1250,25 +1250,19 @@ Look at the following code:
 
 Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
+```java
+ while(inf<=sup){
+            centro=(sup+inf)/2;
+            if(elementos [centro] == numBuscar){
+                bandera = true;
+            break;
+            }
+            else if (numBuscar < elementos[centro]){
+                    sup=centro-1;           
+            }
+             else{
+                inf= centro +1;
+            }
  
 ```
 
