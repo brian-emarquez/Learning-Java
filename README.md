@@ -30,6 +30,7 @@
  
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Java?color=darkred&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Java?style=for-the-badge">
+</P>
 
   ![java](./images/mag.gif)
 
