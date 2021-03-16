@@ -169,7 +169,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 ---
 ## Instalacion
 
- ![java](./images/Install.png)
+ ![java](./images/15.png)
 
 📦 [Instalador JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕ <br>
 📦 [Instalador JDK 15](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) Intalador Oracle JDK Java SE Development ACTUAL ☕ <br>
