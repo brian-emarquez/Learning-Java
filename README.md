@@ -77,7 +77,7 @@
 |  034   |:heavy_check_mark: | [Busqueda Binaria](#Busqueda-Binaria)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
-## Operadores Java
+### Operadores Java
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -1409,7 +1409,7 @@ Look at the following code:
  
 ```
 
-### Operadores Unitarios
+## Operadores Unitarios
 
 ```java
 public static void main(String args[]) {
