@@ -45,6 +45,7 @@
 |  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       | ☕  | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  A   |:heavy_check_mark: | [Concatenacion](#Concatenacion)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B   |:heavy_check_mark: | [Scanner](#Scanner)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:    | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  007   |:heavy_check_mark: | [Constantes](#Constantes)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -237,6 +238,15 @@ public static void main(String args[]) {
         System.out.println(usuario + (i + j));//uso de parentesis modifican la prioridad en la evaluacion
         
     }
+```
+
+## Scanner
+
+```java
+System.out.println("Escribe tu nombre: ");
+Scanner consola = new Scanner(System.in);
+var usuario = consola.nextLine();
+System.out.println("usuario = " + usuario);
 ```
 
 ---
