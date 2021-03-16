@@ -46,7 +46,7 @@
 |  001   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  002   |:heavy_check_mark: | [Concatenacion](#Concatenacion)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  003   |:heavy_check_mark: | [Scanner](#Scanner)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Datos Primitivos](#Datos-Primitivos)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Tipos Primitivos](#Tipos-Primitivos)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 |  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:    | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
@@ -253,16 +253,102 @@ System.out.println("usuario = " + usuario);
 
 ---
 
-## Datos Primitivos
+## Tipos Primitivos
+
+`MIN_VALUE` y `MAX_VALUE`
+
+![java](./images/tiposdatos.png)
 
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Datos Primitivos](https://github.com/BrianMarquez3/Learning-Java/tree/main/tiposPrimitivos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
+### Tipos Primitivos Enteros
 
+```java
+public static void main(String args[]) {
+        /*
+            tipos primitivos enteros: byte, short, int, long
+         */
+        byte numeroByte = (byte) 129;
+        System.out.println("Valor byte:" + numeroByte);
+        System.out.println("Valor minimo byte:" + Byte.MIN_VALUE);
+        System.out.println("Valor maximo byte:" + Byte.MAX_VALUE);
+
+        short numeroShort = (short)32768;
+        System.out.println("numeroShort = " + numeroShort);
+        System.out.println("Valor minimo short:" + Short.MIN_VALUE);
+        System.out.println("Valor maximo short:" + Short.MAX_VALUE);
+        
+        int numeroInt = (int)2147483648L;
+        System.out.println("numeroInt = " + numeroInt);
+        System.out.println("Valor minimo int:" + Integer.MIN_VALUE);
+        System.out.println("Valor maximo int:" + Integer.MAX_VALUE);
+        
+        long numeroLong = 9223372036854775807L;
+        System.out.println("numeroLong = " + numeroLong);
+        System.out.println("Valor minimo long:" + Long.MIN_VALUE);
+        System.out.println("Valor maximo long:" + Long.MAX_VALUE);
+    }
+```
+
+### Tipos Primitivos Char
+
+```java
+ublic static void main(String args[]) {
+        char miCaracter = 'a';
+        System.out.println("miCaracter = " + miCaracter);
+        
+        char varChar = '\u0021';
+        System.out.println("varChar = " + varChar);
+        
+        char varCharDecimal = 33;
+        System.out.println("varCharDecimal = " + varCharDecimal);
+        
+        char varCharSimbolo = '!';
+        System.out.println("varCharSimbolo = " + varCharSimbolo);
+        
+        var varChar1 = '\u0021';
+        System.out.println("varChar1 = " + varChar1);
+        
+        var varCharDecimal2 = 33;
+        System.out.println("varCharDecimal2 = " + varCharDecimal2);
+        
+        var varCharSimbolo3 = '!';
+        System.out.println("varCharSimbolo3 = " + varCharSimbolo3);
+        
+        int variableEnteraSimbolo = '!';
+        System.out.println("variableEnteraSimbolo = " + variableEnteraSimbolo);
+        
+        int letra = 'A';
+        System.out.println("letra = " + letra);
+        
+        
+    }
+
+```
+
+### Tipos Primitivos Boolean
+
+```java
+public static void main(String args[]) {
+        /*
+            tipos primitivos de tipo flotante: float y double
+        */
+        
+        float numeroFloat = (float)3.4028235E38D;
+        System.out.println("numeroFloat = " + numeroFloat);
+        System.out.println("Valor minimo tipo float: " + Float.MIN_VALUE);
+        System.out.println("Valor maximo tipo float: " + Float.MAX_VALUE);
+        
+        double numeroDouble = 1.7976931348623157E308;
+        System.out.println("numeroDouble = " + numeroDouble);
+        System.out.println("Valor minimo tipo double: " + Double.MIN_VALUE);
+        System.out.println("Valor maximo tipo double: " + Double.MAX_VALUE);
+    }
+```
 
 ---
-
 ## Variables
    
 ```java

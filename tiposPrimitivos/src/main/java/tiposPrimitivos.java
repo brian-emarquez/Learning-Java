@@ -15,9 +15,21 @@ public class tiposPrimitivos {
      */
     public static void main(String[] args) {
         // Tipos Primitivos
-        byte numeroByte = 10;
+        byte numeroByte = (byte)129;
         System.out.println("Valor minimo byte:" + Byte.MIN_VALUE);
         System.out.println("Valor minimo byte:" + Byte.MAX_VALUE);
+        
+        short numeroShor = (short)32768;
+        System.out.println("Valor minimo byte:" + Short.MIN_VALUE);
+        System.out.println("Valor minimo byte:" + Short.MAX_VALUE);
+        
+        int numeroInt = (int)214748368L;
+        System.out.println("Valor minimo byte:" + Integer.MIN_VALUE);
+        System.out.println("Valor minimo byte:" + Integer.MAX_VALUE);
+        
+        long numeroLong = (long)914564565465460L;
+        System.out.println("Valor minimo byte:" + Long.MIN_VALUE);
+        System.out.println("Valor minimo byte:" + Long.MAX_VALUE);
     }
     
 }
