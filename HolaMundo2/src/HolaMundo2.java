@@ -11,7 +11,7 @@
 public class HolaMundo2 {
         //metodo
         public static void main(String args[]){
-           System.out.println("Hola Java");
+           System.out.println("Hola Mundo desde Java");
        
        }
 }
