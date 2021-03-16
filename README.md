@@ -77,9 +77,15 @@
 |  034   |:heavy_check_mark: | [Busqueda Binaria](#Busqueda-Binaria)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
+## Operadores Java
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://
 
 
-### Spring Boot
+
+## Spring Boot
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -1403,6 +1409,47 @@ Look at the following code:
  
 ```
 
+## Operadores Unitarios
+
+```java
+public static void main(String args[]) {
+        var a = 3;
+        var b = -a;
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        
+        var c = true;
+        var d = !c;
+        System.out.println("c = " + c);
+        System.out.println("d = " + d);
+        
+        //incremento
+        //1.preincremento (simbolo antes de la variable)
+        var e = 3;
+        var f = ++e;//primero se incrementa la variable y despues se usa su valor
+        System.out.println("e = " + e);
+        System.out.println("f = " + f);
+        //2.postincremento (simbolo despues de la variable)
+        var g = 5;
+        var h = g++;//primero se utiliza el valor y despues se incrementa
+        System.out.println("g = " + g);//teniamos pendiente un incremento
+        System.out.println("h = " + h);
+        
+        //decremento
+        //1.predecremento
+        var i = 2;
+        var j = --i;
+        System.out.println("i = " + i);//ya esta drecrementada
+        System.out.println("j = " + j);
+        
+        //2.postdecremento
+        var k = 4;
+        var l = k--;//primero se usa el valor de la variable y queda pendiente decremento
+        System.out.println("k = " + k);//tenia pendiente un drecremento
+        System.out.println("l = " + l);
+    }
+```
+
 ---
 ## Spring Boot
 
@@ -1434,4 +1481,3 @@ Look at the following code:
 
 ## License 
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
-

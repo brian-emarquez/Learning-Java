@@ -28,7 +28,9 @@ public class ConverdTiposPrimitivos {
         System.out.println("Proporciona tu edad:");
         edad = Integer.parseInt(consola.nextLine());
         System.out.println("edad = " + edad);
-         
+        
+        var edadTexto = String.valueOf(10);
+        System.out.println("edadTexto = " + edadTexto);
          
     }
 }
