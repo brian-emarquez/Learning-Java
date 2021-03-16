@@ -40,12 +40,14 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  002   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass: | ☕ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  003   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       | ☕  | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  A   |:heavy_check_mark: | [Concatenacion](#Concatenacion)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B   |:heavy_check_mark: | [Scanner](#Scanner)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  A  |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass: | ☕ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       | ☕  | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  002   |:heavy_check_mark: | [Concatenacion](#Concatenacion)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003   |:heavy_check_mark: | [Scanner](#Scanner)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Datos Primitivos](#Datos-Primitivos)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 |  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:    | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  007   |:heavy_check_mark: | [Constantes](#Constantes)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -248,6 +250,16 @@ Scanner consola = new Scanner(System.in);
 var usuario = consola.nextLine();
 System.out.println("usuario = " + usuario);
 ```
+
+---
+
+## Datos Primitivos
+
+  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
 
 ---
 
