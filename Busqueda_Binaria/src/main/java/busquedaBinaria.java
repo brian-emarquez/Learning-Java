@@ -28,9 +28,12 @@ public class busquedaBinaria {
         System.err.println("Ingresa un Numero para saber su posicion: ");
         int numBuscar= entra.nextInt();
         
+        // Variables
         int n = elementos.length, inf=0, centro=0;
         int sup=n-1;
         boolean bandera = false;
+        //
+        
         while(inf<=sup){
             centro=(sup+inf)/2;
             if(elementos [centro] == numBuscar){
