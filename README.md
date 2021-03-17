@@ -81,22 +81,22 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  A3  |:heavy_check_mark: | [Break y Continue](#Break-y-Continue)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A3  |:heavy_check_mark: | [Break y Continue](#Break-y-Continue)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ### Fundamentos Java
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  B1  |:heavy_check_mark: | [Clases en Java](#Clases-en-Java)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B1  |:heavy_check_mark: | [Clases en Java](#Clases-en-Java)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Spring Boot
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Spring Boot](#Spring)    | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  001   |:heavy_check_mark: | [Spring Boot](#Spring)    | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Ques es Java 
 
