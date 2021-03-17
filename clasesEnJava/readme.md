@@ -1,3 +1,3 @@
 ### Clases en Java
 
-![java](./images/clases.png)
+![java](../images/clases.png)
