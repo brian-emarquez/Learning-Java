@@ -937,6 +937,31 @@ Scanner entrada = new Scanner(System.in);
         }
 ```
 
+* Ejemplo II
+
+```java
+public static void main(String args[]) {
+        var mes = 4;
+        var estacion = "Estacion desconocida";
+        
+        switch(mes){
+            case 1: case 2: case 12:
+                estacion = "Invierno";
+                break;
+            case 3: case 4: case 5:
+                estacion = "Primavera";
+                break;
+            case 6: case 7: case 8:
+                estacion = "Verano";
+                break;
+            case 9: case 10: case 11:
+                estacion = "Otonio";
+                break;
+        }
+        ystem.out.println("estacion = " + estacion);
+    }
+```
+
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
