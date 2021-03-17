@@ -81,8 +81,8 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://
-
+|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Spring Boot
@@ -1449,6 +1449,11 @@ public static void main(String args[]) {
         System.out.println("l = " + l);
     }
 ```
+## Operador Ternario
+
+  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operador Ternario](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Spring Boot
