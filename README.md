@@ -83,6 +83,13 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A3  |:heavy_check_mark: | [Break y Continue](#Break-y-Continue)   | :hourglass:     | ☕ | 💾 | [ [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+### Fundamentos Java
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  B1  |:heavy_check_mark: | [Clases en Java](#Clases-en-Java)   |
 
 
 ## Spring Boot
@@ -1434,7 +1441,9 @@ Look at the following code:
  
 ```
 
-## Operadores Unitarios
+## Operadores Java
+
+### Operadores Unitarios
 
 ```java
 public static void main(String args[]) {
@@ -1474,11 +1483,28 @@ public static void main(String args[]) {
         System.out.println("l = " + l);
     }
 ```
-## Operador Ternario
+### Operadores Ternario
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operador Ternario](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Operador Ternario](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Operadores-Java) | yes | yes | ✔️ |
+
+### Break y Continue
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Break y Continue](https://github.com/BrianMarquez3/Learning-Java/tree/main/BreakContinue)          |      ✔️     |  [⬅️Atras](#Operadores-Java) | yes | yes | ✔️ |
+
+---
+
+## Fundamentos Java
+### Clases en Java
+
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
 
 ---
 ## Spring Boot
