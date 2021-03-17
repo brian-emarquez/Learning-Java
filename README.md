@@ -1000,7 +1000,7 @@ Look at the following code:
 
 ## Ciclo While
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_While)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
