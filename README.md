@@ -1539,4 +1539,5 @@ public static void main(String args[]) {
 ## License 
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
 
-  ![java](./images/circle.gif)
+<div align="center"><img src="./images/circle.gif"></div>
+
