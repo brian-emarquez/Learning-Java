@@ -105,8 +105,8 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
 ### Inferencia
 
-uso de var
-`soutv + tab`
+- uso de var <br>
+- Tajo de teclado  = `soutv + tab`
 
 ## James Gosling
 
