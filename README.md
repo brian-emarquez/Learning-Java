@@ -91,7 +91,6 @@
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  B1  |:heavy_check_mark: | [Clases en Java](#Clases-en-Java)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
 |  B2  |:heavy_check_mark: | [Creacion de Metodos](#Creacion-de-Metodos)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B3  |:heavy_check_mark: | [Operador This](#Operador-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B4  |:heavy_check_mark: | [Constructores](#Constructores)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
