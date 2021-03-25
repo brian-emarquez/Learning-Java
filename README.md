@@ -77,6 +77,7 @@
 |  034   |:heavy_check_mark: | [Busqueda Binaria](#Busqueda-Binaria)  | :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
+
 ### Operadores Java
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -90,6 +91,10 @@
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  B1  |:heavy_check_mark: | [Clases en Java](#Clases-en-Java)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+|  B2  |:heavy_check_mark: | [Creacion de Metodos](#Creacion-de-Metodos)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B3  |:heavy_check_mark: | [Operador This](#Operador-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B4  |:heavy_check_mark: | [Constructores](#Constructores)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Spring Boot
@@ -1501,6 +1506,25 @@ public static void main(String args[]) {
 ## Fundamentos Java
 ### Clases en Java
 
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Creacion de Metodos
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Operador This
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Constructores
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
