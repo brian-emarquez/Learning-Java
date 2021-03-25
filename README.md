@@ -1515,7 +1515,7 @@ public static void main(String args[]) {
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/Creacion_Metodos_%20Java)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Creacion de Metodos](https://github.com/BrianMarquez3/Learning-Java/tree/main/Creacion_Metodos_%20Java)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Operador This
 
@@ -1531,13 +1531,13 @@ this.b = a;
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/metodo_this)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Operador This](https://github.com/BrianMarquez3/Learning-Java/tree/main/metodo_this)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Constructores
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Constructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
