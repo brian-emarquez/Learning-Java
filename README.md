@@ -1516,19 +1516,29 @@ public static void main(String args[]) {
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/Creacion_Metodos_%20Java)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Operador This
 
+- Uso opcional es un apractica comun, , hace referecia a un atributo de la clase
+- Al ver this nos dice que hace refereciia un atributo de la clases
+
+```java
+this.a = a; // El argumento a sse asigna al atributo this.a
+this.b = a;
+```
+
+![java](./images/this.png)
+
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/metodo_this)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Constructores
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---

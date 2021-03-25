@@ -1,6 +1,6 @@
-### Metodo THIS
+### Operador THIS
 
-- bUso opcional es un apractica comun, , hace referecia a un atributo de la clase
+- Uso opcional es un apractica comun, , hace referecia a un atributo de la clase
 - Al ver this nos dice que hace refereciia un atributo de la clases
 
 ```java
