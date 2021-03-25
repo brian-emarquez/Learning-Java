@@ -17,10 +17,12 @@ public class Aritmetica {
         return a + b;
     }    
     // metodo sumarConArgumentos()
-    public int sumarConArgumentos(int arg1, int arg2){ // argumentos
-        a = arg1;
-        b = arg2;
+    public int sumarConArgumentos(int a, int b){ // argumentos
+        //Uso opcional es un apractica comun, , hace referecia a un atributo de la clase
+        // Al ver this nos dice que hace refereciia un atributo de la clases
+        this.a = a; // El argumento a sse asigna al atributo this.a
+        this.b = b;
         //return a+b;
-        return sumarConRetorno();
+        return this.sumarConRetorno();
     }
 }
