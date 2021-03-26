@@ -1547,13 +1547,13 @@ this.b = a;
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Sobrecarga Constructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Sobrecarga Constructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/Sobrecarga_Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Alcance de Variables
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Alcance de Variables](https://github.com/BrianMarquez3/Learning-Java/tree/main/Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Alcance de Variables](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
