@@ -1551,6 +1551,17 @@ this.b = a;
 
 ## Alcance de Variables
 
+- Existe dos tipos de Almacenamiento en Memerio Stack y Heeap:
+
+    * Stack : Variables Locales
+    * Heap: almacenar objetos
+
+- Recolector de Basura de Memoria
+
+```java
+system.gc();
+```
+
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Alcance de Variables](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
