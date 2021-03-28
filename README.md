@@ -1451,6 +1451,9 @@ Look at the following code:
  
 ```
 
+  ![java](./images/magnatron2.jpg)
+
+---
 ## Operadores Java
 
 ### Operadores Unitarios
