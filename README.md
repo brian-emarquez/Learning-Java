@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Java?style=for-the-badge">
 </P>
 
-  ![java](./images/mag.gif)
+  ![java](./images/java_proyect.gif)
 
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
