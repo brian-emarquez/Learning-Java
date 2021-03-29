@@ -95,7 +95,11 @@
 |  B3  |:heavy_check_mark: | [Operador This](#Operador-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B4  |:heavy_check_mark: | [Constructores](#Constructores)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B5  |:heavy_check_mark: | [Sobrecarga Constructores](#Sobrecarga-Constructores)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B6 |:heavy_check_mark: | [Alcance de Variables](#Alcance-de-Variables)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B6  |:heavy_check_mark: | [Alcance de Variables](#Alcance-de-Variables)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B7  |:heavy_check_mark: | [Proyecto caja](#Proyecto-caja)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B8  |:heavy_check_mark: | [Paso por valor](#Paso-por-valor)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B9  |:heavy_check_mark: | [Paso por referencia](#Paso-por-referencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 
 
@@ -1570,6 +1574,24 @@ system.gc();
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Alcance de Variables](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Proyecto caja
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Proyecto caja](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Paso por valor
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Paso por valor](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+## Paso por referencia
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Paso por referencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
