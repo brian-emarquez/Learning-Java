@@ -15,7 +15,7 @@ public class PasoPorValor {
         System.out.println("x = " + x);
         
         cambioValor(x);
-        System.out.println("x nuevo valor  = " + x );
+        System.out.println("text: x = " + x );
     }
     public static void cambioValor(int arg1){
         // se pasa un capio de argumento x hacia arg1

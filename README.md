@@ -1580,13 +1580,13 @@ system.gc();
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Proyecto caja](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Proyecto caja](https://github.com/BrianMarquez3/Learning-Java/tree/main/Proyecto_Caja)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Paso por valor
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Paso por valor](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Paso por valor](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paso%20por%20Valor)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 ## Paso por referencia
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
