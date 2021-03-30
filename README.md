@@ -1591,7 +1591,7 @@ system.gc();
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Paso por referencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Paso por referencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paso%20por%20Referencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
