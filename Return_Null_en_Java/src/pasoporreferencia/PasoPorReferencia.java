@@ -15,7 +15,7 @@ public class PasoPorReferencia {
 //        System.out.println("persona nombre: " + persona1.nombre);
         
         persona1 = cambiarValor(persona1);
-        System.out.println("persona cambio de nombre: " + persona1.nombre);
+//        System.out.println("persona cambio de nombre: " + persona1.nombre);
     }       
     public static Persona cambiarValor(Persona persona){
         //persona.nombre = "Karla";
