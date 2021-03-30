@@ -99,9 +99,8 @@
 |  B7  |:heavy_check_mark: | [Proyecto caja](#Proyecto-caja)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B8  |:heavy_check_mark: | [Paso por valor](#Paso-por-valor)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B9  |:heavy_check_mark: | [Paso por referencia](#Paso-por-referencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
-
-
+|  B10 |:heavy_check_mark: | [Return Null en Java](#Return-Null-en-Java)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B11 |:heavy_check_mark: | [Uso del This](#[Uso-del-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Spring Boot
 
@@ -1592,6 +1591,18 @@ system.gc();
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Paso por referencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paso%20por%20Referencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Return Null en Java
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Return Null en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/Return_Null_en_Java)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Uso del This
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Uso del This](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
