@@ -1622,7 +1622,7 @@ system.gc();
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Encapsulamiento](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Encapsulamiento](https://github.com/BrianMarquez3/Learning-Java/tree/main/Encapsulamiento)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
