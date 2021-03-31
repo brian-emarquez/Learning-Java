@@ -101,6 +101,8 @@
 |  B9  |:heavy_check_mark: | [Paso por referencia](#Paso-por-referencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B10 |:heavy_check_mark: | [Return Null en Java](#Return-Null-en-Java)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B11 |:heavy_check_mark: | [Uso del This](#[Uso-del-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B12 |:heavy_check_mark: | [Uso del This 2](#[Uso-del-This-2)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B13 |:heavy_check_mark: | [Encapsulamiento](#[Uso-del-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Spring Boot
 
@@ -1605,6 +1607,22 @@ system.gc();
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Uso del This](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Uso del This 2
+
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Uso del This 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Encapsulamiento
+
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Encapsulamiento](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
