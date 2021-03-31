@@ -101,8 +101,8 @@
 |  B9  |:heavy_check_mark: | [Paso por referencia](#Paso-por-referencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B10 |:heavy_check_mark: | [Return Null en Java](#Return-Null-en-Java)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B11 |:heavy_check_mark: | [Uso del This](#[Uso-del-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B12 |:heavy_check_mark: | [Uso del This 2](#[Uso-del-This-2)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B13 |:heavy_check_mark: | [Encapsulamiento](#[Uso-del-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B12 |:heavy_check_mark: | [Uso del This 2](#Uso-del-This-2)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B13 |:heavy_check_mark: | [Encapsulamiento](#Encapsulamiento)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Spring Boot
 
