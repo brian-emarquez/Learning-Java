@@ -14,6 +14,7 @@ public class Persona {
     private double sueldo;
     private boolean eliminado;
     
+    // cosntructor
     public Persona(String nombre, double sueldo, boolean eliminado){
         this.nombre = nombre;
         this.sueldo = sueldo;
@@ -28,8 +29,7 @@ public class Persona {
     public void setNombre(String nombre){ // set modificar
         this.nombre = nombre;
     }
-    
-    
+        
     public double getSueldo(){
         return this.sueldo;
     }    
@@ -42,7 +42,7 @@ public class Persona {
         return this.eliminado;
     }    
     
-    public void setSueldo(boolean eliminado){ // set modificar
+    public void setEliminado(boolean eliminado){ // set modificar
         this.eliminado = eliminado;
     }
          
