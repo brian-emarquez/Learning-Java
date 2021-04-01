@@ -45,6 +45,11 @@ public class Persona {
     public void setEliminado(boolean eliminado){ // set modificar
         this.eliminado = eliminado;
     }
-         
     
+    // toString: permite imprimir el estado de objeto
+    public String toString(){
+        return "persona [ nombre: " + this.nombre + 
+                " ,  sueldo: " + this.sueldo + 
+                " ,  eliminado: " + this.eliminado + "]";
+    } 
 }
