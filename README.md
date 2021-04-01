@@ -1647,7 +1647,7 @@ public String getNombre(){
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Metodo toString](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Metodo toString](https://github.com/BrianMarquez3/Learning-Java/tree/main/Metodo_toString)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Contexto estatico
@@ -1656,7 +1656,9 @@ Contexto Estatico y Contexto Dinamico
 
 palabra `static`
 
-
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Contexto estatico](https://github.com/BrianMarquez3/Learning-Java/tree/main/ContextoStatico)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
