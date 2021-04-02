@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Java?style=for-the-badge">
 </P>
 
-  ![java](./images/mag.gif)
+  ![java](./images/java_proyect_1.gif)
 
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
@@ -94,7 +94,18 @@
 |  B2  |:heavy_check_mark: | [Creacion de Metodos](#Creacion-de-Metodos)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B3  |:heavy_check_mark: | [Operador This](#Operador-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B4  |:heavy_check_mark: | [Constructores](#Constructores)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  B5  |:heavy_check_mark: | [Sobrecarga Constructores](#Sobrecarga-Constructores)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B6  |:heavy_check_mark: | [Alcance de Variables](#Alcance-de-Variables)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B7  |:heavy_check_mark: | [Proyecto caja](#Proyecto-caja)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B8  |:heavy_check_mark: | [Paso por valor](#Paso-por-valor)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B9  |:heavy_check_mark: | [Paso por referencia](#Paso-por-referencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B10 |:heavy_check_mark: | [Return Null en Java](#Return-Null-en-Java)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B11 |:heavy_check_mark: | [Uso del This](#[Uso-del-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B12 |:heavy_check_mark: | [Uso del This 2](#Uso-del-This-2)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B13 |:heavy_check_mark: | [Encapsulamiento](#Encapsulamiento)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+(https://github.com/BrianMarquez3) |
+|  B14 |:heavy_check_mark: | [Metodo toString](#Metodo-toString)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B15 |:heavy_check_mark: | [Contexto estatco](#Contexto-estatico)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Spring Boot
 
@@ -196,6 +207,8 @@ La plataforma Java ME proporciona una API y una máquina virtual de espacio pequ
 JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas mediante una API ligera de interfaz de usuario. Las aplicaciones JavaFX utilizan motores de medios y gráficos acelerados por hardware para aprovechar los clientes de mayor rendimiento y una apariencia moderna, así como API de alto nivel para conectarse a orígenes de datos en red. Las aplicaciones JavaFX pueden ser clientes de servicios de plataforma Java EE.
 
 ---
+
+  ![java](./images/magnatron1.jpg)
 ## Instalacion
 
 📦 [Instalador JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕ <br>
@@ -1446,6 +1459,9 @@ Look at the following code:
  
 ```
 
+  ![java](./images/magnatron2.jpg)
+
+---
 ## Operadores Java
 
 ### Operadores Unitarios
@@ -1538,6 +1554,111 @@ this.b = a;
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Constructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Sobrecarga Constructores
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Sobrecarga Constructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/Sobrecarga_Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Alcance de Variables
+
+- Existe dos tipos de Almacenamiento en Memerio Stack y Heeap:
+
+    * Stack : Variables Locales
+    * Heap: almacenar objetos
+
+- Recolector de Basura de Memoria
+
+```java
+system.gc();
+```
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Alcance de Variables](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Proyecto caja
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Proyecto caja](https://github.com/BrianMarquez3/Learning-Java/tree/main/Proyecto_Caja)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Paso por valor
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Paso por valor](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paso%20por%20Valor)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+## Paso por referencia
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Paso por referencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paso%20por%20Referencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Return Null en Java
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Return Null en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/Return_Null_en_Java)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+## Uso del This
+
+  ![java](./images/this1.png)
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Uso del This](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Uso del This 2
+
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Uso del This 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Encapsulamiento
+
+`getSueldo()`: retorna
+`setSueldo()`: Modifica
+
+### Ejemplo Encapsulamiento
+
+```java
+public String getNombre(){
+        return this.nombre;
+    }    
+    
+    public void setNombre(String nombre){ // set modificar
+        this.nombre = nombre;
+    }
+```
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Encapsulamiento](https://github.com/BrianMarquez3/Learning-Java/tree/main/Encapsulamiento)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Metodo toString
+
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Metodo toString](https://github.com/BrianMarquez3/Learning-Java/tree/main/Metodo_toString)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Contexto estatico
+
+Contexto Estatico y Contexto Dinamico
+
+palabra `static`
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Contexto estatico](https://github.com/BrianMarquez3/Learning-Java/tree/main/ContextoStatico)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ---
