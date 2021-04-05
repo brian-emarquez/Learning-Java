@@ -1675,7 +1675,7 @@ palabra `static`
 
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Herencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/ContextoStatico_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Herencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ---
 ## Spring Boot
