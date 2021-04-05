@@ -1,10 +1,10 @@
 package domain;
 
-public class Persona {
-    private String nombre; // tiene acceso las clases hijas
-    private char genero;
-    private int edad;
-    private String direccion;
+public class Persona{
+    protected String nombre; // tiene acceso las clases hijas
+    protected char genero;
+    protected int edad;
+    protected String direccion;
     
     public Persona(){ // Contructor
     }
@@ -56,6 +56,6 @@ public class Persona {
     public String toString() {
         return "Persona{" + "nombre=" + nombre + ", genero=" + genero + ", edad=" + edad + ", direccion=" + direccion + '}';
     }
-    
+
 }
 
