@@ -112,7 +112,6 @@
 |  B11 |:heavy_check_mark: | [Uso del This](#[Uso-del-This)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B12 |:heavy_check_mark: | [Uso del This 2](#Uso-del-This-2)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B13 |:heavy_check_mark: | [Encapsulamiento](#Encapsulamiento)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-(https://github.com/BrianMarquez3) |
 |  B14 |:heavy_check_mark: | [Metodo toString](#Metodo-toString)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B15 |:heavy_check_mark: | [Contexto estatco](#Contexto-estatico)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B16 |:heavy_check_mark: | [Contexto estatco 2](#Contexto-estatico-2)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
