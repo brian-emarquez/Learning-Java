@@ -119,6 +119,7 @@
 |  B17 |:heavy_check_mark: | [Herencia](#Herencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 <table align="center" >
+  <p>Prueba de velocidad en Java</p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/javared.gif" />
