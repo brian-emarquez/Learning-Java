@@ -122,7 +122,7 @@
   <p>Prueba de velocidad en Java</p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/javared.gif" />
+      <img align="center" style="padding=0;" src="./images/javared1.gif" />
     </td>
   </tr>
 </table>
