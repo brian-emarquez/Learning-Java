@@ -32,7 +32,16 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Java?style=for-the-badge">
 </P>
 
-  ![java](./images/java_proyect_1.gif)
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/java_proyect_1.gif" />
+    </td>
+  </tr>
+</table>
+
+  <!-- ![java](./images/java_proyect_1.gif) -->
 
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
@@ -108,6 +117,15 @@
 |  B15 |:heavy_check_mark: | [Contexto estatco](#Contexto-estatico)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B16 |:heavy_check_mark: | [Contexto estatco 2](#Contexto-estatico-2)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B17 |:heavy_check_mark: | [Herencia](#Herencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/javared.gif" />
+    </td>
+  </tr>
+</table>
+
 
 ## Spring Boot
 
