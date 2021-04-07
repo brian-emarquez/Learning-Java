@@ -118,7 +118,7 @@
 |  B17 |:heavy_check_mark: | [Herencia](#Herencia)   | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 <table align="center" >
-  <p align="center">Velocidad de Java</p>
+  <p align="center">Velocidad</p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/red1.gif" />
@@ -399,6 +399,16 @@ public static void main(String args[]) {
 ```
 
 ---
+
+<table align="center" >
+  <p align="center">Performance</p>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/red2.gif" />
+    </td>
+  </tr>
+</table>
+
 ## Variables
    
 ```java
