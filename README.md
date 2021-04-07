@@ -121,14 +121,12 @@
   <p align="center">Velocidad</p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/red1.gif" />
+      <img align="center" style="padding=0;" src="./images/a.gif" />
     </td>
   </tr>
 </table>
 
-<video width="600" height="400" loop>
-    <source src="images/RED.mp4" type="video/mp4">
-</video>
+
 
 ## Spring Boot
 
