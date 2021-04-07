@@ -404,7 +404,7 @@ public static void main(String args[]) {
   <p align="center">Performance</p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/red2.gif" />
+      <img align="center" style="padding=0;" src="./images/d.gif" />
     </td>
   </tr>
 </table>
@@ -913,6 +913,16 @@ Look at the following code:
 ```
 
 ---
+
+<table align="center" >
+  <p align="center">Escalabilidad</p>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/c.gif" />
+    </td>
+  </tr>
+</table>
+
 
 ## Condicionales II
 
