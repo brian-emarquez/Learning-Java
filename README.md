@@ -126,6 +126,9 @@
   </tr>
 </table>
 
+<video width="600" height="400" loop>
+    <source src="./images/RED.mp4" type="video/mp4">
+</video>
 
 ## Spring Boot
 
