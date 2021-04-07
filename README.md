@@ -121,7 +121,7 @@
   <p align="center">Prueba de velocidad en Java</p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/javared1.gif" />
+      <img align="center" style="padding=0;" src="./images/red.gif" />
     </td>
   </tr>
 </table>
