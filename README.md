@@ -1761,4 +1761,3 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
 
 <div align="center"><img src="./images/circle.gif"></div>
-
