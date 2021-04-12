@@ -1756,7 +1756,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
   <tr>
       <td>Name</td>
       <td>Authors</td>
-      <td>Editor</td>
+      <td>Editorial</td>
       <td>ISBN</td>
       <td>Link</td>
       <td>Password</td>
@@ -1783,4 +1783,19 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 ## License 
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
 
-<div align="center"><img src="./images/circle.gif"></div>
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/circle.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
+
