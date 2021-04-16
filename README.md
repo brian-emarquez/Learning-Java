@@ -49,12 +49,12 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A  |:heavy_check_mark: | [Que es java](#Que-es-java)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | :hourglass: | ☕ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  C   |:heavy_check_mark: | [Instalacion](#instalacion)  |:hourglass:       | ☕  | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  001   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  |  :hourglass:       | ☕  | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  002   |:heavy_check_mark: | [Concatenacion](#Concatenacion)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  003   |:heavy_check_mark: | [Scanner](#Scanner)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  A  |:heavy_check_mark: | [Que es java](#Que-es-java)   | <img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | <img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px"> | ☕ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C   |:heavy_check_mark: | [Instalacion](#instalacion)  |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">      | ☕  | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Hola Mundo](#Hola-Mundo)  | <img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">      | ☕  | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  002   |:heavy_check_mark: | [Concatenacion](#Concatenacion)   | <img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">    | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003   |:heavy_check_mark: | [Scanner](#Scanner)   | <img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">    | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004   |:heavy_check_mark: | [Tipos Primitivos](#Tipos-Primitivos)   | :hourglass:     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  005   |:heavy_check_mark: | [Variables](#variables)  |  :hourglass:    | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  006   |:heavy_check_mark: | [Variables-II](#Variables-II)  |  :hourglass:       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/variables_II_Datos_Envoltorio)  |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
