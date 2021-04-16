@@ -18,7 +18,9 @@ public class testHerencia {
     public static void main(String[] args) {
 //        Empleado empleado1 = new Empleado("Brian", 5000.0);
 //        System.out.println("empleado = " + empleado1); 
-    Cliente cliente1 = new Cliente(new Date(), true, "Brian", 'M', 27, "Calle 23");
+
+    var fecha = new Date();
+    Cliente cliente1 = new Cliente(fecha, true, "Brian", 'M', 27, "Calle 23");
     System.out.println("cliente1 = " + cliente1);
 
     }
