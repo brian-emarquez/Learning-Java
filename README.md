@@ -132,7 +132,7 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Spring Boot](#Spring)    | :hourglass:     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  001   |:heavy_check_mark: | [Spring Boot](#Spring)    |  <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ![java](./images/JavaRed.jpg)
 
