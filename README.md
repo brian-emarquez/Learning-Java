@@ -1725,9 +1725,7 @@ super();
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Herencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 | [Herencia 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ | 
-| [Herencia 3](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ | 
-
-
+| [Herencia 3](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia_3)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ | 
 
 
 
