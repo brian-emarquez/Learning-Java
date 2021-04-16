@@ -1712,13 +1712,6 @@ palabra `static`
 
   ![java](./images/herencia.png)
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Herencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
-
-
-## Herencia 2
-
 ```
 super();
 ```
@@ -1726,15 +1719,13 @@ super();
 <p> La palabra clave super en Java es una variable de referencia que se usa para referir objetos de clase padre.</p>
 
 
+
+
 | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Herencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 | [Herencia 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ | 
-
-
-
-
-
-
+| [Herencia 3](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ | 
 
 
 
