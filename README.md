@@ -1716,6 +1716,44 @@ palabra `static`
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Herencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Herencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
+
+## Herencia 2
+
+```
+super()
+````
+
+<p> La palabra clave super en Java es una variable de referencia que se usa para referir objetos de clase padre (puede revisar sobre Herencia, en este enlace). Se usa principalmente en los siguientes contextos </p>
+
+```java
+
+class Vehicle
+{
+    int maxSpeed = 120;
+}
+/* subclase Car extendiendo de vehicle */
+class Car extends Vehicle
+{
+    int maxSpeed = 180;
+ 
+    void display()
+    {
+        /* imprime maxSpeed de la clase base (vehicle) */
+        System.out.println("Velocidad máxima: " + super.maxSpeed);
+    }
+}
+/* Programa de controlador Test */
+class Test
+{
+    public static void main(String[] args)
+    {
+        Car small = new Car();
+        small.display();
+    }
+}
+```
+
+
 ---
 ## Spring Boot
 
