@@ -5,6 +5,8 @@
  */
 package test;
 
+import domain.Persona;
+
 /**
  *
  * @author brian
@@ -14,6 +16,13 @@ public class TestFinal {
         final int miVARIABLE = 10; /*ya no se podra modifical la variable, equivalente a una constante*/
         System.out.println("miVARIABLE = " + miVARIABLE);
         //miVariable = 20;
+        
+        
+        final Persona persona1 = new Persona();
+        //persona1 = new Persona();
+        persona1.setNombre("juan");
+        System.out.println("persona1 = " + persona1.getNombre());
+        
     }
     
 }
