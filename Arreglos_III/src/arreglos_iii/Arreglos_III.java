@@ -21,7 +21,9 @@ public class Arreglos_III {
         edades[0] = 10;
         System.out.println("edades o  = " + edades[0] );
         
-        
+        for (int i = 0; i<edades.length; i++){
+            System.out.println("edades elemento" + i + ":" + edades[i]);
+        }
        
     }
     
