@@ -120,6 +120,7 @@
 |  B19 |:heavy_check_mark: | [Sobrecarga de Metodos](#Sobrecarga-de-Metodos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B20|:heavy_check_mark: | [Paquetes](#Paquetes)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B21|:heavy_check_mark: | [Palabra Final](#Palabra-Final)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B22|:heavy_check_mark: | [Arreglo III](#Arreglo-III)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -1776,6 +1777,32 @@ public final static int MI_CONSTATNE = 1;
 | Files                   | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Palabra Final](https://github.com/BrianMarquez3/Learning-Java/tree/main/PalabraFinal)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Arreglo III
+
+```java
+ public static void main(String[] args) {
+        int edades[] = new int [3];
+        System.out.println("edades = " + edades);
+        
+        edades[0] = 10;
+        System.out.println("edades o  = " + edades[0] );
+        
+        for (int i = 0; i<edades.length; i++){
+            System.out.println("edades elemento" + i + ":" + edades[i]);
+        }
+        
+//        Sintaxis resumida
+        String frutas[] = {"Naranja", "Platano", "Manzana"};
+        for (int i = 0; i < frutas.length; i++) {
+            System.out.println("Frutas = " + frutas[i]);
+        }
+```   
+
+| Files                   | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Arreglo III](https://github.com/BrianMarquez3/Learning-Java/tree/main/Arreglos_III)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 

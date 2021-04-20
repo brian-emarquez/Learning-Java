@@ -24,6 +24,13 @@ public class Arreglos_III {
         for (int i = 0; i<edades.length; i++){
             System.out.println("edades elemento" + i + ":" + edades[i]);
         }
+        
+//        Sintaxis resumida
+        String frutas[] = {"Naranja", "Platano", "Manzana"};
+        for (int i = 0; i < frutas.length; i++) {
+            System.out.println("Frutas = " + frutas[i]);
+        }
+        
        
     }
     
