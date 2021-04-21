@@ -1820,7 +1820,17 @@ public final static int MI_CONSTATNE = 1;
 
 ## UML
 
-[https://www.umletino.com/]
+[https://www.umletino.com/] -  Online Browser
+[https://www.umlet.com/] - Plugin Downloads
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/uml.png" />
+    </td>
+  </tr>
+</table>
+
 
 | Files                   | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
