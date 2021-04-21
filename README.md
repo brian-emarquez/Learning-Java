@@ -1812,6 +1812,8 @@ public final static int MI_CONSTATNE = 1;
 | Files                   | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Matrices](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Matrices II](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Matrices III](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 
