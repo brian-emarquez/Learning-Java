@@ -1,0 +1,46 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLPackage</id><coordinates><x>410</x><y>140</y><w>420</w><h>770</h></coordinates><panel_attributes>pe.com.empresa.Ventas
+--
+bg=#421B5C</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>200</y><w>340</w><h>310</h></coordinates><panel_attributes>
+Orden
+
+--
+-id: Orden: int
+-productos[]: producto
+_-contadorOrdennes:int_
+_-MAX PRODUCTOS: int = 10_
+--
+#Orden();
++agregarProducto(producto: Producto): void
++calcularTotal(): double
++mostrarOrden():void
+--
+Responsibilities
+-- Crear objetos Orden
+*-- Administrar los Productos*
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>880</x><y>140</y><w>400</w><h>270</h></coordinates><panel_attributes>pe.com.empresa.ventas.test
+--
+bg=#421B5C</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>890</x><y>180</y><w>340</w><h>160</h></coordinates><panel_attributes>Ventas Test
+--
+_+main(args: String[]): void_
+--
+Resposabilities
+-- Ejecutar las prueba de la aplicacion de ventas</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>570</x><y>140</y><w>320</w><h>30</h></coordinates><panel_attributes>lt=&lt;..&gt;</panel_attributes><additional_attributes>10;10;300;10</additional_attributes></element><element><id>Relation</id><coordinates><x>580</x><y>510</y><w>230</w><h>110</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+&lt;&lt;Un producto se agrega a una Orden&gt;&gt;</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>UMLClass</id><coordinates><x>440</x><y>600</y><w>330</w><h>280</h></coordinates><panel_attributes>Producto
+--
+-idProducto:int
+-nombre: String
+-precio: double
+_contadorProductos:int_
+-
+-Producto()
++Producto(nombre:String, precio: double)
++getidProducto(): int
++getNombre(): String
++setNombre(nombre: String): void
++getPrecio().double
++setPrecio(precio: double): void
+toString():String
+
+--
+Responsibilities
+-- Crear objetos de tipo producto</panel_attributes><additional_attributes></additional_attributes></element></diagram>
