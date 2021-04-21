@@ -84,8 +84,6 @@
 |  032   |:heavy_check_mark: | [Ordenamientos por Seleccion](#Ordenamientos-por-Seleccion)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  033   |:heavy_check_mark: | [Busqueda Secuencial](#Busqueda-Secuencial)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  034   |:heavy_check_mark: | [Busqueda Binaria](#Busqueda-Binaria)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  035   |:heavy_check_mark: | [Sistema de Ventas](#Sistema-de-Ventas)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
 
 
 
@@ -124,7 +122,8 @@
 |  B21|:heavy_check_mark: | [Palabra Final](#Palabra-Final)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B22|:heavy_check_mark: | [Arreglo III](#Arreglo-III)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |+
 |  B23|:heavy_check_mark: | [Matrices](#Matrices)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B23|:heavy_check_mark: | [UML](#UML)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B24|:heavy_check_mark: | [UML](#UML)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B25|:heavy_check_mark: | [Sistema de Ventas](#Sistema-de-Ventas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
