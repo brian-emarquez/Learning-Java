@@ -1844,7 +1844,7 @@ public final static int MI_CONSTATNE = 1;
 
 | Files                   | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Sistema de Ventas](https://github.com/BrianMarquez3/Learning-Java/tree/main/Arreglos_III)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Sistema de Ventas](https://github.com/BrianMarquez3/Learning-Java/tree/main/Ventas)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ---
 ## Spring Boot
