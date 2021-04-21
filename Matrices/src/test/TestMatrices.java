@@ -20,5 +20,8 @@ public class TestMatrices {
         edades [1][1] = 3;
         
         System.out.println("edades 0 - 0 = " + edades[0][0]);
+        System.out.println("edades 0 - 0 = " + edades[0][1]);
+        System.out.println("edades 0 - 0 = " + edades[1][0]);
+        System.out.println("edades 0 - 0 = " + edades[1][1]);
     }
 }
