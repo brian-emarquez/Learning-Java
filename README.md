@@ -120,7 +120,9 @@
 |  B19 |:heavy_check_mark: | [Sobrecarga de Metodos](#Sobrecarga-de-Metodos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B20|:heavy_check_mark: | [Paquetes](#Paquetes)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B21|:heavy_check_mark: | [Palabra Final](#Palabra-Final)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B22|:heavy_check_mark: | [Arreglo III](#Arreglo-III)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B22|:heavy_check_mark: | [Arreglo III](#Arreglo-III)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |+
+|  B23|:heavy_check_mark: | [Matrices](#Matrices)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 
 
@@ -1805,6 +1807,11 @@ public final static int MI_CONSTATNE = 1;
 | [Arreglo III](https://github.com/BrianMarquez3/Learning-Java/tree/main/Arreglos_III)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
+## Matrices
+
+| Files                   | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Matrices](https://github.com/BrianMarquez3/Learning-Java/tree/main/Arreglos_III)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 
