@@ -16,5 +16,5 @@ gran parte de la comunidad informática. Está pensado en reemplazar al menos lo
 modelos de Booch, OMT, entre otros, y es utilizado para entender, diseñar, configurar,
 mantener y controlar la información de sistemas computacionales.</p>
 
-[https://www.umletino.com/] -  Online Browser
-[https://www.umlet.com/] - Plugin Downloads
+[https://www.umletino.com/] -  Online Browser <br>
+[https://www.umlet.com/] - Plugin Downloads <br>

@@ -1820,8 +1820,8 @@ public final static int MI_CONSTATNE = 1;
 
 ## UML
 
-[https://www.umletino.com/] -  Online Browser
-[https://www.umlet.com/] - Plugin Downloads
+[https://www.umletino.com/] -  Online Browser <br>
+[https://www.umlet.com/] - Plugin Downloads <br>
 
 <table align="center" >
   <tr>
