@@ -124,7 +124,7 @@
 |  B23|:heavy_check_mark: | [Matrices](#Matrices)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B24|:heavy_check_mark: | [UML](#UML)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B25|:heavy_check_mark: | [Sistema de Ventas](#Sistema-de-Ventas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  B25|:heavy_check_mark: | [Proyecto Mundo PC](#SProyecto-Mundo-PC)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -1853,6 +1853,13 @@ public final static int MI_CONSTATNE = 1;
 | Files                   | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Sistema de Ventas](https://github.com/BrianMarquez3/Learning-Java/tree/main/Ventas)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+
+
+## Proyecto Mundo PC
+
+| Files                   | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Proyecto Mundo PC](https://github.com/BrianMarquez3/Learning-Java/tree/main/MundoPC)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ---
 ## Spring Boot
