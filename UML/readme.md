@@ -18,3 +18,8 @@ mantener y controlar la información de sistemas computacionales.</p>
 
 [https://www.umletino.com/] -  Online Browser <br>
 [https://www.umlet.com/] - Plugin Downloads <br>
+
+
+### Book Online
+
+(Learning UML 2.0: A Pragmatic Introduction to UML)[https://books.google.com.pe/books?id=QhiA6vT56E4C&lpg=PP1&pg=PT10&redir_esc=y#v=onepage&q&f=false]
