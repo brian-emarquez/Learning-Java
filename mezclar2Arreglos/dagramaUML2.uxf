@@ -1,0 +1,64 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLPackage</id><coordinates><x>110</x><y>110</y><w>850</w><h>900</h></coordinates><panel_attributes>EmptyPackage
+--
+bg=#DBE8F5
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>160</x><y>170</y><w>210</w><h>190</h></coordinates><panel_attributes>COMPUTADORA
+--
+-idComputadora
+-nombre:String
+-monitor:Monitor
+-teclado:Teclado
+-raton:Raton
+--
+-Computadoras()
++Computadora(String, Monitor, Teclado, Raton)
+-toString()
+--
+Responsibilities
+-CrearGetSetCadaPropiedad...</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>550</x><y>170</y><w>360</w><h>190</h></coordinates><panel_attributes>ORDEN
+--
+idOrden: int
+-computadoras[]: Computadoras
+-contadoresOrdenes: int
+-contadorComputadoras: int
+-maxComputadores:int
+--
++Orden()
++agregarComputadora(computadora:Computadora): void
+
++mostarOrden(): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>160</x><y>480</y><w>210</w><h>210</h></coordinates><panel_attributes>MONITOR
+--
+-idMOnitor: int
+_-ClassAttribute: Long_
+--
+-marca: String
+-tamaño: double
+--
+-CrearGetSetCadaPropiedad</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>540</x><y>420</y><w>360</w><h>190</h></coordinates><panel_attributes>DispositivoEntrada
+--
+-tipoEntrada: String
+-marca: String
+--
++DispositivosEntrada(String, String)
++toString(): String
+--
+CrearGetSetCadaPropiedad</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>410</x><y>780</y><w>210</w><h>150</h></coordinates><panel_attributes>RATON
+--
+-idRaton: int
+-contadorRatones: int
+
+--
+Raton(String, String)
++toString(): String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>660</x><y>780</y><w>210</w><h>150</h></coordinates><panel_attributes>TECLADO
+--
+-idTeclado: int
+-contadorTeclado: int 
+--
++Teclado(String, String)
++toString() String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>1000</x><y>110</y><w>410</w><h>740</h></coordinates><panel_attributes>mundopc
+--
+bg=#DBE8F5
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1090</x><y>191</y><w>210</w><h>190</h></coordinates><panel_attributes>MundoPC
+--
+main(String[]): void
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>111</y><w>560</w><h>30</h></coordinates><panel_attributes>lt=&lt;..&gt;</panel_attributes><additional_attributes>10;10;540;10</additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>351</y><w>30</w><h>140</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>251</y><w>210</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>190;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>730</x><y>601</y><w>30</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>691</y><w>310</w><h>30</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;290;10</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>691</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>691</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>951</y><w>420</w><h>30</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;400;10</additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>411</y><w>30</w><h>570</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;550</additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>411</y><w>160</w><h>30</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;140;10</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>921</y><w>30</w><h>60</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;40;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>772</x><y>924</y><w>30</w><h>60</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;40;10;10</additional_attributes></element></diagram>

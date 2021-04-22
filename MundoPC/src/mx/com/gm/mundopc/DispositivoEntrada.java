@@ -29,7 +29,4 @@ public class DispositivoEntrada {
     public String toString() {
         return "DispositivoEntrada{" + "tipoEntrada=" + tipoEntrada + ", marca=" + marca + '}';
     }
-    
-    
-    
 }
