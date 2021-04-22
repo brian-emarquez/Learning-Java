@@ -47,8 +47,7 @@ public class Orden {
         System.err.println("Productos de la Orden:");
         for (int i = 0; i < this.contadorPrductos; i++) {
             System.out.println(this.productos[i]);
-        }
-            
+     
         }
     }
 }
