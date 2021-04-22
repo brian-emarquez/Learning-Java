@@ -1840,6 +1840,15 @@ public final static int MI_CONSTATNE = 1;
 
 ## Sistema de Ventas
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/ventas.png" />
+    </td>
+  </tr>
+</table>
+
+
 
 | Files                   | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
