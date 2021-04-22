@@ -1,16 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package pe.com.empreda.mundopc;
+package mx.com.gm.mundopc;
 
-/**
- *
- * @author brian
- */
 public class DispositivoEntrada {
-    
     private String tipoEntrada;
     private String marca;
     
@@ -39,6 +29,7 @@ public class DispositivoEntrada {
     public String toString() {
         return "DispositivoEntrada{" + "tipoEntrada=" + tipoEntrada + ", marca=" + marca + '}';
     }
+    
     
     
 }

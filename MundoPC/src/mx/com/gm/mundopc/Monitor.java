@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package pe.com.empreda.mundopc;
+package mx.com.gm.mundopc;
 
-/**
- *
- * @author brian
- */
 public class Monitor {
     private final int idMonitor;
     private String marca;
@@ -19,17 +10,16 @@ public class Monitor {
         this.idMonitor = ++Monitor.contadorMonitores;
     }
     
-    public Monitor (String marca, double tamanio){
+    public Monitor(String marca, double tamanio){
         this();
         this.marca = marca;
         this.tamanio = tamanio;
     }
-
     
     public int getIdMonitor(){
         return this.idMonitor;
     }
-    
+
     public String getMarca() {
         return marca;
     }
@@ -48,9 +38,8 @@ public class Monitor {
 
     @Override
     public String toString() {
-        return "Monitor{" + "idMOnitor=" + idMonitor + ", marca=" + marca + ", tamanio=" + tamanio + '}';
+        return "Monitor{" + "idMonitor=" + idMonitor + ", marca=" + marca + ", tamanio=" + tamanio + '}';
     }
-    
     
     
 }

@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package pe.com.empreda.mundopc;
+package mx.com.gm.mundopc;
 
-/**
- *
- * @author brian
- */
 public class Computadora {
-    private final int idComputdora;
+    private final int idComputadora;
     private String nombre;
     private Monitor monitor;
     private Teclado teclado;
@@ -18,19 +9,19 @@ public class Computadora {
     private static int contadorComputadoras;
     
     private Computadora(){
-        this.idComputdora = ++Computadora.contadorComputadoras;   
+        this.idComputadora = ++Computadora.contadorComputadoras;
     }
     
-    private Computadora(String nombre, Monitor monitor, Teclado teclado, Raton raton){
+    public Computadora(String nombre, Monitor monitor, Teclado teclado, Raton raton){
         this();
         this.nombre = nombre;
         this.monitor = monitor;
         this.teclado = teclado;
         this.raton = raton;
-    }   
+    }
 
-    public int getIdComputdora() {
-        return idComputdora;
+    public int getIdComputadora() {
+        return idComputadora;
     }
 
     public String getNombre() {
@@ -65,16 +56,9 @@ public class Computadora {
         this.raton = raton;
     }
 
-    public static int getContadorComputadoras() {
-        return contadorComputadoras;
-    }
-
-    public static void setContadorComputadoras(int contadorComputadoras) {
-        Computadora.contadorComputadoras = contadorComputadoras;
-    }
-
     @Override
     public String toString() {
-        return "Computadora{" + "idComputdora=" + idComputdora + ", nombre=" + nombre + ", monitor=" + monitor + ", teclado=" + teclado + ", raton=" + raton + '}';
-    } 
+        return "Computadora{" + "idComputadora=" + idComputadora + ", nombre=" + nombre + ", monitor=" + monitor + ", teclado=" + teclado + ", raton=" + raton + '}';
+    }
+    
 }
