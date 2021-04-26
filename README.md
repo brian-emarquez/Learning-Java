@@ -1865,9 +1865,6 @@ public final static int MI_CONSTATNE = 1;
 
 
 ## Proyecto Mundo PC
-c
-
-
 
 | Files                   | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -1890,6 +1887,11 @@ c
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C1          | [Argumentos Variables en Java](https://github.com/BrianMarquez3/Perl-Course/tree/main/007%20Subrutinas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
+##  Manejo de Enumeraciones
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|C1          | [Manejo de Enumeraciones](https://github.com/BrianMarquez3/Perl-Course/tree/main/007%20Subrutinas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 ## Spring Boot
 
