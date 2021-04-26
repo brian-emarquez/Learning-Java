@@ -1891,7 +1891,7 @@ public final static int MI_CONSTATNE = 1;
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C1          | [Manejo de Enumeraciones](https://github.com/BrianMarquez3/Learning-Java/tree/main/Enumaciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C2          | [Manejo de Enumeraciones](https://github.com/BrianMarquez3/Learning-Java/tree/main/Enumaciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 ## Spring Boot
 
