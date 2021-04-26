@@ -126,7 +126,7 @@
 |  B25|:heavy_check_mark: | [Sistema de Ventas](#Sistema-de-Ventas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B25|:heavy_check_mark: | [Proyecto Mundo PC](#SProyecto-Mundo-PC)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
-## Java Programacion
+## Programacion Java
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -1883,9 +1883,9 @@ public final static int MI_CONSTATNE = 1;
 
 ##  Argumentos Variables en Java
 
-|Numeration  | File                       |  Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|------------|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C1          | [Argumentos Variables en Java](https://github.com/BrianMarquez3/Perl-Course/tree/main/007%20Subrutinas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|C1          | [Argumentos Variables en Java](https://github.com/BrianMarquez3/Perl-Course/tree/main/007%20Subrutinas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java))
 
 
 ## Spring Boot
