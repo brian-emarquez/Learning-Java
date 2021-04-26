@@ -1864,14 +1864,7 @@ public final static int MI_CONSTATNE = 1;
 
 
 ## Proyecto Mundo PC
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/mundopc.png" />
-    </td>
-  </tr>
-</table>
+c
 
 
 
@@ -1880,6 +1873,14 @@ public final static int MI_CONSTATNE = 1;
 | [Proyecto Mundo PC](https://github.com/BrianMarquez3/Learning-Java/tree/main/MundoPC)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ---
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/programacionJava.jpg" />
+    </td>
+  </tr>
+</table>
 
 ##  Argumentos Variables en Java
 
