@@ -131,6 +131,7 @@
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  C1  |:heavy_check_mark: | [ Argumentos Variables en Java](#Argumentos-Variables-en-Java)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C2  |:heavy_check_mark: | [Manejo de Enumeraciones](#Manejo-de-Enumeraciones)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
