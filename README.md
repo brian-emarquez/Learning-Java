@@ -130,7 +130,7 @@
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  C1  |:heavy_check_mark: | [ Argumentos Variables en Java](#Argumentos-Variables-en-Java)   | <img src="https://media.giphy.com/media/3ov9jKQbfWvDNu2Z0s/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C1  |:heavy_check_mark: | [ Argumentos Variables en Java](#Argumentos-Variables-en-Java)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
