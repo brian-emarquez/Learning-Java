@@ -1905,7 +1905,7 @@ public final static int MI_CONSTATNE = 1;
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C4          | [Bloque Inicializacion](https://github.com/BrianMarquez3/Learning-Java/tree/main/Enumaciones_I)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C4          | [Bloque Inicializacion](https://github.com/BrianMarquez3/Learning-Java/tree/main/BloqueInicializacion)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 ---
 ## Spring Boot
