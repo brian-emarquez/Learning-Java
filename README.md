@@ -1913,12 +1913,12 @@ public final static int MI_CONSTATNE = 1;
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C5          | [ForEac](https://github.com/BrianMarquez3/Learning-Java/tree/main/BloqueInicializacion)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C5          | [ForEac](https://github.com/BrianMarquez3/Learning-Java/tree/main/ForEach)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 ## Autoboxing Unboxing
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C6          | [Autoboxing Unboxing](https://github.com/BrianMarquez3/Learning-Java/tree/main/BloqueInicializacion)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C6          | [Autoboxing Unboxing](https://github.com/BrianMarquez3/Learning-Java/tree/main/AutoboxingUnboxing)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 ---
 ## Spring Boot
