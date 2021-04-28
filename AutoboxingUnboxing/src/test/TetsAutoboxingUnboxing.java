@@ -12,6 +12,10 @@ public class TetsAutoboxingUnboxing {
         Log - Long
         float - Float
         double - Double
+        boolea - Boolean
+        byte - Byte
+        char -Character
+        short - Short
         */
         /*Autoboxing*/
         Integer entero = 10;

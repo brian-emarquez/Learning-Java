@@ -1916,6 +1916,18 @@ public final static int MI_CONSTATNE = 1;
 |C5          | [ForEac](https://github.com/BrianMarquez3/Learning-Java/tree/main/ForEach)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 ## Autoboxing Unboxing
 
+```java
+  int Integer
+  Log - Long
+  float - Float
+  double - Double
+  boolea - Boolean
+    byte - Byte
+  char -Character
+  short - Short
+```
+
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C6          | [Autoboxing Unboxing](https://github.com/BrianMarquez3/Learning-Java/tree/main/AutoboxingUnboxing)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
