@@ -1983,7 +1983,7 @@ _Uso de Modificadores de Acceso en Java - de menos a mas_
 |C7          | [Modificadores de acceso - Public](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-Public)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 |C8          | [Modificadores de acceso - Protected](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-Protected)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 |C9          | [Modificadores de acceso - Default o Package](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-defaultPackage)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
-|C10          | [Modificadores de acceso - Privado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-defaultPackage)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C10          | [Modificadores de acceso - Privado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-private)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 
 
