@@ -1982,7 +1982,7 @@ _Uso de Modificadores de Acceso en Java - de menos a mas_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C7          | [Modificadores de acceso](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C7          | [Modificadores de acceso](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-Public)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 
 ---
