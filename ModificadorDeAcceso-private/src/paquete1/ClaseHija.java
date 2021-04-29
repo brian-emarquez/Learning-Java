@@ -8,8 +8,11 @@ import paquete1.Clase1;
  */
 class ClaseHija extends Clase1{
     public ClaseHija(){
-        super();
-        System.out.println("atributoDefault = " + this.atributoDefault);
-        this.metododefault();
+        super("Publico");
+//      this.atributoPrivado = "Modificiacion atributo provado"
+//        this.metododefault();
+
+
+
     }
 }

@@ -5,16 +5,33 @@
  */
 package paquete1;
 
-/*Deaful o package*/
+/*el atributo private no funciona en clases*/
 
 class Clase1 {
-    String atributoDefault = "Valor Atributo Default";
+    private String atributoDefault = "Valor Atributo private";
     
-    Clase1(){
-        System.err.println("Constructor Default");
+    private Clase1(){
+        System.out.println("Constructor private");
     }
     
-    void metododefault(){
-        System.out.println("Metodo Default");
+    public Clase1(String argumento){
+        this();
+        System.out.println("Constructor publico");
     }
+     
+    private void metodoprivate(){
+        System.out.println("Metodo private");
+    }
+    /**/
+    
+    public String getAtributoDefault() {
+        return atributoDefault;
+    }
+
+    public void setAtributoDefault(String atributoDefault) {
+        this.atributoDefault = atributoDefault;
+    }
+    
+    
+    
 }
