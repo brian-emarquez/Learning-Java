@@ -1,7 +1,7 @@
 ### Modoficador de Acceso
 
 
-_Uso de Modificadores de Acceso en Java_
+_Uso de Modificadores de Acceso en Java - de menos a mas_
 
 <table>
 
@@ -27,7 +27,7 @@ _Uso de Modificadores de Acceso en Java_
     <td>SI</td>
 </tr>
 <tr>
-    <td>default</td>
+    <td>default *</td>
     <td>Si</td>
     <td>Si</td>
     <td>Si</td>
