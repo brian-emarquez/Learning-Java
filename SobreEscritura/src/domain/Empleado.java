@@ -10,8 +10,9 @@ public class Empleado {
 	}
 	
 	public String obtenerDetalles(){
-		return "Nombre" + this.nombre + "sueldo: " + this.sueldo;
+		return "nombre" + this.nombre + "sueldo: " + this.sueldo;
 	}
+	
 	/*getter setter*/
 	public String getNombre() {
 		return nombre;
