@@ -136,6 +136,8 @@
 |  C4 |:heavy_check_mark: | [Bloque Inicializacion](#Bloque-Inicializacion)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C5 |:heavy_check_mark: | [ForEach](#ForEach)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C6 |:heavy_check_mark: | [Autoboxing Unboxing](#Autoboxing-Unboxing)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C7 |:heavy_check_mark: | [Modificadores de acceso](#Modificadores-de-acceso)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 
 ---
@@ -1931,6 +1933,55 @@ public final static int MI_CONSTATNE = 1;
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C6          | [Autoboxing Unboxing](https://github.com/BrianMarquez3/Learning-Java/tree/main/AutoboxingUnboxing)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+
+## Modificadores de acceso
+
+_Uso de Modificadores de Acceso en Java - de menos a mas_
+
+<table>
+
+<tr>
+    <td>MODIFICADOR</td>
+    <td>CLASE</td>
+    <td>VARIABLE</td>
+    <td>METODO</td>
+    <td>CONSTRUCTOR</td>
+</tr>
+<tr>
+    <td>public</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>SI</td>
+</tr>
+<tr>
+    <td>protected</td>
+    <td>No</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>SI</td>
+</tr>
+<tr>
+    <td>default *</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>SI</td>
+</tr>
+<tr>
+    <td>private</td>
+    <td>No</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>SI</td>
+</tr>
+</table>
+
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|C7          | [Modificadores de acceso](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+
 
 ---
 ## Spring Boot
