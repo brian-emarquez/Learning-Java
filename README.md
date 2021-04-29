@@ -1988,12 +1988,10 @@ _Uso de Modificadores de Acceso en Java - de menos a mas_
 
 ## Sobreescritura
 
-_Usando Eclpse_
-
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <h3 align="center"> Programacion Java <h3>
+      <h3 align="center"> Usando Eclpise <h3>
       <img align="center" style="padding=0;" src="./images/eclipse1.png" />
     </td>
   </tr>
