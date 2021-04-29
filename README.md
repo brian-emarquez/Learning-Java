@@ -136,7 +136,7 @@
 |  C4 |:heavy_check_mark: | [Bloque Inicializacion](#Bloque-Inicializacion)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C5 |:heavy_check_mark: | [ForEach](#ForEach)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C6 |:heavy_check_mark: | [Autoboxing Unboxing](#Autoboxing-Unboxing)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  C7 |:heavy_check_mark: | [Modificadores de acceso](#Modificadores-de-acceso)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C7-C10 |:heavy_check_mark: | [Modificadores de acceso](#Modificadores-de-acceso)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -1982,6 +1982,9 @@ _Uso de Modificadores de Acceso en Java - de menos a mas_
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C7          | [Modificadores de acceso - Public](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-Public)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 |C8          | [Modificadores de acceso - Protected](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-Protected)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C9          | [Modificadores de acceso - Default o Package](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-defaultPackage)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C10          | [Modificadores de acceso - Privado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ModificadorDeAcceso-defaultPackage)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+
 
 
 ---
