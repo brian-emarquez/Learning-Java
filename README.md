@@ -1936,6 +1936,8 @@ public final static int MI_CONSTATNE = 1;
 
 ## Modificadores de acceso
 
+*PUBLIC*
+
 _Uso de Modificadores de Acceso en Java - de menos a mas_
 
 <table>
