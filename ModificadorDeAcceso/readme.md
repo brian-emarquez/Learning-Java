@@ -12,17 +12,34 @@ _Uso de Modificadores de Acceso en Java_
     <td>METODO</td>
     <td>CONSTRUCTOR</td>
 </tr>
-
 <tr>
     <td>public</td>
     <td>Si</td>
     <td>Si</td>
     <td>Si</td>
-    <td>SI+i</td>
+    <td>SI</td>
 </tr>
-
-
-
+<tr>
+    <td>protected</td>
+    <td>No</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>SI</td>
+</tr>
+<tr>
+    <td>default</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>SI</td>
+</tr>
+<tr>
+    <td>private</td>
+    <td>No</td>
+    <td>Si</td>
+    <td>Si</td>
+    <td>SI</td>
+</tr>
 </table>
 
 
