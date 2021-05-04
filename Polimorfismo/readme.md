@@ -7,7 +7,7 @@ _Polimorfismo en programacion orienta a objetos_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/polimorfismo1.jpg" />
+      <img align="center" style="padding=0;" src="../images/polimorfismo1.jpg" />
     </td>
   </tr>
 </table>
