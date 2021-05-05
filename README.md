@@ -139,6 +139,7 @@
 |  C7-C10 |:heavy_check_mark: | [Modificadores de acceso](#Modificadores-de-acceso)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C11 |:heavy_check_mark: | [Sobreescritura](#Sobreescritura)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C12 |:heavy_check_mark: | [Polimorfismo](#Polimorfismo)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C13 |:heavy_check_mark: | [Palabra InstaceOf](#Palabra-InstaceOf)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -2025,6 +2026,16 @@ _Polimorfismo en URML_
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C12          | [Polimorfismo](https://github.com/BrianMarquez3/Learning-Java/tree/main/Polimorfismo)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+
+
+## Palabra InstaceOf
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|C13          | [Palabra InstaceOf](https://github.com/BrianMarquez3/Learning-Java/tree/main/Polimorfismo)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+
+
+
 
 ---
 ## Spring Boot
