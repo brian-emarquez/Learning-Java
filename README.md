@@ -2011,7 +2011,7 @@ _Uso de Modificadores de Acceso en Java - de menos a mas_
   </tr>
 </table>
 
-_Polimorfismo 2_
+_Polimorfismo en URML_
 
 <table align="center" >
   <tr>
@@ -2025,8 +2025,6 @@ _Polimorfismo 2_
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C12          | [Polimorfismo](https://github.com/BrianMarquez3/Learning-Java/tree/main/Polimorfismo)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
-|-          | [Polimorfismo 2 ](https://github.com/BrianMarquez3/Learning-Java/tree/main/Polimorfismo_2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
-
 
 ---
 ## Spring Boot
