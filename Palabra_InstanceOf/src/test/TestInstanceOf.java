@@ -6,8 +6,8 @@ public class TestInstanceOf {
 
     public static void main(String[] args) {
         Empleado empleado = new Empleado("Juan", 5000);
-
-        Gerente gerente = new Gerente("Karla", 10000, "Contabilidad");
+        determinarTipo(empleado);     
+//        Gerente gerente = new Gerente("Karla", 10000, "Contabilidad");
 
     }
 
@@ -16,8 +16,12 @@ public class TestInstanceOf {
         /*instanceOf usando usualmene para preguntar*/
         //la clases hija esta apunta a un objeto en memoria de tipo gerente
         if (empleado instanceof Gerente) {
-             System.out.println("empleado = " + empleado);
+            // ¿ a empleado = new Empleado? fañso apunta a gerente
+            System.out.println("Es de tipo Gerente" + empleado);
+        }else if(empleado instanceof Empleado){
+            System.out.println("Es de tipo empleado");
+        }else if(empleado instanceof Object){
+            System.out.println("Es de tipo Object");
         }
     }
-
 }
