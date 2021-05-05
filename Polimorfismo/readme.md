@@ -28,7 +28,12 @@ Morfismo = "forma"
 ```
 _Las muchas formas que puede tomar el objeto dependiendo del objeto que se utilise_
 
-
-
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/polimorfismo2.png" />
+    </td>
+  </tr>
+</table>
 
 Fuente: [Polimorfismo en Programación Orientada a Objetos](https://desarrolloweb.com/articulos/polimorfismo-programacion-orientada-objetos-concepto.html#:~:text=Veremos%20que%20el%20polimorfismo%20y,%2C%20moto%2C%20autob%C3%BAs%2C%20etc.)
