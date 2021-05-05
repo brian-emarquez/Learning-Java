@@ -18,5 +18,17 @@ _Polimorfismo en programacion orienta a objetos_
 Nota: Esta es la definición académica que nos ofrece el profesor de la UPM Luis Fernández, del que fui alumno en la universidad y en EscuelaIT.
 ```
 
+<p>_Tambien_ es una relacion de tipo herencia, un objeto de superclase puede almacenar un objeto de cualquiera de sus subclases. </p>
+
+<p> Esto significa que la clases padre o superclase es compatible con lo tipos que derivan de ella. Pero no al reves</p>
+
+```
+Poli = "Muchos"
+Morfismo = "forma"
+```
+_Las muchas formas que puede tomar el objeto dependiendo del objeto que se utilise_
+
+
+
 
 Fuente: [Polimorfismo en Programación Orientada a Objetos](https://desarrolloweb.com/articulos/polimorfismo-programacion-orientada-objetos-concepto.html#:~:text=Veremos%20que%20el%20polimorfismo%20y,%2C%20moto%2C%20autob%C3%BAs%2C%20etc.)
