@@ -2032,7 +2032,7 @@ _Polimorfismo en URML_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C13          | [Palabra InstaceOf](https://github.com/BrianMarquez3/Learning-Java/tree/main/Polimorfismo)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C13          | [Palabra InstaceOf](https://github.com/BrianMarquez3/Learning-Java/tree/main/Palabra_InstanceOf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 
 
