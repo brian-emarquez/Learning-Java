@@ -2030,6 +2030,11 @@ _Polimorfismo en URML_
 
 ## Palabra InstaceOf
 
+```java
+¿esta apuntando a gerente? empleado = new Empleado? falso apunta a empleado
+```
+
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C13          | [Palabra InstaceOf](https://github.com/BrianMarquez3/Learning-Java/tree/main/Palabra_InstanceOf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)

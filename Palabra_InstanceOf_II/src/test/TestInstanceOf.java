@@ -6,18 +6,21 @@ public class TestInstanceOf {
 
     public static void main(String[] args) {
         Empleado empleado = new Empleado("Juan", 5000);
+        empleado = new Gerente("Karla", 1000, "Contabilidad");
         determinarTipo(empleado);
-//      Gerente gerente = new Gerente("Karla", 10000, "Contabilidad");
-
     }
 
     /*Concepto de polimorfismo*/
     public static void determinarTipo(Empleado empleado) {
-        /*instanceOf usando usualmene para preguntar*/
-        //la clases hija esta apunta a un objeto en memoria de tipo gerente
+
         if (empleado instanceof Gerente) {
-//            ¿esta apuntando a gerente? empleado = new Empleado? falso apunta a empleado
-            System.out.println("Es de tipo Gerente" + empleado);
+            // ¿ a empleado = new Empleado? fañso apunta a gerente
+
+            System.out.println("Es de tipo Gerente");
+            Gerente gerente = (Gerente) empleado;//conversion
+//            gerente.getDepartamento();
+            System.out.println("gerente = " + gerente.getDepartamento());
+
         } else if (empleado instanceof Empleado) {
             System.out.println("Es de tipo empleado");
         } else if (empleado instanceof Object) {
