@@ -18,5 +18,6 @@ public class TestConversion {
         escritor.getTipoEscritura();
         
         Empleado empleado2 = escritor;
+//        empleado2.obtenerDetalles();
     }
 }
