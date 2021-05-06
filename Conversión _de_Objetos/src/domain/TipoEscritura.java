@@ -13,4 +13,7 @@ public enum TipoEscritura {
     public String getDescripcion(){
         return this.descripcion;
     }
+    
+    
+    
 }

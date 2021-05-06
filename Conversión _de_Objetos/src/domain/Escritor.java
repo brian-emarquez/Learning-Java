@@ -14,4 +14,14 @@ public class Escritor extends Empleado {
     public String obtenerDetalles(){
         return super.obtenerDetalles() + ", tipoEscritura: " + tipoEscritura.getDescripcion();
     }
+
+    @Override
+    public String toString() {
+        return "Escritor{" + "tipoEscritura=" + tipoEscritura + '}'+ " " + super.toString();
+    }
+    
+    public TipoEscritura getTipoEscritura (){
+        return this.tipoEscritura;
+    }
+    
 }
