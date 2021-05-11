@@ -5,7 +5,10 @@ public interface IAccesoDatos {
     
     /* metodo abstracto , definido automaticamente*/
     void insertar();
+    
     void listar();
+    
     void actualizar();
+    
     void eliminar();
 }
