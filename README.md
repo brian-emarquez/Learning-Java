@@ -2061,12 +2061,37 @@ _Polimorfismo en URML_
 
 ## Clase Object
 
+- uso de hash
+- uso de equal
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C16          | [Clase Object](https://github.com/BrianMarquez3/Learning-Java/tree/main/ClaseObject)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 ## Clases Abstractas 
+
+```java
+
+public abstract class FiguraGeometica{
+    //las clase padre no define ocomportamiento
+    abstract void dibujar();
+}
+````
+
+---
+
+
+```java
+
+pulic class Rectangulo extends FiguraGometrica{
+
+    void dibujar(){
+        // comportamiento de la subclase
+    }
+
+}
+
+```
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
