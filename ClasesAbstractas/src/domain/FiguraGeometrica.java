@@ -15,7 +15,7 @@ public abstract class FiguraGeometrica {
     protected FiguraGeometrica(String tipoFigura){
         this.tipoFigura = tipoFigura;
     }
-    //metodo bastracto
+    //metodo abstracto
     public abstract void dibujar();
 
     public String getTipoFigura() {
