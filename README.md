@@ -144,6 +144,7 @@
 |  C16 |:heavy_check_mark: | [Clase Object](#Clase-Object)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C17 |:heavy_check_mark: | [Clases abstractas](#clases-abstractas)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C18 |:heavy_check_mark: | [Manejo de interfaces](#Manejo-de-interfaces)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C19 |:heavy_check_mark: | [Manejo de JavaBeans](#[Manejo-de-JavaBeans)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -2110,12 +2111,25 @@ pulic class Rectangulo extends FiguraGometrica{
 
 ## Manejo de interfaces
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/CreacionInterfaces.png" />
+    </td>
+  </tr>
+</table>
+
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C18          | [Manejo de interfaces](https://github.com/BrianMarquez3/Learning-Java/tree/main/Interfaces)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 
+## Manejo de JavaBeans
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|C18          | [Manejo de JavaBeans](https://github.com/BrianMarquez3/Learning-Java/tree/main/Interfaces)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 
 ---
