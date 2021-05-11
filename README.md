@@ -2094,7 +2094,6 @@ pulic class Rectangulo extends FiguraGometrica{
 
 ```
 
-
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -2103,7 +2102,6 @@ pulic class Rectangulo extends FiguraGometrica{
   </tr>
 </table>
 
-  <!-- ![jav
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -2112,9 +2110,10 @@ pulic class Rectangulo extends FiguraGometrica{
 
 ## Manejo de interfaces
 
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C18          | [Manejo de interfaces](https://github.com/BrianMarquez3/Learning-Java/tree/main/ClasesAbstractas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C18          | [Manejo de interfaces](https://github.com/BrianMarquez3/Learning-Java/tree/main/Interfaces)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 
 
