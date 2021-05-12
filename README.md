@@ -2129,7 +2129,7 @@ pulic class Rectangulo extends FiguraGometrica{
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C18          | [Manejo de JavaBeans](https://github.com/BrianMarquez3/Learning-Java/tree/main/Interfaces)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
+|C18          | [Manejo de JavaBeans](https://github.com/BrianMarquez3/Learning-Java/tree/main/JavaBeans)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java)
 
 
 ---
