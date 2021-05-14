@@ -1,32 +1,34 @@
 /* Set en java*/
-
 package test;
 
 import java.util.*;
 
 public class TestColecciones {
+
     public static void main(String[] args) {
-        /*creamos eñl objeto*/
+        /*List : conm orden*/
         List miLista = new ArrayList();
-        miLista.add("Lunes");
-        miLista.add("Martes");
-        miLista.add("Miercoles");
-        miLista.add("Jueves");
-        miLista.add("Viernes");
-        
-        /*usando la funcion lambda o ciclo forearch*/
-        miLista.forEach(elemento -> {
-            System.out.println("elemento = " + elemento);
-        });
-        
-        /* Set*/
+        miLista.add("Luness");
+        miLista.add("Martess");
+        miLista.add("Miercoless");
+        miLista.add("Juevess");
+        miLista.add("Vierness");
+//        imprimir(miLista);
+
+        /* Set: sin orden*/
         Set miSet = new HashSet();
         miSet.add("Lunes");
         miSet.add("Martes");
         miSet.add("Miercoles");
         miSet.add("Jueves");
         miSet.add("Viernes");
-        
+        imprimir(miSet);
     }
-    
+
+    public static void imprimir(Collection coleccion) {
+        coleccion.forEach(elemento -> {
+            System.out.println("elemento = " + elemento);
+        });
+    }
+
 }
