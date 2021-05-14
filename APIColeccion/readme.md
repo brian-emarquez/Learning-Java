@@ -11,16 +11,14 @@
 ---
 
 <table align="center">
-<tr>
-  <td colspan="2">Collections</td>
-</tr>
+  <tr>
+    <td colspan="2">Collections</td>
+  </tr>
 
-<tr>
-  <td>Set</td>
-  <td>Lis</td>
-</tr>
-
-
+  <tr>
+    <td>Set</td>
+    <td>Lis</td>
+  </tr>
 </table>
 
 
