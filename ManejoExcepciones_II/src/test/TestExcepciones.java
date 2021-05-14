@@ -11,7 +11,8 @@ public class TestExcepciones {
             resultado = division(10,0 );
         }catch(Exception e){
             System.out.println("Ocurrió un error: ");
-            e.printStackTrace(System.out);
+           e.printStackTrace(System.out);
+//            System.out.print(e.getMessage());
         }    
         System.out.println("resultado = " + resultado);
     }
