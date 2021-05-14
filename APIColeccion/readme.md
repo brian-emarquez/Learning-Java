@@ -8,8 +8,9 @@
   </tr>
 </table>
 
+---
 
-<table>
+<table align="center">
 <tr>
   <td colspan="2">Collections</td>
 </tr>
