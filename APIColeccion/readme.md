@@ -12,7 +12,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="2">Collections</td>
+    <td colspan="2" align="center">Collections</td>
   </tr>
 
   <tr>
