@@ -19,7 +19,7 @@
   <tr>
     <td>Set</td>
     <td>Lis</td>
-     td>⬆️</td>
+    <td>⬆️</td>
   </tr>
 
   <tr>
