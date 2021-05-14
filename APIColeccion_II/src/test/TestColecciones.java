@@ -6,7 +6,7 @@ import java.util.*;
 public class TestColecciones {
 
     public static void main(String[] args) {
-        /*List : conm orden*/
+        /*List : con orden*/
         List miLista = new ArrayList();
         miLista.add("Luness");
         miLista.add("Martess");
@@ -15,7 +15,7 @@ public class TestColecciones {
         miLista.add("Vierness");
 //        imprimir(miLista);
 
-        /* Set: sin orden*/
+        /* Set: sin orden, sin duplicados*/
         Set miSet = new HashSet();
         miSet.add("Lunes");
         miSet.add("Martes");
