@@ -10,7 +10,7 @@ public class TestExcepciones {
         try{
             resultado = division(10,0 );
         }catch(Exception e){
-            System.out.println("Ocurrió un error: ");
+           System.out.println("Ocurrió un error: ");
            e.printStackTrace(System.out);
 //            System.out.print(e.getMessage());
         }    

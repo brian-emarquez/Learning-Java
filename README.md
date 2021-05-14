@@ -2138,6 +2138,8 @@ pulic class Rectangulo extends FiguraGometrica{
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C20          | [Manejo de Excepciones I](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |C21          | [Manejo de Excepciones I](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|C22          | [Manejo de Excepciones II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
 
 
 
