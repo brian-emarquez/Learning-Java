@@ -19,6 +19,11 @@
     <td>Set</td>
     <td>Lis</td>
   </tr>
+
+  <tr>
+    <td><strong>HashSet</strong></td>
+    <td><strong>ArrayList</strong></td>
+  </tr>
 </table>
 
 
