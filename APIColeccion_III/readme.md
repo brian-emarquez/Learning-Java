@@ -13,7 +13,6 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">Collections</td>
-    <td colspan="2" align="center">Map</td>
   </tr>
 
   <tr>

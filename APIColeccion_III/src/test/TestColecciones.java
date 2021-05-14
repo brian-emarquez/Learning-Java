@@ -6,7 +6,7 @@ import java.util.*;
 public class TestColecciones {
 
     public static void main(String[] args) {
-        /*List : con orden, con duplicados*/
+        /*List : con orden*/
         List miLista = new ArrayList();
         miLista.add("Luness");
         miLista.add("Martess");
