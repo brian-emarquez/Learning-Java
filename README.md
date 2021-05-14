@@ -2157,7 +2157,7 @@ pulic class Rectangulo extends FiguraGometrica{
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C25          | [Manejo de Generics](https://github.com/BrianMarquez3/Learning-Java/tree/main/APIColeccion)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|C25          | [Manejo de Generics](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoGenerics)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ---
