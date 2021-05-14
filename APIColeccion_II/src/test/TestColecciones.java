@@ -1,4 +1,4 @@
-/* API de Colecciones*/
+/* Set en java*/
 
 package test;
 
@@ -10,7 +10,7 @@ public class TestColecciones {
         List miLista = new ArrayList();
         miLista.add("Lunes");
         miLista.add("Martes");
-        miLista.add("miercoles");
+        miLista.add("Miercoles");
         miLista.add("Jueves");
         miLista.add("Viernes");
         
@@ -18,6 +18,15 @@ public class TestColecciones {
         miLista.forEach(elemento -> {
             System.out.println("elemento = " + elemento);
         });
+        
+        /* Set*/
+        Set miSet = new HashSet();
+        miSet.add("Lunes");
+        miSet.add("Martes");
+        miSet.add("Miercoles");
+        miSet.add("Jueves");
+        miSet.add("Viernes");
+        
     }
     
 }
