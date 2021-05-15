@@ -86,7 +86,6 @@
 |  034   |:heavy_check_mark: | [Busqueda Binaria](#Busqueda-Binaria)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
-
 ### Operadores Java
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -160,6 +159,8 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  D1  |:heavy_check_mark: | [ Descargar e Instalar Oracle](#Descargar-e-Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D2  |:heavy_check_mark: | [ Creacion Tablas](#Descargar-e-Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 
 ---
@@ -2305,7 +2306,7 @@ _Ejecutar la Intalacion, creacion de Instancia_
 
 _Creacion de Usuario por la consola SQL PlUS_
 
-**Entrar modo admin en pasword presionar ENTER**
+**Ingresar modo admin en pasword presionar ENTER**
 
 ```sql
 Introduzca el nombre de usuario: CONN /AS SYSDBA
@@ -2336,7 +2337,7 @@ CREATE USER users IDENTIFIED BY password
 GRANT DBA TO briandb;
 ```
 
-_Nos Conectamos a SQL Developer con las credenciales creadas_
+_Ejecutar y Conectar a SQL Developer con las credenciales creadas_
 
 <table align="center" >
   <tr>
@@ -2346,6 +2347,12 @@ _Nos Conectamos a SQL Developer con las credenciales creadas_
   </tr>
 </table>
 
+
+##  Creacion Tablas
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D2        | [Creacion Tablas Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoArchivos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ---
 ## Spring Boot
