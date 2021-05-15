@@ -2273,7 +2273,7 @@ ublic class ManejoArchivos {
 
 **Descarga Windows**
 
-_Descargaremos ORACLE XE 18_
+_Descargar ORACLE XE 18_
 
 <table align="center" >
   <tr>
@@ -2283,7 +2283,7 @@ _Descargaremos ORACLE XE 18_
   </tr>
 </table>
 
-_Descargaremos ORACLE Developer_
+_Descargar ORACLE Developer_
 
 <table align="center" >
   <tr>
