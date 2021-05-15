@@ -159,7 +159,7 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  D1  |:heavy_check_mark: | [ Descargar e Instalar Oracle](#Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D1  |:heavy_check_mark: | [ Descargar e Instalar Oracle](#Descargar-e-Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -2271,10 +2271,80 @@ ublic class ManejoArchivos {
   </tr>
 </table>
 
-**Descarga**
+**Descarga Windows**
 
-_Descargaremos Oracle XE_
+_Descargaremos ORACLE XE 18_
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/OracleXEpage.png" />
+    </td>
+  </tr>
+</table>
+
+_Descargaremos ORACLE Developer_
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/SQLDeveloperPage.png" />
+    </td>
+  </tr>
+</table>
+
+_Ejecutar la Intalacion, creacion de Instancia_
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/Oracle-Instalador.png" />
+    </td>
+  </tr>
+</table>
+
+_Creacion de Usuario por la consola SQL PlUS_
+
+**Entrar modo admin en pasword presionar ENTER**
+
+```sql
+Introduzca el nombre de usuario: CONN /AS SYSDBA
+Introduzca la contrase±a: /*ENTER*/
+```
+
+** Ver los Usuarios ***
+
+```sql
+show user;
+```
+
+** Eviamos el Errir ORA-65096 **
+
+```sql
+ALTER SESSION SET "_ORACLE_SCRIPT" = TRUE
+```
+
+** Creamos Usuario **
+
+```sql
+CREATE USER users IDENTIFIED BY password
+```
+
+** Briandomos Admin **
+
+```sql
+GRANT DBA TO briandb;
+```
+
+_Nos Conectamos a SQL Developer con las credenciales creadas_
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/SQLDeveloper.png" />
+    </td>
+  </tr>
+</table>
 
 
 ---
