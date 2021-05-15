@@ -147,7 +147,8 @@
 |  C19 |:heavy_check_mark: | [Manejo de JavaBeans](#[Manejo-de-JavaBeans)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C20-C22 |:heavy_check_mark: | [Manejo de Excepciones](#Manejo-de-Excepciones)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C23-C25 |:heavy_check_mark: | [API de collections](#API-de-collections)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  C26 |:heavy_check_mark: | [Manejo de Generics](#Manejo-de-Generics)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C26-C27 |:heavy_check_mark: | [Manejo de Generics](#Manejo-de-Generics)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C28 |:heavy_check_mark: | [Manejo de Archvos](#Manejo-de-Archvos)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -2142,6 +2143,8 @@ pulic class Rectangulo extends FiguraGometrica{
 |C20          | [Manejo de Excepciones I](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |C21         | [Manejo de Excepciones II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
+## API de collections
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C23          | [API de collections](https://github.com/BrianMarquez3/Learning-Java/tree/main/APIColeccion)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
@@ -2152,12 +2155,17 @@ pulic class Rectangulo extends FiguraGometrica{
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C25         | [Manejo de Generics](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoGenerics)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-|C26         | [API Colecciones Genericas](https://github.com/BrianMarquez3/Learning-Java/tree/main/ApiColeccionesGenericas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|C26         | [Manejo de Generics](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoGenerics)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|C27         | [API Colecciones Genericas](https://github.com/BrianMarquez3/Learning-Java/tree/main/ApiColeccionesGenericas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
+## Manejo de Archvos
 
----8
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|C28         | [Manejo de Archvos](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoGenerics)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+---
 ## Spring Boot
 
   ![Spring](./images/spring.png)
