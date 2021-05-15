@@ -286,8 +286,16 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Intalador Visual Studio Code. <br>
 📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Intalador Eclipse Technology. <br>
 📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Intalador IntelliJ IDEA de jetbrains. <br>
+📦 [Instalador MySQL](https://dev.mysql.com/downloads/mysql/) Intalador MySQL Community Downloads. <br>
 
- ![java](./images/15.png)
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/j15.png" />
+    </td>
+  </tr>
+</table>
+ <!-- ![java](./images/15.png) -->
 
 ---
 
