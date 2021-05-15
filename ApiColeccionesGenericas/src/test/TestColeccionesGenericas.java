@@ -14,13 +14,11 @@ public class TestColeccionesGenericas {
         miLista.add("Juevess");
         miLista.add("Vierness");
         String elemento = miLista.get(1);
-        System.out.println("elemento = " + elemento);
+//        System.out.println("elemento = " + elemento);
+//        imprimir(miLista);
         
-        imprimir(miLista);
-        
-
         /* Set: sin orden, sin duplicados*/
-        Set miSet = new HashSet();
+        Set<String> miSet = new HashSet<>(); /* se convirtio a tipo generico*/
         miSet.add("Lunes");
         miSet.add("Martes");
         miSet.add("Miercoles");
@@ -28,16 +26,16 @@ public class TestColeccionesGenericas {
         miSet.add("Viernes");
 //        imprimir(miSet);
 
-        Map miMapa = new HashMap();
+        Map <String, String> miMapa = new HashMap<>();
         miMapa.put("Valor1", "Brian");
         miMapa.put("Valor2", "Maria");
         miMapa.put("Valor3", "Rosario");
         
-//        String elemento = (String) miMapa.get("Valor1");
-//        System.out.println("elemento = " + elemento);
-//        
-//        imprimir(miMapa.keySet());
-       
+        String elementoMapa = miMapa.get("Valor1");
+//        System.out.println("elementoMapa = " + elementoMapa);
+
+        imprimir(miMapa.keySet());
+        imprimir(miMapa.values());
     }
 
     public static void imprimir(Collection<String> coleccion) {
