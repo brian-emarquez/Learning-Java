@@ -148,7 +148,7 @@
 |  C20-C22 |:heavy_check_mark: | [Manejo de Excepciones](#Manejo-de-Excepciones)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C23-C25 |:heavy_check_mark: | [API de collections](#API-de-collections)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C26-C27 |:heavy_check_mark: | [Manejo de Generics](#Manejo-de-Generics)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  C28 |:heavy_check_mark: | [Manejo de Archvos](#Manejo-de-Archvos)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C28-C29 |:heavy_check_mark: | [Manejo de Archvos](#Manejo-de-Archvos)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -2160,6 +2160,80 @@ pulic class Rectangulo extends FiguraGometrica{
 
 
 ## Manejo de Archvos
+
+_Ejemplo_
+
+```java
+ublic class ManejoArchivos {
+
+    public static void crearArchivo(String nombreArchivo) {
+        File archivo = new File(nombreArchivo);
+
+        /* generado automaticamente ayudandonos con netbeans*/
+        try {
+            PrintWriter salida = new PrintWriter(archivo);
+            salida.close();
+            System.out.println("Se ha creado el archivo ");
+
+        } catch (FileNotFoundException ex) {
+            ex.printStackTrace(System.out);
+        }
+    }
+
+    public static void escribirArchivo(String nombreArchivo, String contenido) {
+        File archivo = new File(nombreArchivo);
+
+        /* generado automaticamente ayudandonos con netbeans*/
+        try {
+            PrintWriter salida = new PrintWriter(archivo);
+            salida.print(contenido);
+            salida.close();
+            System.out.println("Se ha escrito en el archivo");
+
+        } catch (FileNotFoundException ex) {
+            ex.printStackTrace(System.out);
+        }
+    }
+
+    public static void anexaArchivo(String nombreArchivo, String contenido) {
+        File archivo = new File(nombreArchivo);
+
+        /* generado automaticamente ayudandonos con netbeans*/
+        try {
+            PrintWriter salida = new PrintWriter(new FileWriter(archivo, true));
+            salida.print(contenido);
+            salida.close();
+            System.out.println("Se ha anexado en el archivo");
+
+        } catch (FileNotFoundException ex) {
+            ex.printStackTrace(System.out);
+        } catch (IOException ex) {
+            ex.printStackTrace(System.out);
+        }
+    }
+
+    public static void leerArchivo(String nombreArchivo) {
+        var archivo = new File(nombreArchivo);
+        try {
+            //BufferredReader nos ayuda a leer archivos
+            var entrada = new BufferedReader(new FileReader(archivo));
+            var lectura = entrada.readLine();
+            while (lectura != null) {
+                System.out.println("lectura = " + lectura);
+                lectura = entrada.readLine();
+            }
+            entrada.close();
+
+        } catch (FileNotFoundException ex) {
+            ex.printStackTrace(System.out);
+        } catch (IOException ex) {
+            ex.printStackTrace(System.out);
+        }
+
+    }
+}
+```
+
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
