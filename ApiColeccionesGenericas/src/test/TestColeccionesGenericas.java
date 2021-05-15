@@ -7,13 +7,17 @@ public class TestColeccionesGenericas {
 
     public static void main(String[] args) {
         /*List : con orden*/
-        List miLista = new ArrayList();
+        List <String> miLista = new ArrayList<>();
         miLista.add("Luness");
         miLista.add("Martess");
         miLista.add("Miercoless");
         miLista.add("Juevess");
         miLista.add("Vierness");
-//        imprimir(miLista);
+        String elemento = miLista.get(1);
+        System.out.println("elemento = " + elemento);
+        
+        imprimir(miLista);
+        
 
         /* Set: sin orden, sin duplicados*/
         Set miSet = new HashSet();
@@ -29,15 +33,14 @@ public class TestColeccionesGenericas {
         miMapa.put("Valor2", "Maria");
         miMapa.put("Valor3", "Rosario");
         
-        String elemento = (String) miMapa.get("Valor1");
-        System.out.println("elemento = " + elemento);
-        
-        imprimir(miMapa.keySet());
+//        String elemento = (String) miMapa.get("Valor1");
+//        System.out.println("elemento = " + elemento);
+//        
+//        imprimir(miMapa.keySet());
        
-      
     }
 
-    public static void imprimir(Collection coleccion) {
+    public static void imprimir(Collection<String> coleccion) {
         coleccion.forEach(elemento -> {
             System.out.println("elemento = " + elemento);
         });
