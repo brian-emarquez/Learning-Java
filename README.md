@@ -2271,9 +2271,11 @@ ublic class ManejoArchivos {
   </tr>
 </table>
 
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C28         | [Descargar e Instalar Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoArchivos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+**Descarga**
+
+_Descargaremos Oracle XE_
+
+
 
 ---
 ## Spring Boot
