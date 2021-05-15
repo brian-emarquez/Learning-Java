@@ -159,7 +159,7 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  D1  |:heavy_check_mark: | [ Instalar Oracle](#Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D1  |:heavy_check_mark: | [ Descargar e Instalar Oracle](#Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -2261,7 +2261,7 @@ ublic class ManejoArchivos {
 
 ---
 ## Java con JDBC
-### Instalar Oracle
+### Descargar e Instalar Oracle
 
 <table align="center" >
   <tr>
@@ -2271,10 +2271,9 @@ ublic class ManejoArchivos {
   </tr>
 </table>
 
-
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|C28         | [Instalar Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoArchivos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#ava-con-JDBC) |
+|C28         | [Descargar e Instalar Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoArchivos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
 
 ---
 ## Spring Boot
@@ -2335,12 +2334,15 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 
 ## Spotify Java
+
 🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
 
 ## Paypal Donation
+
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ## License 
+
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
 
  <table align="center">
