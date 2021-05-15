@@ -2140,16 +2140,7 @@ pulic class Rectangulo extends FiguraGometrica{
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C20          | [Manejo de Excepciones I](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-<<<<<<< HEAD
 |C21         | [Manejo de Excepciones II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-=======
-|C21          | [Manejo de Excepciones I](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-|C22          | [Manejo de Excepciones II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoExcepciones_III)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-
-
-## API de collections
-
->>>>>>> 7b709032fef2fd01f5829b41007a9b007814cd69
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -2162,6 +2153,8 @@ pulic class Rectangulo extends FiguraGometrica{
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |C25          | [Manejo de Generics](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoGenerics)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|C26          | [Manejo de Generics II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoGenerics)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
 
 
 ---8
