@@ -8,7 +8,7 @@ public class TestManejoArchivo {
     public static void main(String[] args) {
         var nombreArchivo = "Prueba.ext";
 //        crearArchivo(nombreArchivo);
-//    anexaArchivo(nombreArchivo, "Hola desde java");
-//    anexaArchivo(nombreArchivo, "Adios desde java");
+    anexaArchivo(nombreArchivo, "Hola desde java");
+    anexaArchivo(nombreArchivo, "Adios desde java");
     }
 }
