@@ -2352,7 +2352,7 @@ _Ejecutar y Conectar a SQL Developer con las credenciales creadas_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|D2        | [Creacion Tablas Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoArchivos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|D2        | [Creacion Tablas Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/CreacionTablasOracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ---
 ## Spring Boot
