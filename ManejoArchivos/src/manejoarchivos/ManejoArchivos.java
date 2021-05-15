@@ -19,14 +19,15 @@ public class ManejoArchivos {
             ex.printStackTrace(System.out);
         }
     }
-    public static void EscribirArchivo (String nombreArchivo){
+    public static void escribirArchivo (String nombreArchivo, String contenido){
         File archivo = new File(nombreArchivo);
 
         /* generado automaticamente ayudandonos con netbeans*/
         try {
             PrintWriter salida = new PrintWriter(archivo);
+            salida.print(contenido);
             salida.close();
-            System.out.println("Se ha creado el archivo ");
+            System.out.println("Se ha escrito en el archivo");
             
         } catch (FileNotFoundException ex) {
             ex.printStackTrace(System.out);

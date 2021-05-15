@@ -2,11 +2,12 @@
 
 package test;
 
-import static manejoarchivos.ManejoArchivos.crearArchivo;
+import static manejoarchivos.ManejoArchivos.*;
 
 public class TestManejoArchivo {
     public static void main(String[] args) {
         var nombreArchivo = "Prueba.ext";
-        crearArchivo(nombreArchivo);
+//        crearArchivo(nombreArchivo);
+    escribirArchivo(nombreArchivo, "Hola desde java");
     }
 }
