@@ -271,9 +271,11 @@ Cuando la mayoría de la gente piensa en el lenguaje de programación Java, pien
 ----
 * Java EE
 La plataforma Java EE se basa en la plataforma Java SE. La plataforma Java EE proporciona una API y un entorno de tiempo de ejecución para desarrollar y ejecutar aplicaciones de red seguras, escalables, fiables y de gran escalado.
+
 ----
 * Java ME
 La plataforma Java ME proporciona una API y una máquina virtual de espacio pequeño para ejecutar aplicaciones de lenguaje de programación Java en dispositivos pequeños, como teléfonos móviles. La API es un subconjunto de la API de Java SE, junto con bibliotecas de clases especiales útiles para el desarrollo de aplicaciones de dispositivos pequeños. Las aplicaciones Java ME son a menudo clientes de servicios de plataforma Java EE.
+
 ----
 * Javafx
 JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas mediante una API ligera de interfaz de usuario. Las aplicaciones JavaFX utilizan motores de medios y gráficos acelerados por hardware para aprovechar los clientes de mayor rendimiento y una apariencia moderna, así como API de alto nivel para conectarse a orígenes de datos en red. Las aplicaciones JavaFX pueden ser clientes de servicios de plataforma Java EE.
@@ -290,7 +292,10 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Instalador Eclipse Technology. <br>
 📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Instalador IntelliJ IDEA de jetbrains. <br>
 📦 [Instalador MySQL](https://dev.mysql.com/downloads/mysql/) Instalador MySQL Community Downloads. <br>
-📦 [Instalador Oracle XE](https://www.oracle.com/database/technologies/xe-downloads.html) InstaladorOracle Database Express Edition. <br>
+📦 [Instalador Oracle XE](https://www.oracle.com/database/technologies/xe-downloads.html) Instalador Oracle Database Express Edition. <br>
+📦 [IBM Db2® Database](https://www.ibm.com/account/reg/us-en/signup?formid=urx-33669) Instalador Software de Gestión de Datos | IBM. <br>
+
+
 
 <table align="center" >
   <tr>
