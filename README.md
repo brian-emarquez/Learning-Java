@@ -2399,7 +2399,7 @@ _Ejecutar y Conectar a SQL Developer con las credenciales creadas_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/maven.png" />
+      <img align="center" style="padding=0;" src="./images/apache-maven.png" />
     </td>
   </tr>
 </table>
