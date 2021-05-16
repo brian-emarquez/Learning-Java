@@ -160,6 +160,8 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  D1  |:heavy_check_mark: | [ Descargar e Instalar Oracle](#Descargar-e-Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D2  |:heavy_check_mark: | [ Creacion Tablas](#Descargar-e-Instalar-Oracle)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D3  |:heavy_check_mark: | [Ingresar registros](#Ingresar-registros)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D4  |:heavy_check_mark: | [Clave primaria](#Clave-primaria)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -2353,6 +2355,23 @@ _Ejecutar y Conectar a SQL Developer con las credenciales creadas_
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |D2        | [Creacion Tablas Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/CreacionTablasOracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+## Ingresar registros
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D3        | [Ingresar registros Oracle (Insert into - select)](https://github.com/BrianMarquez3/Learning-Java/tree/main/CreacionTablasOracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+## Clave primaria
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D4        | [Clave primaria (Primary Key)](https://github.com/BrianMarquez3/Learning-Java/tree/main/CreacionTablasOracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+
+
+
+
 
 ---
 ## Spring Boot
