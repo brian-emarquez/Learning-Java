@@ -90,9 +90,9 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  A3  |:heavy_check_mark: | [Break y Continue](#Break-y-Continue)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | <img src="https://media.giphy.com/media/EX4GlnjnR4ISgJC4K5/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | <img src="https://media.giphy.com/media/EX4GlnjnR4ISgJC4K5/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A3  |:heavy_check_mark: | [Break y Continue](#Break-y-Continue)   | <img src="https://media.giphy.com/media/EX4GlnjnR4ISgJC4K5/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ### Fundamentos Java
 
@@ -100,7 +100,7 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  B1  |:heavy_check_mark: | [Clases en Java](#Clases-en-Java)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B2  |:heavy_check_mark: | [Creacion de Metodos](#Creacion-de-Metodos)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B3  |:heavy_check_mark: | [Operador This](#Operador-This)   | <img src=https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B3  |:heavy_check_mark: | [Operador This](#Operador-This)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B4  |:heavy_check_mark: | [Constructores](#Constructores)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">   | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B5  |:heavy_check_mark: | [Sobrecarga Constructores](#Sobrecarga-Constructores)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B6  |:heavy_check_mark: | [Alcance de Variables](#Alcance-de-Variables)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
