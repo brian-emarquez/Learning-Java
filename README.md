@@ -283,13 +283,14 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
   ![java](./images/magnatron1.jpg)
 ## Instalacion
 
-📦 [Instalador JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Intalador Oracle JDK Java SE Development ☕ <br>
-📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Intalador Oracle JDK Java SE Development ACTUAL ☕ <br>
-📦 [Instalador Netbeans 12](https://netbeans.org/) Intalador Apache NetBeans. <br>
-📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Intalador Visual Studio Code. <br>
-📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Intalador Eclipse Technology. <br>
-📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Intalador IntelliJ IDEA de jetbrains. <br>
-📦 [Instalador MySQL](https://dev.mysql.com/downloads/mysql/) Intalador MySQL Community Downloads. <br>
+📦 [Instalador JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
+📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Instalador Oracle JDK Java SE Development ACTUAL ☕ <br>
+📦 [Instalador Netbeans 12](https://netbeans.org/) Instalador Apache NetBeans. <br>
+📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Instalador Visual Studio Code. <br>
+📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Instalador Eclipse Technology. <br>
+📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Instalador IntelliJ IDEA de jetbrains. <br>
+📦 [Instalador MySQL](https://dev.mysql.com/downloads/mysql/) Instalador MySQL Community Downloads. <br>
+📦 [Instalador Oracle XE](https://www.oracle.com/database/technologies/xe-downloads.html) InstaladorOracle Database Express Edition. <br>
 
 <table align="center" >
   <tr>
@@ -2277,6 +2278,8 @@ ublic class ManejoArchivos {
 **Descarga Windows**
 
 _Descargar ORACLE XE 18_
+
+📦 [Instalador Oracle XE](https://www.oracle.com/database/technologies/xe-downloads.html) InstaladorOracle Database Express Edition. <br>
 
 <table align="center" >
   <tr>
