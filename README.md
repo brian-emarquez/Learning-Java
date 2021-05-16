@@ -300,7 +300,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/j15.png" />
+      <img align="center" style="padding=0;" src="./images/15.png" />
     </td>
   </tr>
 </table>
