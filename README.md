@@ -90,9 +90,9 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | <img src="https://media.giphy.com/media/EX4GlnjnR4ISgJC4K5/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | <img src="https://media.giphy.com/media/EX4GlnjnR4ISgJC4K5/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  A3  |:heavy_check_mark: | [Break y Continue](#Break-y-Continue)   | <img src="https://media.giphy.com/media/EX4GlnjnR4ISgJC4K5/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1  |:heavy_check_mark: | [Operadores Unitarios](#operadores-Unitarios)   | <img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A2  |:heavy_check_mark: | [Operadores Ternario](#operadores-Ternario)   | <img src="hhttps://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A3  |:heavy_check_mark: | [Break y Continue](#Break-y-Continue)   | <img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ### Fundamentos Java
 
