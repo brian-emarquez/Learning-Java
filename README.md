@@ -2360,6 +2360,14 @@ _Ejecutar y Conectar a SQL Developer con las credenciales creadas_
 
 ##  Creacion Tablas
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/Oracle-Basic.png" />
+    </td>
+  </tr>
+</table>
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |D2        | [Creacion Tablas Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/CreacionTablasOracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
