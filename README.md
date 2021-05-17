@@ -2444,9 +2444,6 @@ Maven utiliza un Project Object Model (POM) para describir el proyecto de softwa
 |D6        | [JDBC Java Database Connectivity](https://github.com/BrianMarquez3/Learning-Java/tree/main/IntroduccionJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|D6        | [JDBC Java Database Connectivity](https://github.com/BrianMarquez3/Learning-Java/tree/main/IntroduccionJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ---
