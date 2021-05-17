@@ -2467,7 +2467,7 @@ _CADENAS DE CONECCION MYSQL_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|D8        | [Manejo del JDBC](https://github.com/BrianMarquez3/Learning-Java/tree/main/IntroduccionJDBCMySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|D8        | [Manejo del JDBC](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ---
