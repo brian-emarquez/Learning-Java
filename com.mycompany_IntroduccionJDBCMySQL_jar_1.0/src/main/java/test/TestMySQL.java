@@ -10,7 +10,7 @@ public class TestMySQL {
 //            Class.forName("com.mysql.cj.jdbc.Driver");
             Connection conexion = DriverManager.getConnection(url, "root", "");
             Statement instruccion = conexion.createStatement();
-            var sql = "SELECT id_persona, nombre, apellido, email FROM persona";
+            var sql = "SELECT id_personaaa, nombre, apellido, email FROM persona";
             ResultSet resultado = instruccion.executeQuery(sql);
             while (resultado.next()) { // next : si tenemos un objeto aun por iterar . Veraddero o falso
                 System.out.print("id_persona = " + resultado.getInt("id_persona"));
@@ -19,10 +19,9 @@ public class TestMySQL {
 
                 System.out.print(" | ");
             }
-            resultado.close();
-            instruccion.close();
-            conexion.close();
+            
         } catch (SQLException ex) {
+            System.err.println("Error en la Coneccion!!");
             ex.printStackTrace(System.out);
         }
     }
