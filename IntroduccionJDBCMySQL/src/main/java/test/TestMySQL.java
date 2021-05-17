@@ -15,6 +15,7 @@ public class TestMySQL {
             Connection conexion = DriverManager.getConnection(url, "root", "");
             Statement instruccion = conexion.createStatement();
             var sql = "SELECT Nombre, Edad, Sexo FROM test";
+            ResultSet resultado = instruccion.executeQuery(sql);
             
         } catch (SQLException ex) {
             ex.printStackTrace(System.out);
