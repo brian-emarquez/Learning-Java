@@ -2409,6 +2409,7 @@ Maven es una herramienta de software para la gestión y construcción de proyect
 
 Maven utiliza un Project Object Model (POM) para describir el proyecto de software a construir, sus dependencias de otros módulos y componentes externos, y el orden de construcción de los elementos. Viene con objetivos predefinidos para realizar ciertas tareas claramente definidas, como la compilación del código y su empaquetado. [Maven](https://es.wikipedia.org/wiki/Maven)
 
+_CADENAS DE CONECCION_
 
 ```xml
     <dependencies>
@@ -2441,7 +2442,7 @@ Maven utiliza un Project Object Model (POM) para describir el proyecto de softwa
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|D6        | [JDBC Java Database Connectivity](https://github.com/BrianMarquez3/Learning-Java/tree/main/IntroduccionJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|D6        | [JDBC Java Database Connectivity ORACLE](https://github.com/BrianMarquez3/Learning-Java/tree/main/IntroduccionJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 
