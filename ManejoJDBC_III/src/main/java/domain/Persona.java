@@ -1,6 +1,6 @@
 /* Se agregaron cnstructores, get an set*/
+/* DAO  - Data Access Object */
 package domain;
-
 
 public class Persona {
     private int id_Persona;
