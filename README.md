@@ -163,7 +163,7 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 |  D3  |:heavy_check_mark: | [Ingresar registros](#Ingresar-registros)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D4  |:heavy_check_mark: | [Clave primaria](#Clave-primaria)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D5  |:heavy_check_mark: | [Oracle Database Operaciones](#Oracle-Database-Operaciones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  D6  |:heavy_check_mark: | [JDBC Java Database Connectivity](#JDBC-Java-Database-Connectivity)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D6 -D7  |:heavy_check_mark: | [JDBC Java Database Connectivity](#JDBC-Java-Database-Connectivity)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
