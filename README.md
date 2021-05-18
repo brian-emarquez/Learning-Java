@@ -2420,6 +2420,19 @@ _CADENAS DE CONECCION ORACLE_
         </dependency>
     </dependencies>
 ```
+```java
+try {
+            Conexion _conexion = new Conexion();
+            Connection _connection = null;
+            
+            _connection = _conexion.LinkConnection("jdbc:oracle:thin:@localhost:1521:XE", "briandb", "briandb");
+            System.out.println("Connection "+ _connection);
+            _connection = _conexion.closeConexion();       
+            System.out.println("Connection "+ _connection.isClosed());
+        } catch (SQLException ex) {
+            Logger.getLogger(Test.class.getName()).log(Level.SEVERE, null, ex);
+        }
+```
 
 **Test**
 
