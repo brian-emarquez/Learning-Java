@@ -15,7 +15,7 @@ import java.util.List;
 public class TestManejoPersonas {
     
     public static void main(String[] args) {
-        PersonaDAO personasDao= new PersonaDAO();
+         PersonaDAO personasDao= new PersonaDAO();
         List<Persona>personas = personasDao.Seleccionar();
         personas.forEach(persona -> {
             System.out.println("persona = " + persona);
