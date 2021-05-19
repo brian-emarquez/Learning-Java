@@ -165,6 +165,7 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 |  D5  |:heavy_check_mark: | [Oracle Database Operaciones](#Oracle-Database-Operaciones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D6 -D7  |:heavy_check_mark: | [JDBC Java Database Connectivity](#JDBC-Java-Database-Connectivity)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D8  |:heavy_check_mark: | [Manejo del JDBC](#Manejo-del-JDBC)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 ---
 
 <table align="center" >
@@ -2506,6 +2507,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 |D9        | [Manejo del JDBC II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |D10        | [Manejo del JDBC III](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_III)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |D11        | [Manejo del JDBC IV Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_IV_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|D12        | [Manejo del JDBC V Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_IV_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
  <table align="center">
     <tr>
