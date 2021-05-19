@@ -2508,6 +2508,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 |D10        | [Manejo del JDBC III](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_III)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |D11        | [Manejo del JDBC IV Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_IV_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |D12        | [Manejo del JDBC V Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_V_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|D13        | [Manejo del JDBC VI MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_VI_MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
  <table align="center">
     <tr>
