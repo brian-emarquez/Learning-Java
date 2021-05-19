@@ -11,7 +11,8 @@ public class PersonaDAO {
 
     private static final String SQL_SELECT = "SELECT id_persona, nombre, apellido, email FROM persona";
     private static final String SQL_INSERT = "INSERT INTO persona(id_persona, nombre, apellido, email) VALUES(?, ?, ?, ?)";
-
+    private static final String SQL_UPDATE = "UPDATE persona SET nombre = ?, apellido = ?, email = ? WHERE id_persona = ?";   
+    
     public List<Persona> Seleccionar() {
         Connection conn = null;
         PreparedStatement stmt = null;
@@ -72,4 +73,33 @@ public class PersonaDAO {
         }
         return registros;
     }
+    
+    public int actualizar(Persona persona) {
+        Connection conn = null;
+        PreparedStatement stmt = null;
+        int registros = 0;
+        try {
+            conn = getConnection();
+            stmt = conn.prepareStatement(SQL_UPDATE);
+//            stmt.setInt(1, persona.getIdPersona());
+            stmt.setString(1, persona.getNombre());
+            stmt.setString(2, persona.getApellido());
+            stmt.setString(3, persona.getEmail());
+            stmt.setInt(4, persona.getIdPersona());
+            registros = stmt.executeUpdate();
+
+        } catch (SQLException ex) {
+            ex.printStackTrace(System.out);
+        }
+        finally{
+            try {
+                close(stmt);
+                close(conn);
+            } catch (SQLException ex) {
+                ex.printStackTrace(System.out); //Imprimir la excepcion
+            }
+        }
+        return registros;
+    }
+    
 }

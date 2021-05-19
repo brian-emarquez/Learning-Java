@@ -2510,6 +2510,19 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 |D12        | [Manejo del JDBC V Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_V_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |D13        | [Manejo del JDBC VI MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_VI_MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
+
+```java
+/************** MODIFICAR ****************/
+        Persona personaModificar = new Persona(2, "brian", "marquez", "marquez@gmail.com");
+        personaDao.actualizar(personaModificar);
+        
+        /*Listado de personas*/
+        List<Persona> personas = personaDao.Seleccionar();
+        
+        personas.forEach(persona -> {
+            System.out.println("persona = " + persona);
+```
+
  <table align="center">
     <tr>
       <td colspan="3">A</td>

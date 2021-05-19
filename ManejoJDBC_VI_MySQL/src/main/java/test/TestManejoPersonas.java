@@ -2,33 +2,38 @@
 Bajo Acoplamiento , separacion de codigo
 tambien llamado Alta Coecion por que cada clace realiza su tarea
  */
+
+/* Metodos actualizar e eliminar"*/
+
 package test;
 
 import datos.PersonaDAO;
 import domain.Persona;
 import java.util.List;
 
-/**
- *
- * @author brian
- */
+
 public class TestManejoPersonas {
 
     public static void main(String[] args) {
-        PersonaDAO personasDao = new PersonaDAO();
+        PersonaDAO personaDao = new PersonaDAO();
 
-//        List<Persona> personas = personasDao.Seleccionar();
+//        List<Persona> persona = personaDao.Seleccionar();
 //
-//        personas.forEach(persona -> {
+//        persona.forEach(persona -> {
 //            System.out.println("persona = " + persona);
 //        });
         
-        /* Insertar*/
-        Persona personaNueva = new Persona(2,"MariaI","EsperazaI","MariaI@mail.com");
-        personasDao.insertar(personaNueva);
-        
-        List<Persona> personas = personasDao.Seleccionar();
+        /************** INSERTAR ****************/
+//        Persona personaNueva = new Persona(2,"MariaI","EsperazaI","MariaI@mail.com");
+//        personasDao.insertar(personaNueva);
 
+        /************** MODIFICAR ****************/
+        Persona personaModificar = new Persona(2, "brian", "marquez", "marquez@gmail.com");
+        personaDao.actualizar(personaModificar);
+        
+        /*Listado de personas*/
+        List<Persona> personas = personaDao.Seleccionar();
+        
         personas.forEach(persona -> {
             System.out.println("persona = " + persona);
         });
