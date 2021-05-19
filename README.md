@@ -2509,6 +2509,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 |D11        | [Manejo del JDBC IV Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_IV_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |D12        | [Manejo del JDBC V Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_V_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 |D13        | [Manejo del JDBC VI MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_VI_MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|D14        | [Manejo del JDBC VII MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_VI_MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ```java
@@ -2522,6 +2523,8 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
         personas.forEach(persona -> {
             System.out.println("persona = " + persona);
 ```
+
+
 
  <table align="center">
     <tr>
