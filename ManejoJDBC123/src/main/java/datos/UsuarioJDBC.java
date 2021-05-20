@@ -74,6 +74,7 @@ public class UsuarioJDBC {
         Connection conn = null;
         PreparedStatement stmt = null;
         int rows = 0;
+        
         try {
             conn = Conexion.getConnection();
             System.out.println("ejecutando query: " + SQL_UPDATE);

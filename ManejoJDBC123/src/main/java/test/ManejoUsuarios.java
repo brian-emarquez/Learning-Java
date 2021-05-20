@@ -15,13 +15,13 @@ public class ManejoUsuarios {
         }
         
         //Insertamos un nuevo usuario
-//        Usuario usuario = new Usuario("carlos.juarez", "123");
-//        usuarioJdbc.insert(usuario);
+        Usuario usuario = new Usuario("carlos.juarez", "123");
+        usuarioJdbc.insert(usuario);
 
         //Modificamos un usuario existente
 //        Usuario usuario = new Usuario(3, "carlos.juarez","456");
 //        usuarioJdbc.update(usuario);
 
-        usuarioJdbc.delete(new Usuario(3));
+//        usuarioJdbc.delete(new Usuario(2));
     }
 }
