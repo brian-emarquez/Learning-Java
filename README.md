@@ -2574,6 +2574,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
   ## DOC
 
+**Recursos**
   ### Data Access Object
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
@@ -2586,16 +2587,16 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|     |:heavy_check_mark: | [ODBC Java Conector MySQL](#ODBC-Java-Conector-MySQL)    |  <img src="https://media.giphy.com/media/gVzoxZFmhO5yWShg8K/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|        | [ODBC Java Conector MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/Resources/MySQLConnector)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ## JODBC Java Conector ORACLE
 
 [Oracle](https://www.oracle.com/database/technologies/jdbc-drivers-12c-downloads.html)
 
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|     |:heavy_check_mark: | [JODBC Java Conector ORACLE](#ODBC-Java-Conector-MySQL)    |  <img src="https://media.giphy.com/media/gVzoxZFmhO5yWShg8K/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|        | [JODBC Java Conector ORACLE](https://github.com/BrianMarquez3/Learning-Java/tree/main/Resources/OracleConector)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ---
 
