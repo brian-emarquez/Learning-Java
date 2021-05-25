@@ -166,6 +166,8 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 |  D6 -D7  |:heavy_check_mark: | [JDBC Java Database Connectivity](#JDBC-Java-Database-Connectivity)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D8 - D14  |:heavy_check_mark: | [Manejo del JDBC](#Manejo-del-JDBC)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D15  |:heavy_check_mark: | [Transacciones en JDBC](#Transacciones-en-JDBC)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D16  |:heavy_check_mark: | [Transacciones en JDBC II](#Transacciones-en-JDBC-II)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 ---
 
@@ -2525,7 +2527,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|D8        | [Transacciones en JDBC](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D15        | [Transacciones en JDBC](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
 
 ```java
 /************** MODIFICAR ****************/
@@ -2538,6 +2540,15 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
         personas.forEach(persona -> {
             System.out.println("persona = " + persona);
 ```
+
+
+## Transacciones en JDBC II
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D15        | [Transacciones en JDBC II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+
 
 
 
