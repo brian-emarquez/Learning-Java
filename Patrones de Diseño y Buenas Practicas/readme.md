@@ -24,9 +24,7 @@
 
 ### Patrones de Diseño
 
-
 <table>
-
 <tr>
     <td>Capa de Presentacion</td>
     <td>Capa de servicio</td>
