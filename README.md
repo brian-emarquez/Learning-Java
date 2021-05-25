@@ -2550,8 +2550,6 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 
 
-
-
  <table align="center">
     <tr>
       <td colspan="3">A</td>
