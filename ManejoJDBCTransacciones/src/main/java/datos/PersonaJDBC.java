@@ -7,6 +7,7 @@ import java.util.List;
 
 public class PersonaJDBC {
     
+    /* para el control de trasacciones*/ 
     private Connection conexionTransaccional;
 
     private static final String SQL_SELECT = "SELECT id_persona, nombre, apellido, email, telefono FROM persona";

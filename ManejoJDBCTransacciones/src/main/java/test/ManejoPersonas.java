@@ -4,9 +4,6 @@ import datos.Conexion;
 import datos.PersonaJDBC;
 import domain.Persona;
 import java.sql.*;
-import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class ManejoPersonas {
 
@@ -21,22 +18,29 @@ public class ManejoPersonas {
 
             PersonaJDBC personaJdbc = new PersonaJDBC(conexion);
             
+            /* update se actualizara con exito*/
             Persona cambioPersona = new Persona();
-            cambioPersona.setId_persona(2);
-            cambioPersona.setNombre("Karla Ivonne");
-            cambioPersona.setApellido("Gomez");
-            cambioPersona.setEmail("kgomez@mail.com");
-            cambioPersona.setTelefono("7713445678");
+            cambioPersona.setId_persona(1);
+            cambioPersona.setNombre("Brian Enrique");
+            cambioPersona.setApellido("Marquez");
+            cambioPersona.setEmail("brian@mail.com");
+            cambioPersona.setTelefono("11111111");
             personaJdbc.update(cambioPersona);
             
+            /* En el insect ocurrira error */
             Persona nuevaPersona = new Persona();
             nuevaPersona.setNombre("Carlos");
-            //nuevaPersona.setApellido("Ramirez11111111111111111111111111111111111111111111");
             nuevaPersona.setApellido("Ramirez");
+            
+            /* probocamos un fallo*/
+//             nuevaPersona.setApellido("Ramirez1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111222222222222222222222222");
+             
             personaJdbc.insert(nuevaPersona);
             
+            /*Commit de la trnasaccion*/
             conexion.commit();
             System.out.println("Se ha hecho commit de la transaccion");
+            
         } catch (SQLException ex) {
             ex.printStackTrace(System.out);
             System.out.println("Entramos al rollback");
@@ -49,3 +53,5 @@ public class ManejoPersonas {
 
     }
 }
+
+
