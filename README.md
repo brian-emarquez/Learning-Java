@@ -2587,7 +2587,6 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 ---
 
 ## Servlets y JSP'S
-
 ## Introduccion Servlets
 
 <table align="center" >
