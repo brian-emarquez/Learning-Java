@@ -2623,7 +2623,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F3        | [Hola Mundo Java Web](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoWeb)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP'S) |
 
-## Hola Mundo Servlet
+## Hola Mundo Servlets
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
