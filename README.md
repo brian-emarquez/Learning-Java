@@ -2625,6 +2625,19 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 ## Hola Mundo Servlets
 
+```java
+@WebServlet("/holaMundo")
+public class HolaMundo extends HttpServlet{
+    
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
+        response.setContentType("test/html;charset=UTF-8");
+        PrintWriter out = response.getWriter();
+        out.println("Hola Mundo desde servlets");
+    }
+}
+```
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F4        | [Hola Mundo Servlet](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoServlet)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
