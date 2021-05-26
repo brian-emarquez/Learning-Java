@@ -22,6 +22,8 @@
   </tr>
 </table>
 
+_Next_
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -30,6 +32,8 @@
   </tr>
 </table>
 
+_Aceptar_
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -37,6 +41,8 @@
     </td>
   </tr>
 </table>
+
+_Servidor Instalaldo_
 
 <table align="center" >
   <tr>
