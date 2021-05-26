@@ -2588,7 +2588,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 ## Servlets y JSP'S
 
-## Introduccion-Servlets
+## Introduccion Servlets
 
 <table align="center" >
   <tr>
@@ -2598,9 +2598,17 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
   </tr>
 </table>
 
+**Proceso de peticion HTTP**
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/peticionHTTP.png" />
+    </td>
+  </tr>
+</table>
 
-
+---
 
  <table align="center">
     <tr>
