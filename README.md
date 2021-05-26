@@ -2569,7 +2569,7 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|D19        | [Manejo del Pool de Conexiones](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBCTransacciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D19        | [Manejo del Pool de Conexiones](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_PoolConexiones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
 
 
 
