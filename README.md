@@ -172,7 +172,7 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 |  D19  |:heavy_check_mark: | [Manejo del Pool de Conexiones](#Manejo-del-Pool-de-Conexiones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
-## Servlets y JSP'S
+## Servlets y JSP
 
 Los Servlets son las respuesta de la tecnología Java a la programación CGI. Son programas que se ejecutan en un servidor Web y construyen páginas Web. Construir páginas Web al vuelo es útil (y comunmente usado)
 
@@ -2614,20 +2614,20 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F2        | [Manejo del Pool de Conexiones](https://github.com/BrianMarquez3/Learning-Java/tree/main/Descargar%20Glasfish%20y%20JDK)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP'S) |
+|F2        | [Manejo del Pool de Conexiones](https://github.com/BrianMarquez3/Learning-Java/tree/main/Descargar%20Glasfish%20y%20JDK)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](S#ervlets-y-JSP) |
 
 ## Hola Mundo Java Web
 
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F3        | [Hola Mundo Java Web](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoWeb)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP'S) |
+|F3        | [Hola Mundo Java Web](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoWeb)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](S#ervlets-y-JSP) |
 
 ## Hola Mundo Servlets
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F4        | [Hola Mundo Servlet](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoServlet)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP'S) |
+|F4        | [Hola Mundo Servlet](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoServlet)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](S#ervlets-y-JSP) |
 
 
 
