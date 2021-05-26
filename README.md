@@ -2530,7 +2530,15 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 ---
 ## Spring Boot
 
-  ![Spring](./images/spring.png)
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/SpringHome.gif" />
+    </td>
+  </tr>
+</table>
+<!-- 
+  ![Spring](./images/spring.png) -->
 
   <p> Spring Boot es una de las tecnologías dentro del mundo de Spring de las que más se esta hablando últimamente.¿Qué es y como funciona Spring Boot? . Para entender el concepto primero debemos reflexionar sobre como construimos aplicaciones con Spring Framework . </p>
 
@@ -2545,7 +2553,14 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
   - Spring REST DOCS
   - Spring Mobile
 
-  ![Spring](./images/do.png)
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/do.png" />
+    </td>
+  </tr>
+</table>
+
 
 ### Spring installation
 📦 [Spring Tools](https://spring.io/tools) Intalador de Spring Tools 🍃 <br>
@@ -2583,7 +2598,6 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
   </tr>
 
 </table>
-
 
 ## Spotify Java
 
