@@ -176,7 +176,7 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 
 Los Servlets son las respuesta de la tecnología Java a la programación CGI. Son programas que se ejecutan en un servidor Web y construyen páginas Web. Construir páginas Web al vuelo es útil (y comunmente usado)
 
-|  F01  |:heavy_check_mark: | [Manejo del Pool de Conexiones](#Manejo-del-Pool-de-Conexiones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F01  |:heavy_check_mark: | [Introduccion Servlets](#Introduccion-Servlets)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -2583,6 +2583,22 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |D19        | [Manejo del Pool de Conexiones](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_PoolConexiones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+---
+
+## Servlets y JSP'S
+
+## Introduccion-Servlets
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/arquitectura.png" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 
