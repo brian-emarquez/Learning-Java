@@ -2576,7 +2576,6 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |D18        | [Creacion de Capas de datos](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBCTransacciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
 
-
 ## Manejo del Pool de Conexiones
 
 
