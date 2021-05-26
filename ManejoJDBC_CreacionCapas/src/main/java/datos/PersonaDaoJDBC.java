@@ -5,7 +5,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PersonaJDBC {
+public class PersonaDaoJDBC implements PersonaDao {
     
     /* para el control de trasacciones*/ 
     private Connection conexionTransaccional;
@@ -16,11 +16,11 @@ public class PersonaJDBC {
     private static final String SQL_DELETE = "DELETE FROM persona WHERE id_persona=?";
 
     /*constructor para la trnasacccion*/
-    public PersonaJDBC() {
+    public PersonaDaoJDBC() {
 
     }
 
-    public PersonaJDBC(Connection conexionTransaccional) {
+    public PersonaDaoJDBC(Connection conexionTransaccional) {
         this.conexionTransaccional = conexionTransaccional;
     }
 

@@ -1,11 +1,11 @@
 package test;
 
 import datos.Conexion;
-import datos.PersonaJDBC;
+import datos.PersonaDaoJDBC;
 import domain.Persona;
 import java.sql.*;
 
-public class ManejoPersonas {
+public class PersonaDTO {
 
     public static void main(String[] args) {
 
@@ -16,7 +16,7 @@ public class ManejoPersonas {
                 conexion.setAutoCommit(false);
             }
 
-            PersonaJDBC personaJdbc = new PersonaJDBC(conexion);
+            PersonaDaoJDBC personaJdbc = new PersonaDaoJDBC(conexion);
             
             /* update se actualizara con exito*/
             Persona cambioPersona = new Persona();
