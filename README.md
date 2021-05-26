@@ -164,7 +164,25 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 |  D4  |:heavy_check_mark: | [Clave primaria](#Clave-primaria)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D5  |:heavy_check_mark: | [Oracle Database Operaciones](#Oracle-Database-Operaciones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D6 -D7  |:heavy_check_mark: | [JDBC Java Database Connectivity](#JDBC-Java-Database-Connectivity)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  D8  |:heavy_check_mark: | [Manejo del JDBC](#Manejo-del-JDBC)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D8 - D14  |:heavy_check_mark: | [Manejo del JDBC](#Manejo-del-JDBC)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D15  |:heavy_check_mark: | [Transacciones en JDBC](#Transacciones-en-JDBC)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D16  |:heavy_check_mark: | [Manejo JDBC Transaciones](#Manejo-JDBC-Transaciones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D17  |:heavy_check_mark: | [Patrones de Diseño y Buenas Practicas](#Patrones-de-Diseño-y-Buenas-Practicas)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D18  |:heavy_check_mark: | [Creacion de Capas de datos](#Creacion-de-Capas-de-datos)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  D19  |:heavy_check_mark: | [Manejo del Pool de Conexiones](#Manejo-del-Pool-de-Conexiones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+
+## Servlets y JSP
+
+Los Servlets son las respuesta de la tecnología Java a la programación CGI. Son programas que se ejecutan en un servidor Web y construyen páginas Web. Construir páginas Web al vuelo es útil (y comunmente usado)
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  F1  |:heavy_check_mark: | [Introduccion Servlets](#Introduccion-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F2  |:heavy_check_mark: | [Descargar Glashfish y JDK](#Descargar-Glashfish-y-JDK)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F3  |:heavy_check_mark: | [Hola Mundo Java Web](#Hola-Mundo-Java-Web)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F4  |:heavy_check_mark: | [Hola Mundo Servlets](#Hola-Mundo-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F5  |:heavy_check_mark: | [Servlets](#Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -177,6 +195,13 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
   </tr>
 </table>
 
+## DOC
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|     |:heavy_check_mark: | [Data Access Object](#Data-Access-Object)    |  <img src="https://media.giphy.com/media/gVzoxZFmhO5yWShg8K/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|     |:heavy_check_mark: | [ODBC Java Conector MySQL](#ODBC-Java-Conector-MySQL)    |  <img src="https://media.giphy.com/media/gVzoxZFmhO5yWShg8K/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|     |:heavy_check_mark: | [JODBC Java Conector ORACLE](#JODBC-Java-Conector-ORACLE)    |  <img src="https://media.giphy.com/media/gVzoxZFmhO5yWShg8K/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Spring Boot
@@ -184,6 +209,8 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  001   |:heavy_check_mark: | [Spring Boot](#Spring)    |  <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+
 
 ![java](./images/JavaRed.jpg)
 
@@ -2503,11 +2530,140 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|D8        | [Manejo del JDBC](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-|D9        | [Manejo del JDBC II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-|D10        | [Manejo del JDBC III](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_III)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-|D11        | [Manejo del JDBC IV Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_IV_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-|D12        | [Manejo del JDBC V Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_V_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|D8        | [Manejo del JDBC](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D9        | [Manejo del JDBC II](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D10        | [Manejo del JDBC III](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_III)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D11        | [Manejo del JDBC IV Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_IV_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D12        | [Manejo del JDBC V Oracle](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_V_Oracle)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D13        | [Manejo del JDBC VI MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_VI_MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+|D14        | [Manejo del JDBC VII MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_VI_MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+## Transacciones en JDBC
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D15        | [Transacciones en JDBC](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+```java
+/************** MODIFICAR ****************/
+        Persona personaModificar = new Persona(2, "brian", "marquez", "marquez@gmail.com");
+        personaDao.actualizar(personaModificar);
+        
+        /*Listado de personas*/
+        List<Persona> personas = personaDao.Seleccionar();
+        
+        personas.forEach(persona -> {
+            System.out.println("persona = " + persona);
+```
+
+
+## Manejo JDBC Transaciones
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D16        | [Manejo JDBC Transaciones](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBCTransacciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+## Patrones de Diseño y Buenas Practicas
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D17        | [Patrones de Diseño y Buenas Practicas](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBCTransacciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+
+## Creacion de Capas de datos
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D18        | [Creacion de Capas de datos](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBCTransacciones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+
+## Manejo del Pool de Conexiones
+
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|D19        | [Manejo del Pool de Conexiones](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJDBC_PoolConexiones)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Java-con-JDBC) |
+
+---
+
+## Servlets y JSP'S
+
+## Introduccion Servlets
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/arquitectura.png" />
+    </td>
+  </tr>
+</table>
+
+**Proceso de peticion HTTP**
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/peticionHTTP.png" />
+    </td>
+  </tr>
+</table>
+
+
+## Descargar Glashfish y JDK
+
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F2        | [Manejo del Pool de Conexiones](https://github.com/BrianMarquez3/Learning-Java/tree/main/Descargar%20Glasfish%20y%20JDK)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+## Hola Mundo Java Web
+
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F3        | [Hola Mundo Java Web](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoWeb)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+## Hola Mundo Servlets
+
+```java
+@WebServlet("/holaMundo")
+public class HolaMundo extends HttpServlet{
+    
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
+        response.setContentType("test/html;charset=UTF-8");
+        PrintWriter out = response.getWriter();
+        out.println("Hola Mundo desde servlets");
+    }
+}
+```
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F4        | [Hola Mundo Servlet](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoServlet)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+## Servlets
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/funcionesServlets.png" />
+    </td>
+  </tr>
+</table>
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F5        | [Servlets](https://github.com/BrianMarquez3/Learning-Java/tree/main/Servlets)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+
+
+
+
+
+
+
+---
 
  <table align="center">
     <tr>
@@ -2526,8 +2682,9 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
 </table>
 
 
-
 ---
+
+
 ## Spring Boot
 
 <table align="center" >
@@ -2561,6 +2718,35 @@ var url = "jdbc:mysql://localhost:3306/test?useSSL=false&useTimezone=true&server
   </tr>
 </table>
 
+
+
+  ## DOC
+
+**Recursos**
+  ### Data Access Object
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|        | [Data Access Object](https://github.com/BrianMarquez3/Learning-Java/tree/main/Data%20Access%20Object%20(DAO))  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+## ODBC Java Conector MySQL
+
+[Jar-download](https://jar-download.com/artifacts/mysql/mysql-connector-java)
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|        | [ODBC Java Conector MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/Resources/MySQLConnector)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+## JODBC Java Conector ORACLE
+
+[Oracle](https://www.oracle.com/database/technologies/jdbc-drivers-12c-downloads.html)
+
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|        | [JODBC Java Conector ORACLE](https://github.com/BrianMarquez3/Learning-Java/tree/main/Resources/OracleConector)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+---
 
 ### Spring installation
 📦 [Spring Tools](https://spring.io/tools) Intalador de Spring Tools 🍃 <br>
