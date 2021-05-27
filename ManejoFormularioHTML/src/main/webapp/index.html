@@ -4,21 +4,20 @@
         <title>Ejercicios Formulario</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="recursos/estilos.css">
-        <script type="text/javascript" src="recursos/funciones.js"/>
+        <script type="text/javascript" src="recursos/funciones.js"></script>
     </head>
     <body>
-
-        <form nombre="form1" action="/ManejoFormularioHTML/Servelt" method="post"
+        <form name="form1" action="/ManejoFormularioHTML/Servelt" method="post" 
               onsubmit="return validarForma(this)">
             <!--valor oculto que no se el usuario -->
-            <input type="hidden" name="oculto" value="valorOculto"></<input>
-            <table with="200" id="enfasis-columna">
+            <input type="hidden" name="oculto" value="valorOculto">
+            
+            <table width="200" id="enfasis-columna">
                 <caption>
                     Formulario registro de datos
                 </caption>
                 <tr>
-                    <td> 
-                        class="columna"
+                    <td class="columna"> 
                         Usuario: (*)
                     </td>
                     <td> 
@@ -28,8 +27,7 @@
                 </tr>
 
                 <tr>
-                    <td>
-                        class="columna"
+                    <td class="columna">
                         Password: (*)
                     </td>
                     <td>
@@ -37,19 +35,78 @@
                                onfocus="this.select()"/>
                     </td>
                 </tr>
-                
+
                 <tr>
-                    <td>
-                        class="columna"
+                    <td class="columna">
                         Tecnologias de intenent: (*)
                     </td>
                     <td>
-                        <input class="defauld" type="password" name="password"
-                               onfocus="this.select()"/>
+                        Java <input type="checkbox" name="tecnologia" value="java">
+                        &nbsp;&nbsp;&nbsp;
+                        .Net <input type="checkbox" name="tecnologia" value="net">
+                        &nbsp;&nbsp;&nbsp;
+                        PHP <input type="checkbox" name="tecnologia" value="php">
                     </td>
                 </tr>
 
+                <tr>
+                    <td class="columna">
+                        Genero: (*)
+                    </td>
+                    <td>
+                        Hombre <input type="radio" name="genero" value="H">
+                        &nbsp;&nbsp;&nbsp;
+                        Mujer <input type="radio" name="genero" value="M">
+                    </td>
+                </tr>
 
+                <tr>
+                    <td class="columna">
+                        Ocupacion: (*)
+                    </td>
+                    <td>
+                        <select name="ocupacion" class="default">
+                            <option value=""> Seleccionar </option>
+                            <option value="1"> Profesor </option>
+                            <option value="2"> Ingeniero </option>
+                            <option value="3"> Doctor </option>
+                            <option value="4"> Otros </option>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="columna">
+                        Musica Favorita:
+                    </td>
+                    <td>
+                        <select name="musica" multiple class="default">
+                            <option value=""> Seleccionar </option>
+                            <option value="rock"> Rock </option>
+                            <option value="metal"> Metal </option>
+                            <option value="eletronica"> Electronica </option>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="columna">
+                        Comentarios:
+                    </td>
+                    <td>
+                        <textarea name="comentarios" cols="30" rows="2"
+                                  class="defauld" onfocus="this.select()">
+                                  Escribir un texto
+                        </textarea>
+                    </td>
+                </tr>
+
+                <tr style="text-align: center">
+                    <td>
+                        <input type="reset" value="Limpiar" class="defaulf">
+                    </td>
+                     <td>
+                         <input type="submit" value="Enviar" class="defaulf">
+                    </td>
+                </tr>
             </table>
         </form>
     </body>
