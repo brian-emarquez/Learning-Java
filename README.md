@@ -184,6 +184,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F4  |:heavy_check_mark: | [Hola Mundo Servlets](#Hola-Mundo-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F5  |:heavy_check_mark: | [Servlets](#Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F6  |:heavy_check_mark: | [Manejo de Parametros](#Manejo-de-Parametros)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F7  |:heavy_check_mark: | [Manejo Formularios HTML](#Manejo-Formularios-HTML)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -2661,9 +2662,11 @@ public class HolaMundo extends HttpServlet{
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F6        | [Manejo de Parametros](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoParametros)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
+## Manejo Formularios HTML
 
-
-
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F7        | [Manejo Formularios HTML](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoFormularioHTML)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ---
