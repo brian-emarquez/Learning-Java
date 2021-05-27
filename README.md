@@ -186,6 +186,8 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F6  |:heavy_check_mark: | [Manejo de Parametros](#Manejo-de-Parametros)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F7  |:heavy_check_mark: | [Manejo Formularios HTML](#Manejo-Formularios-HTML)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
+
+
 ---
 
 <table align="center" >
