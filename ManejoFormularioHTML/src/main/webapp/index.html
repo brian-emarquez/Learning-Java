@@ -1,10 +1,56 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Start Page</title>
+        <title>Ejercicios Formulario</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="recursos/estilos.css">
+        <script type="text/javascript" src="recursos/funciones.js"/>
     </head>
     <body>
-        <h1>Hello World!</h1>
+
+        <form nombre="form1" action="/ManejoFormularioHTML/Servelt" method="post"
+              onsubmit="return validarForma(this)">
+            <!--valor oculto que no se el usuario -->
+            <input type="hidden" name="oculto" value="valorOculto"></<input>
+            <table with="200" id="enfasis-columna">
+                <caption>
+                    Formulario registro de datos
+                </caption>
+                <tr>
+                    <td> 
+                        class="columna"
+                        Usuario: (*)
+                    </td>
+                    <td> 
+                        <input clasS="defauld" type="text" name="usuario"
+                               value="Escribir usuario" onfocus="this.select()"/>
+                    </td>                 
+                </tr>
+
+                <tr>
+                    <td>
+                        class="columna"
+                        Password: (*)
+                    </td>
+                    <td>
+                        <input class="defauld" type="password" name="password"
+                               onfocus="this.select()"/>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        class="columna"
+                        Tecnologias de intenent: (*)
+                    </td>
+                    <td>
+                        <input class="defauld" type="password" name="password"
+                               onfocus="this.select()"/>
+                    </td>
+                </tr>
+
+
+            </table>
+        </form>
     </body>
 </html>
