@@ -1,10 +1,41 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 27 may. 2021, 16:10:40
-    Author     : brian
-*/
+body, .default{
+    line-height: 1.6em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", "Sans-Serif";     
+    font-size: 12px;
+    color:#669;
+}
 
+#enfasis-columna{
+    margin: 45px;
+    width: 480px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+#enfasis-columna caption{
+    font-size: 20px; 
+}
+
+#enfasis-columna th{
+    font-size: 14px;
+    font-weight: normal;
+    padding: 12px 15px;
+    color:#039;
+}
+
+#enfasis-columna td{
+    padding: 10px 15px;
+    color: #669;
+    border-top: 1px solid #e8edff;
+}
+
+.columna{
+    background: #d0dafd;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+}
+
+#enfasis-columna tr:hover td{
+    color: #339;
+    background: #eff2ff;
+}
