@@ -2667,11 +2667,6 @@ public class HolaMundo extends HttpServlet{
 |F6        | [Manejo de Parametros](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoParametros)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ## Manejo Formularios HTML
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F7        | [Manejo Formularios HTML](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoFormularioHTML)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
-
 ## Manejo Formularios HTML
 
 <table align="center" >
