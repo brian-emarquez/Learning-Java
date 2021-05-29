@@ -2848,27 +2848,23 @@ _CAMBIO DE PUERTO_
 
 <table>
 <tr>
-  <td colspan="5" align="center"> Core</td>
+    <td colspan="5" align="center"> Core</td>
 </tr>
 <tr>
-  <td>Infraestructura</td>
-  <td>Acceso a datos</td>
-  <td>Contenedor central</td>
-  <td>Web/MVC</td>
-   <td>Pruebas</td>
+    <td>Infraestructura</td>
+    <td>Acceso a datos</td>
+    <td>Contenedor central</td>
+    <td>Web/MVC</td>
+    <td>Pruebas</td>
 </tr>
 <tr>
-  <td>AOP<br> Aspects<br> Messaging<br> Instrumentation<br></td>
-  <td>JDBC<br> Transactions<br> ORM(Object Relational Mapping)<br></td>
-  <td>Beans<br>   Beans<br> Spel<br> Context<br> Core<br>   </td>
-  <td>Servlets<br> WebRocket<br> Portlet<br> Web<br></td>
-   <td>Unit<br> Mock<br> InTegration<br></td>
+    <td>AOP<br> Aspects<br> Messaging<br> Instrumentation<br></td>
+    <td>JDBC<br> Transactions<br> ORM(Object Relational Mapping)<br></td>
+    <td>Beans<br>   Beans<br> Spel<br> Context<br> Core<br>   </td>
+    <td>Servlets<br> WebRocket<br> Portlet<br> Web<br></td>
+    <td>Unit<br> Mock<br> InTegration<br></td>
 </tr>
 </table>
-
-
-
-
 
   ## DOC
 
