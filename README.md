@@ -2848,7 +2848,7 @@ _CAMBIO DE PUERTO_
 
 <table>
 <tr>
-  <td colspan="5" align="center"> <title>Ejemplo de tabla sencilla</title></td>
+  <td colspan="5" align="center"> Ejemplo de tabla sencilla</td>
 </tr>
 <tr>
   <td>Infraestructura</td>
