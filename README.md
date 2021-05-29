@@ -2862,7 +2862,7 @@ _CAMBIO DE PUERTO_
   <td>JDBC<br> Transactions<br> ORM(Object Relational Mapping)<br></td>
   <td>Beans<br>   Beans<br> Spel<br> Context<br> Core<br>   </td>
   <td>Servlets<br> WebRocket<br> Portlet<br> Web<br></td>
-   <td>Unit<br> Mock<br> Inegration<br></td>
+   <td>Unit<br> Mock<br> InTegration<br></td>
 </tr>
 </table>
 
