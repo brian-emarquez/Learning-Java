@@ -206,6 +206,8 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  Spring-01   |:heavy_check_mark: | [Spring Boot](#Spring-Boot)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  Spring-02   |:heavy_check_mark: | [Hola Mundo Spring usando controlador](#Hola-Mundo-Spring-usando-controlador)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  Spring-03   |:heavy_check_mark: | [Personalizar el puerto HTTP](#Personalizar-el-puerto-HTTP)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  Spring-04   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 ---
 
@@ -2805,7 +2807,6 @@ _CAMBIO DE PUERTO_
 # server.port=7070
 ```
 
-
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -2815,6 +2816,26 @@ _CAMBIO DE PUERTO_
 </table>
 
 ---
+
+## Spring MVC
+
+- Spring MVC utiliza una arquitectura de aplicaciones seguiendo el patro de diseño MVC (Mode View Controller)
+- Spring MVC es un framework web basado en Servlets que viene incluido en Spring Framenwork (Spring-webmvc)
+- Spring MVC esta diseñado sifuiendo el patron de diseño Front Controller
+- En Spring MVC el Front Controller es mejor conocido como DispatcherServlet
+
+    **Funciones** Enviar peticiones(request) a lo manejadores (handlers) para que sean preocesadas
+
+- A Partir de Spring 4.0 se pueden crear RRESFUL Web servives utilizando la anotacion `@RestController`, `@PathVariable`
+
+- Basado en Spring IOC container (Inyeccion de Dependencias)
+- Spring MVC se integra facil con otros proyectos de Spring:
+
+* Spring Boo* 
+* Spring Data JPA
+* Spirng Security
+* Sprint REST
+
 
   ## DOC
 
