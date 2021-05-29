@@ -2848,22 +2848,22 @@ _CAMBIO DE PUERTO_
 
 <table>
 <tr>
-  <td colspan="5"> Core</td>
-<tr>
+  <td colspan="5"> <title>Core</title></td>
+</tr>
 <tr>
   <td>Infraestructura</td>
   <td>Acceso a datos</td>
   <td>Contenedor central</td>
   <td>Web/MVC</td>
    <td>Pruebas</td>
-<tr>
+</tr>
 <tr>
   <td>AOP<br> Aspects<br> Messaging<br> Instrumentation<br></td>
   <td>JDBC<br> Transactions<br> ORM(Object Relational Mapping)<br></td>
   <td>Beans<br>   Beans<br> Spel<br> Context<br> Core<br>   </td>
   <td>Servlets<br> WebRocket<br> Portlet<br> Web<br></td>
    <td>Unit<br> Mock<br> Inegration<br></td>
-<tr>
+</tr>
 </table>
 
 
