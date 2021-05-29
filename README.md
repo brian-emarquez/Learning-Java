@@ -2848,7 +2848,7 @@ _CAMBIO DE PUERTO_
 
 <table>
 <tr>
-  <td colspan="5"> <title>Core</title></td>
+   <title>Core</title>
 </tr>
 <tr>
   <td>Infraestructura</td>
