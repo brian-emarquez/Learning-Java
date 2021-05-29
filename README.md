@@ -2831,7 +2831,7 @@ _CAMBIO DE PUERTO_
 - Basado en Spring IOC container (Inyeccion de Dependencias)
 - Spring MVC se integra facil con otros proyectos de Spring:
 
-* Spring Boo* 
+* Spring BooT 
 * Spring Data JPA
 * Spirng Security
 * Sprint REST
