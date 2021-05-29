@@ -2797,6 +2797,15 @@ public class HomeController {
 
 ## Personalizar el puerto HTTP
 
+_SE PUEDE DECLARAR PROPIEDADES PARA CAMBIAR VALORES_
+_CAMBIO DE PUERTO_
+
+
+```java
+# server.port=7070
+```
+
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
