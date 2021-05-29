@@ -2836,6 +2836,39 @@ _CAMBIO DE PUERTO_
 * Spirng Security
 * Sprint REST
 
+**Ventajas**
+
+- Inyeccion de dependencias (Favorece el "loose coupling")
+- Desarrollo sencillo con POJOs (PLain Old Java Object)
+- Minimiza el codigo repetitivo (boilerplate code)
+- Simplifica el acceso a datos
+- Programacion Orientada a Aspectos(AOP): Modularidad Muy alta.
+
+**Modulos**
+
+<table>
+<tr>
+  <td colspan="5"> Core</td>
+<tr>
+<tr>
+  <td>Infraestructura</td>
+  <td>Acceso a datos</td>
+  <td>Contenedor central</td>
+  <td>Web/MVC</td>
+   <td>Pruebas</td>
+<tr>
+<tr>
+  <td>AOP<br> Aspects<br> Messaging<br> Instrumentation<br></td>
+  <td>JDBC<br> Transactions<br> ORM(Object Relational Mapping)<br></td>
+  <td>Beans<br>   Beans<br> Spel<br> Context<br> Core<br>   </td>
+  <td>Servlets<br> WebRocket<br> Portlet<br> Web<br></td>
+   <td>Unit<br> Mock<br> Inegration<br></td>
+<tr>
+</table>
+
+
+
+
 
   ## DOC
 
