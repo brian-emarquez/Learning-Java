@@ -2751,7 +2751,7 @@ public class HolaMundo extends HttpServlet{
 
 **Configuracion de un Proyecto Spring**
 
-_En este caso ajustamos la version a 11_
+<h3>En este caso ajustamos la version a 11</h3>
 
 <table align="center" >
   <tr>
