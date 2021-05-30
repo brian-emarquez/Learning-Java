@@ -2881,7 +2881,7 @@ _Ventajas_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|Spring-05   | [Inversion Of Control](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|Spring-05   | [Inversion Of Control](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 
