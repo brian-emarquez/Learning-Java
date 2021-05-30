@@ -2866,6 +2866,22 @@ _CAMBIO DE PUERTO_
 </tr>
 </table>
 
+**Inversion of Control**
+
+- Invierte el flujo de control del programa, externalizando(agente externo: framework) la contruccion y manejo de objetos
+
+_Ventajas_
+
+- Proporciona modularidad
+- Permite amplair la funcionalidad de nuestras aplicaciones son modificar las clases
+- Evita la dependencia entre clases
+- Flexibiliza nustras aplicaciones haciendolas mas configurables
+
+
+
+
+
+
   ## DOC
 
 **Recursos**
