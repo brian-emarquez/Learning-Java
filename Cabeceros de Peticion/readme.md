@@ -16,3 +16,12 @@ los Cabeceros de peticion permiten obtener metadatos de la peticion HTTO.Ej
 - getHeaders()
 - getHeaderNames()
 
+**Algunos metodos mas especializados:**
+
+- getCookies()
+- getAuthType() y getRemoteUser()
+- getContentLength()
+- getContentType()
+- getDateHeaders()
+- getIntHeader()
+
