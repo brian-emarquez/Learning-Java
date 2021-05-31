@@ -9,3 +9,10 @@ los Cabeceros de peticion permiten obtener metadatos de la peticion HTTO.Ej
 - El domino del equipo que realizo la peticion(www.mydomain.com)
 - El recurso solicitado(http.//mydomain.com/recurso)
 - El navegador que se utilizo en la peticion (MOzila, MSIE, etc)
+
+**Metodos de la clase la clase HttpServletRequest**
+
+- getHeader()
+- getHeaders()
+- getHeaderNames()
+

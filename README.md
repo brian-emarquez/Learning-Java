@@ -2703,7 +2703,7 @@ public class HolaMundo extends HttpServlet{
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F7        | [Cabeceros de peticion](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoParametros)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F7        | [Cabeceros de peticion](https://github.com/BrianMarquez3/Learning-Java/tree/main/Cabeceros%20de%20Peticion)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ---
 
