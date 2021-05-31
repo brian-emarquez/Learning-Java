@@ -2701,6 +2701,20 @@ public class HolaMundo extends HttpServlet{
 
 ## Cabeceros de peticion
 
+
+```java
+        // Imprimos todo los cabeceros
+        Enumeration cabeceros = request.getHeaderNames();
+        while (cabeceros.hasMoreElements()){
+            //cast de comvertir de object a string
+            String nombreCabecero = (String) cabeceros.nextElement();
+            out.print("<b> " + nombreCabecero + "</b> ");
+            out.print(request.getHeader(nombreCabecero));
+            out.print("<br>");
+        }
+```
+        
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F7        | [Cabeceros de peticion](https://github.com/BrianMarquez3/Learning-Java/tree/main/Cabeceros%20de%20Peticion)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
