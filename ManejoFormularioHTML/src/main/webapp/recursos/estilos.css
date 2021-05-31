@@ -1,6 +1,6 @@
 body, .default{
     line-height: 1.6em;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", "Sans-Serif";     
+    font-family: "Lucida Sans Unicode", "Lucida Grande", "Sans-Serif";
     font-size: 12px;
     color:#669;
 }
@@ -13,7 +13,7 @@ body, .default{
 }
 
 #enfasis-columna caption{
-    font-size: 20px; 
+    font-size: 20px;
 }
 
 #enfasis-columna th{
