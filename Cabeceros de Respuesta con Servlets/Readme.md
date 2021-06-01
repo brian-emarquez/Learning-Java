@@ -26,5 +26,23 @@ Metodos para establecer valores de Headers:
 response.setHeader(String nombreCabecero, Sring valorCavecero), setDateHeader y setIntHeader ponen un cabecero, si ya exote lo renplaza
 ```
 
+**Metodos mas comunes para establecer valores de lo Headers**
+
+- setContentType(Se utiliza la Tabla MIME para difinir su valor)
+- setConetentLenght
+- addCookie
+- sendRedirect
+
+**Cabeceros de respuesta mas Comunes**
+
+- Cache-controly Pragma: se usan para el control del cache
+- Content-Encoding: Indicar la codificacion del documento
+- Content-Lenght: Indicar el numero de bytes en la respuesta
+- Content Type: Indica MIME a responder
+- Expires: Indica el tiempo que el documento considera expirado
+- Last - Modifield: Indica el tiempo es que el documento fue modificado
+- Refresh: Indica los segundos en que el navegados recarga la pagina
+
+
 
 
