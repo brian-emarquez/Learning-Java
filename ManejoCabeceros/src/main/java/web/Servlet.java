@@ -28,7 +28,7 @@ public class Servlet extends HttpServlet{
         out.print("<br>");
         out.print("Uri solicitada" + uri);
         
-        // Imprimos todo lo cabeceros
+        // Imprimos todo los cabeceros
         Enumeration cabeceros = request.getHeaderNames();
         while (cabeceros.hasMoreElements()){
             //cast de comvertir de object a string
