@@ -11,4 +11,20 @@
 **Ejemplos Comunes de tipos MIME**
 
 - application/msword  -> Microsoft Word Documents
+- application/pdf -> Acrobat (.pdf)
+- application/vnd.ms-excel -> Excel Spreadsheet
+- application/vnd.ms-powerpoint -> Powerpoint presentation
+- application/zip -> Zip archive
+- audio/x-wav -> Micrisift Windons Sound file
+- Otros
+
+**API De servlets al utilizar cabeceros de respuesta**
+
+Metodos para establecer valores de Headers:
+
+```java
+response.setHeader(String nombreCabecero, Sring valorCavecero), setDateHeader y setIntHeader ponen un cabecero, si ya exote lo renplaza
+```
+
+
 
