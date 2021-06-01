@@ -186,8 +186,9 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F6  |:heavy_check_mark: | [Manejo de Parametros](#Manejo-de-Parametros)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F7  |:heavy_check_mark: | [Manejo Formularios HTML](#Manejo-Formularios-HTML)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F8  |:heavy_check_mark: | [Cabeceros de peticion](#Cabeceros-de-peticion)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  F9  |:heavy_check_mark: | [Estado de Codigos con Servlets](#Estado--de-Codigos-con-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  F10  |:heavy_check_mark: | [Estado de Codigos con Servlets Ejercicio](#Estado--de-Codigos-con-Servlets-Ejercicio)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F9  |:heavy_check_mark: | [Estado de Codigos con Servlets](#Estado-de-Codigos-con-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F10  |:heavy_check_mark: | [Estado de Codigos con Servlets Ejercicio](#Estado-de-Codigos-con-Servlets-Ejercicio)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F11  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets](#Cabeceros-de-Respuesta-con-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -2735,9 +2736,11 @@ public class HolaMundo extends HttpServlet{
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F9        | [Estado de Codigos con Servlets Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoCodigosEstado)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
+## Cabeceros de Respuesta con Servlets
 
-
-
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F10        | [Cabeceros de Respuesta con Servlets](https://github.com/BrianMarquez3/Learning-Java/tree/main/Cabeceros%20de%20Respuesta%20con%20Servlets)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ---
