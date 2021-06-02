@@ -189,6 +189,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F9  |:heavy_check_mark: | [Estado de Codigos con Servlets](#Estado-de-Codigos-con-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F10  |:heavy_check_mark: | [Estado de Codigos con Servlets Ejercicio](#Estado-de-Codigos-con-Servlets-Ejercicio)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F11  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets](#Cabeceros-de-Respuesta-con-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F12  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets EJERCICIO](#Cabeceros-de-Respuesta-con-Servlets-EJERCICIO)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -2741,6 +2742,15 @@ public class HolaMundo extends HttpServlet{
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F10        | [Cabeceros de Respuesta con Servlets](https://github.com/BrianMarquez3/Learning-Java/tree/main/Cabeceros%20de%20Respuesta%20con%20Servlets)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+
+## Cabeceros de Respuesta con Servlets EJERCICIO
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F11        | [Cabeceros de Respuesta con Servlets EJERCICIO](https://github.com/BrianMarquez3/Learning-Java/tree/main/Cabeceros%20de%20Respuesta%20con%20Servlets)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+
 
 
 ---
