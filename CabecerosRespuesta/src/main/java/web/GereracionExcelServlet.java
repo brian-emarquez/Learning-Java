@@ -23,10 +23,10 @@ public class GereracionExcelServlet extends HttpServlet{
         
         /* Desplagamos la informacion al cliente */
         PrintWriter out = response.getWriter();
-        out.print("\tValores");
-        out.print("\t1");
-        out.print("\t2");
-        out.print("Total\t=SUMA(b2:B3)");
+        out.println("\tValores");
+        out.println("\t1");
+        out.println("\t2");
+        out.println("Total\t=SUMA(B2;B3)");
         out.close();
     }
 }
