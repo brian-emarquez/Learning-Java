@@ -190,6 +190,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F10  |:heavy_check_mark: | [Estado de Codigos con Servlets Ejercicio](#Estado-de-Codigos-con-Servlets-Ejercicio)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F11  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets](#Cabeceros-de-Respuesta-con-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F12  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets EJERCICIO](#Cabeceros-de-Respuesta-con-Servlets-EJERCICIO)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F13  |:heavy_check_mark: | [Manejo de Cookies](#Manejo-de-Cookies)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -2750,6 +2751,11 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F11        | [Cabeceros de Respuesta con Servlets EJERCICIO](https://github.com/BrianMarquez3/Learning-Java/tree/main/CabecerosRespuesta)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
+## Manejo de Cookies
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F12        | [Manejo de Cookies](https://github.com/BrianMarquez3/Learning-Java/tree/main/CabecerosRespuesta)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
