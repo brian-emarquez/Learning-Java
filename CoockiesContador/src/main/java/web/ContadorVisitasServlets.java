@@ -36,7 +36,6 @@ public class ContadorVisitasServlets extends HttpServlet{
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
         out.print("Contador de visitas de cada cliente: " + contador);
-        
-        
+         
     }
 }
