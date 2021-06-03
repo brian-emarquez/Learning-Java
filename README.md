@@ -191,6 +191,10 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F11  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets](#Cabeceros-de-Respuesta-con-Servlets)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F12  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets EJERCICIO](#Cabeceros-de-Respuesta-con-Servlets-EJERCICIO)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F13  |:heavy_check_mark: | [Manejo de Cookies](#Manejo-de-Cookies)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F14  |:heavy_check_mark: | [Manejo de Cookies EJERCICIO](#Manejo-de-Cookies-EJERCICIO)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F15  |:heavy_check_mark: | [Cookies Contador](#[Cookies-Contador)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+
 
 ---
 
@@ -2742,20 +2746,37 @@ public class HolaMundo extends HttpServlet{
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F10        | [Cabeceros de Respuesta con Servlets](https://github.com/BrianMarquez3/Learning-Java/tree/main/Cabeceros%20de%20Respuesta%20con%20Servlets)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F11        | [Cabeceros de Respuesta con Servlets](https://github.com/BrianMarquez3/Learning-Java/tree/main/Cabeceros%20de%20Respuesta%20con%20Servlets)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ## Cabeceros de Respuesta con Servlets EJERCICIO
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F11        | [Cabeceros de Respuesta con Servlets EJERCICIO](https://github.com/BrianMarquez3/Learning-Java/tree/main/CabecerosRespuesta)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F12        | [Cabeceros de Respuesta con Servlets EJERCICIO](https://github.com/BrianMarquez3/Learning-Java/tree/main/CabecerosRespuesta)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ## Manejo de Cookies
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F12        | [Manejo de Cookies](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Cookies)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F13        | [Manejo de Cookies](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Cookies)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+
+## Manejo de Cookies EJERCICIO
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F14        | [Manejo de Cookies](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Cookies)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+## Cookies Contador
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F15        | [Manejo de Cookies](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Cookies)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+
+
+
 
 
 
