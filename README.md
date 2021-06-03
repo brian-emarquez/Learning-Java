@@ -2677,8 +2677,8 @@ import java.io.IOException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 
-@WebServlet("/ContadorVisitasServlets")
-public class ContadorVisitasServlets extends HttpServlet{
+@WebServlet("/ejemplo")
+public class ejemplo extends HttpServlet{
     
     @Override
      protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
