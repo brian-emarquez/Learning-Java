@@ -1,17 +1,17 @@
 package web;
 
-import com.sun.net.httpserver.HttpServer;
-import jakarta.jws.WebService;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.Cookie;
-import jakarta.servlet.http.HttpServlet;
-import jakarta.servlet.http.HttpServletRequest;
-import jakarta.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/ManejoCookies")
+@WebServlet("/CookieServlet")
 public class CookieServlet extends HttpServlet{
     @Override
-    protected void  doGet(HttpServletRequest request, HttpServletResponse response){
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
         //suponemos que el usuauario vista por primera ves nuestro sitio
         boolean nuevoUsuario = true;
         
@@ -32,11 +32,17 @@ public class CookieServlet extends HttpServlet{
         
         String mensaje = null;
         if(nuevoUsuario){
-            Cookie visitanteCookie = new Cookie("VisitanteRecurrente", "Si");
+            Cookie visitanteCookie = new Cookie("VitanteRecurrente", "si");
             response.addCookie(visitanteCookie);
             mensaje = "Gracias por visitar nuestro sitio por primera ves";
-        }else{
-        mensaje = "Gracias por visitar nuevamente nuestor sitio";
         }
+        else{
+            mensaje = "Gracias por visitar NUEVAMENTEe nuestro sitio";
+        }
+        response.setContentType("text/html;charset=UTF-8");
+        PrintWriter out = response.getWriter();
+        out.print("Mensaje" + mensaje);
+        out.close();
     }
 }
+
