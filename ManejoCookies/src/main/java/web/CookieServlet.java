@@ -29,9 +29,14 @@ public class CookieServlet extends HttpServlet{
                   }
             }
         }
-           
         
-        
-        
+        String mensaje = null;
+        if(nuevoUsuario){
+            Cookie visitanteCookie = new Cookie("VisitanteRecurrente", "Si");
+            response.addCookie(visitanteCookie);
+            mensaje = "Gracias por visitar nuestro sitio por primera ves";
+        }else{
+        mensaje = "Gracias por visitar nuevamente nuestor sitio";
+        }
     }
 }
