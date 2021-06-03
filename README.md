@@ -2668,6 +2668,26 @@ public class HolaMundo extends HttpServlet{
   </tr>
 </table>
 
+_Estructura_
+
+```java
+package web;
+
+import java.io.IOException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
+
+@WebServlet("/ContadorVisitasServlets")
+public class ContadorVisitasServlets extends HttpServlet{
+    
+    @Override
+     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
+         
+        
+     }
+```
+
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F5        | [Servlets](https://github.com/BrianMarquez3/Learning-Java/tree/main/Servlets)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
