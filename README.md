@@ -192,8 +192,9 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F12  |:heavy_check_mark: | [Cabeceros de Respuesta con Servlets EJERCICIO](#Cabeceros-de-Respuesta-con-Servlets-EJERCICIO)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F13  |:heavy_check_mark: | [Manejo de Cookies](#Manejo-de-Cookies)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F14  |:heavy_check_mark: | [Manejo de Cookies EJERCICIO](#Manejo-de-Cookies-EJERCICIO)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  F15  |:heavy_check_mark: | [Cookies Contador](#[Cookies-Contador)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  F15  |:heavy_check_mark: | [Cookies Contador](#Cookies-Contador)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+github.com/BrianMarquez3) |
+|  F16  |:heavy_check_mark: | [Sesion HTTP](#Sesion-HTTP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -2802,6 +2803,12 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F15        | [Cookies Contador](https://github.com/BrianMarquez3/Learning-Java/tree/main/CoockiesContador)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
+
+## Sesion HTTP
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F16        | [Sesion HTTP](https://github.com/BrianMarquez3/Learning-Java/tree/main/CoockiesContador)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ---
