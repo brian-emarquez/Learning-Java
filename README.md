@@ -2806,6 +2806,25 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Sesion HTTP
 
+-`request.getSession()`: se utiliza para obtener la sesion que se creo a partir de la peticion del cliente.
+
+-`sesion.getAtribute()`: Permite obtener un atributo preciamente agregado a la sesion del cliente.
+
+-`sesion.setAttrbute()`: Permite eliminar un atributo agregado a la sesion
+
+-`sesion.invalidate()`: Invalida la sesion actual del cliente.
+
+-`sesion.isNew()`: Permite saber si la sesion ha sio recien creada
+
+-`sesion.getCreationTime(): Permite conocer en la fecha y hora cuando se creo la sesion
+
+-`sesion.getLastAccedesTime()`: Permite conocer la ultima ves en que la sesion fue accedisa por el cliente
+
+- `sesion.getMaxInactiveInterval()`: Primite conocer el tiempo de inactividad(en segundos) necesaio  para wu ela sesion se destruya sino recibe una peticion
+
+- sesion.setMaxInactiveInterval(): Permite modificar el valor mencionado en funcion anterior. Este valor tambien se puede modificar en el archovo web.xml
+
+
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F16        | [Sesion HTTP](https://github.com/BrianMarquez3/Learning-Java/tree/main/Sesion%20HTTP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
