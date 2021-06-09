@@ -2852,7 +2852,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/lombokInstall.png.gif" />
+      <img align="center" style="padding=0;" src="./images/lombokInstall.png" />
     </td>
   </tr>
 </table>
@@ -2861,7 +2861,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/lombokInstall2.png.gif" />
+      <img align="center" style="padding=0;" src="./images/lombokInstall2.png" />
     </td>
   </tr>
 </table>
