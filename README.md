@@ -2848,6 +2848,13 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 > Descargar lomkok.jar de [Lombok Project](https://projectlombok.org/download)
 > Ejecutar y seguir el asistente
 
+```java
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<optional>true</optional>
+		</dependency
+```
 
 <table align="center" >
   <tr>
@@ -2889,23 +2896,14 @@ public class Personas{
 **Anotasciones derivadas**
 
 - Agregan la funcionalidad de mas de una anotacion anterior
-- Data
 
+- Data:
 >Equivalente a @Getter, @Setter, @RequiredArgsConstructor, @EqualsAndHashCode, @ToString
-
-
-
-
-
 
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F18        | [Uso de Lombok](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjemploHTTPSession)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
-
-
-
-
 
 
 ---
