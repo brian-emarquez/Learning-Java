@@ -2874,9 +2874,25 @@ public class Personas{
   Private String Apellidos
 
 }
-
-
 ```
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F18        | [Uso de Lombok](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjemploHTTPSession)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+**Anotaciones Clave**
+
+- @Getter
+- @Setter
+- @RequiredArgConstructor
+- @AllArgsConstructor
+- @NoArgsConstructor
+- @EqualsAndHashCode
+- @ToString
+
+
+
+
+
 
 
 ---
