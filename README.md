@@ -123,7 +123,7 @@
 |  B23|:heavy_check_mark: | [Matrices](#Matrices)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B24|:heavy_check_mark: | [UML](#UML)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B25|:heavy_check_mark: | [Sistema de Ventas](#Sistema-de-Ventas)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B25|:heavy_check_mark: | [Proyecto Mundo PC](#SProyecto-Mundo-PC)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B25|:heavy_check_mark: | [Proyecto Mundo PC](#Proyecto-Mundo-PC)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Programacion Java
 
@@ -2849,6 +2849,22 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 > Ejecutar y seguir el asistente
 
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/lombokInstall.png.gif" />
+    </td>
+  </tr>
+</table>
+
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/lombokInstall2.png.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
