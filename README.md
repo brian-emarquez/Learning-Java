@@ -2866,6 +2866,19 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
   </tr>
 </table>
 
+```java
+@Data @AllArgsConstructor @NoArgsConstructor
+public class Personas{
+  private String dni;
+  Private String Nomnre;
+  Private String Apellidos
+
+}
+
+
+```
+
+
 ---
 
 ## Spring Boot
