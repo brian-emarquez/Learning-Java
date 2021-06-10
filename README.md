@@ -2838,7 +2838,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 ## Ejemplo HTTP Session
 
 
-```java
+```xml
 <!--La sesion dura 30 minutos luego se reiniciara-->
         <session-timeout>
             30
