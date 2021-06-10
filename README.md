@@ -2837,6 +2837,14 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Ejemplo HTTP Session
 
+
+```java
+<!--La sesion dura 30 minutos luego se reiniciara-->
+        <session-timeout>
+            30
+</session-timeout>
+```
+
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F17        | [Ejemplo HTTP Session](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjemploHTTPSession)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
