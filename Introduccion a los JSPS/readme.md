@@ -22,5 +22,15 @@
 **Funciones de un JSP**
 
 - JSP (Vista)
-- JavaBean (Modelo)
 - Servlet (Controlador)
+- JavaBean (Modelo)
+
+**Ciclo de vida de un JSP**
+
+1. Se traduce el JSP a un servlet
+2. Se compila y se carga la classe del servlet
+3. Se Crea un subproceso del servlet
+4. Se ejecuta el metodo init()
+5. Se ejecuta el metodo service()
+6. Se ejecuta el metodo destroy()
+
