@@ -2845,6 +2845,14 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 </session-timeout>
 ```
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/HttpSesion.png" />
+    </td>
+  </tr>
+</table>
+
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F17        | [Ejemplo HTTP Session](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjemploHTTPSession)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
