@@ -13,43 +13,42 @@ import javax.servlet.http.HttpSession;
 @WebServlet("/CarritoServlet")
 public class CarritoServlet extends HttpServlet{
     
-     @Override
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException{
         response.setContentType("text/html;charset=UTF-8");
-
-        //creamos o recuperamos el objeto http session
+        
+        // creamos o recuperamos el objeto
         HttpSession sesion = request.getSession();
-
-        //recuperamos la lista de articulos agregados previamente si existen
+                
+        //recuperamos la lista de articulos agregados prevoamente si esisten
         List<String> articulos = (List<String>) sesion.getAttribute("articulos");
-
-        //verificamos si la lista de articulos existe
-        if (articulos == null) {
-            //inicializamos la lista de articulos
+        
+        // verificar si la lista de articulos existe
+        if(articulos ==null){
+            //inicializamos la lista lista de articulos
             articulos = new ArrayList<>();
             sesion.setAttribute("articulos", articulos);
         }
-
-        //procesamos el nuevo articulo
+        
+         //procesamos el nuevo articulo
         String articuloNuevo = request.getParameter("articulo");
-
-        //revisamos y agregamos el articulo nuevo
-        if (articuloNuevo != null && !articuloNuevo.trim().equals("")) {
+        
+        //revisamos y agregamos el articulo
+        if(articuloNuevo != null && !articuloNuevo.trim().equals("")){
             articulos.add(articuloNuevo);
-        }
-
-        try (
-            //imprimimos la lista de articulos
+        }  
+        try ( //imprimir la lista de articulos
             PrintWriter out = response.getWriter()) {
             out.print("<h1>Lista de Articulos</h1>");
             out.print("<br>");
-            //iteramos todos los articulos
-            for (String articulo : articulos) {
+            
+            //Iteramos todos lo articulos
+             for (String articulo : articulos) {
                 out.print("<li>" + articulo + "</li>");
             }
-            //agregamos un link para regresar al inicio
+            //Agregamos un link para regresar al inicio
             out.print("<br>");
-            out.print("<a href='/EjemploCarritoCompras'>Regresar al inicio</a>");
-        }
-    }
+            out.print("<a href='/EjemploCompras'>regresar al inicio</a>");
+        }   
+    } 
 }
