@@ -1,6 +1,8 @@
 package web;
 
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.List;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -15,15 +17,39 @@ public class CarritoServlet extends HttpServlet{
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
         response.setContentType("text/html;charset=UTF-8");
         
-        //procesamos el nuevo articulo
-        String articuloNuevo = request.getParameter("articulo");
-        
         // creamos o recuperamos el objeto
         HttpSession sesion = request.getSession();
                 
         //recuperamos la lista de articulos agregados prevoamente si esisten
         List<String> articulos = (List<String>) sesion.getAttribute("articulos");
-                
-    }
-  
+        
+        // verificar si la lista de articulos existe
+        if(articulos ==null){
+            //inicializamos la lista lista de articulos
+            articulos = new ArrayList<>();
+            sesion.setAttribute("articulos", articulos);
+        }
+        
+         //procesamos el nuevo articulo
+        String articuloNuevo = request.getParameter("articulo");
+        
+        //revisamos y agregamos el articulo
+        if(articuloNuevo != null && !articuloNuevo.trim().equals("")){
+            articulos.add(articuloNuevo);
+        }  
+        //imprimir la lista de articulos
+        PrintWriter out = response.getWriter();
+        out.print("<h1>Lista de Articulos</h1>");
+        out.print("<br>");
+        
+        //Iteramos todos lo articulos
+        for(String articulo: articulos){
+            out.print("<li>" + articulos + "</li>");
+        }
+        //Agregamos un link para regresar al inicio
+        out.print("<br/>");
+        out.print("<a href='/EjemploCompras'>regresar al inicio</a>");
+        out.close();
+        
+    } 
 }
