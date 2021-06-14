@@ -2961,7 +2961,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F22        | [Elementos de un JSP](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F22        | [Elementos de un JSP](Elementos de un JSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ---
 
