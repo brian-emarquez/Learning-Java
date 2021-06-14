@@ -2941,7 +2941,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F21        | [Hola JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/Introduccion%20a%20los%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F21        | [Hola JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
