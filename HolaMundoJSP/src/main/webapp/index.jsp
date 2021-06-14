@@ -4,7 +4,8 @@
     Author     : brian
 --%>
 
-<%-- Directiva --%>
+<%-- Directivas --%>
+<%@taglib  prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -17,6 +18,7 @@
             <li> <% out.print("Hola Mundo con Scripplets"); %> </li>
             <li> ${"Hola Mundo con Expresion Languaje(EL)"} </li>
             <li> <%= "Hola Mundo con expresiomnes" %> </li>
+            <li> <c:out value="Hola Mundo con JSTL" /> </li>
         </ul>
     </body>
 </html>
