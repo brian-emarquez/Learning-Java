@@ -193,7 +193,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F13  |:heavy_check_mark: | [Manejo de Cookies](#Manejo-de-Cookies)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F14  |:heavy_check_mark: | [Manejo de Cookies EJERCICIO](#Manejo-de-Cookies-EJERCICIO)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F15  |:heavy_check_mark: | [Cookies Contador](#Cookies-Contador)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-github.com/BrianMarquez3) |
 |  F16  |:heavy_check_mark: | [Sesion HTTP](#Sesion-HTTP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F17  |:heavy_check_mark: | [Ejemplo HTTP Session](#Ejemplo-HTTP-Session)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F18  |:heavy_check_mark: | [Uso de Lombok](#Uso-de-Lombok)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
