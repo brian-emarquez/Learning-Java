@@ -38,3 +38,6 @@
 
 - session:
     - Es el objeto HTTPSesion asiaciso con el objeto request
+
+- application:
+    - Es el objeto ServletContext que se obtiene a partir del metodo getServletContext() es un Servlet
