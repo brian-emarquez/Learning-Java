@@ -14,7 +14,7 @@
         <%-- Scrptlet para manipular los objetos implicitos--%>
         <%
          String nombAplicacion = request.getContextPath();
-         out.print("NOombre de la aplicacion: " + nombAplicacion);
+         out.print("Nombre de la aplicacion: " + nombAplicacion);
         %>
         <br>
         <%-- Scrptlet con codigo condicionado--%>
@@ -26,12 +26,9 @@
             }else if(session !=null){
         %>
         La sesion NO es nueva
-        <% } %>
-        
-        
-        
-        
-
+        <% } %>   
+        <br>
+        <a href="index.html">Regresar a la pagina Inicio</a>
         
     </body>
 </html>
