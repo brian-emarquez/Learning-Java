@@ -23,6 +23,7 @@ private int contadoVisitas = 1;
         Valor de usuario pro medio de atributo: <%= this.usuario%>
         <br><!-- comment -->
         Valor Uusuario por medio del metodo: <%= this.getUsuario()%>
-        
+         <br><!-- comment -->
+        Contador visitas: <%= this.contadoVisitas++%>
     </body>
 </html>

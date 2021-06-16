@@ -203,6 +203,11 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F23  |:heavy_check_mark: | [ExpresionesJSP](#ExpresionesJSP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F24  |:heavy_check_mark: | [ScriptletsJSP](#ScriptletsJSP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F25  |:heavy_check_mark: | [DeclaracionesJSP](#DeclaracionesJSP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  F26  |:heavy_check_mark: | [Documentos con JPSX](#Documentos-con-JPSX)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+
+
+
 ---
 
 <table align="center" >
@@ -2987,6 +2992,11 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F24        | [DeclaracionesJSP](https://github.com/BrianMarquez3/Learning-Java/tree/main/DeclaracionesJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
+## Documentos con JPSX
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F25        | [Documentos con JPSX](https://github.com/BrianMarquez3/Learning-Java/tree/main/DeclaracionesJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
