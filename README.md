@@ -202,7 +202,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F22  |:heavy_check_mark: | [Elementos de un JSP](#Elementos-de-un-JSP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F23  |:heavy_check_mark: | [ExpresionesJSP](#ExpresionesJSP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F24  |:heavy_check_mark: | [ScriptletsJSP](#ScriptletsJSP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  F25  |:heavy_check_mark: | [DeclaracionesJSP](#DeclaracionesJSP)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 ---
 
 <table align="center" >
@@ -2980,9 +2980,12 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |F23        | [ScriptletsJSP](https://github.com/BrianMarquez3/Learning-Java)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
+## DeclaracionesJSP
 
 
-
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F24        | [DeclaracionesJSP](https://github.com/BrianMarquez3/Learning-Java)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
