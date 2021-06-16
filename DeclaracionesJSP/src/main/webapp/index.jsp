@@ -20,6 +20,9 @@ private int contadoVisitas = 1;
     </head>
     <body>
         <h1>Uso de Declaraciones con JSPS</h1>
+        Valor de usuario pro medio de atributo: <%= this.usuario%>
+        <br><!-- comment -->
+        Valor Uusuario por medio del metodo: <%= this.getUsuario()%>
         
     </body>
 </html>
