@@ -29,3 +29,28 @@ Atributo `isELIgnored`:
 ```java
 <%@page isELIgnored="false" %>
 ```
+
+Atributo `buffer`:
+```java
+<%@page buffer="tamañoEnKb" %>
+```
+
+Atributo `errorPage`:
+```java
+<%@page errorPage="url relativpo al JSP de error" %>
+```
+
+Atributo `isErrorPage`:
+```java
+<%@page isErrorPage="true" %>
+```
+
+Atributo `isThreadSafe`:
+```java
+<%@page isThreadSafe="true" %>
+```
+
+Atributo `extends`:
+```java
+<%@page extends="paquete.NobreClase" %>
+```
