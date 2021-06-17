@@ -3023,7 +3023,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F28        | [Excel Jsps con Directivas](https://github.com/BrianMarquez3/Learning-Java/tree/main/Directivas%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F28        | [Excel Jsps con Directivas](https://github.com/BrianMarquez3/Learning-Java/tree/main/ExcelJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
