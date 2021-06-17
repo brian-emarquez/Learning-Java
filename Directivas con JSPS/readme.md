@@ -10,3 +10,22 @@
 
 ### Atributos en las Directivas de un JSP
 
+Atributo `import`:
+```java
+<%@page import = "paquete.Clase1, paquete.ClaseN" %>
+```
+
+Atributo `contentType`:
+```java
+<%@page contentType = "MIME-Type" %>
+```
+
+Atributo `session`:
+```java
+<%@page session="true" %>
+```
+
+Atributo `isELIgnored`:
+```java
+<%@page isELIgnored="false" %>
+```
