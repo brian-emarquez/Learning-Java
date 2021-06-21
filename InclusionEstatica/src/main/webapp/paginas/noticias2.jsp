@@ -1,9 +1,4 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
-        <h1>Hello World!</h1>
-    </body>
-</html>
+<!-- No necesitamos agregar los tags de inicio de html -->
+
+<h4> Curso de Oracle </h4>
+<a href="https://www.tutorialesprogramacionya.com/oracleya/" target="_blank"> Click para entrar </a> 
