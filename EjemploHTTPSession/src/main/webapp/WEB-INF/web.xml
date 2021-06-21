@@ -4,6 +4,7 @@
    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
    version="4.0">
     <session-config>
+        <!--La sesion dura 30 minutos luego se reiniciara-->
         <session-timeout>
             30
         </session-timeout>
