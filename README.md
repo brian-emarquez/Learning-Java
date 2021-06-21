@@ -207,6 +207,11 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F27  |:heavy_check_mark: | [Directivas con JSPS](#Directivas-con-JSPS)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  F28  |:heavy_check_mark: | [Excel Jsps con Directivas](#Excel-Jsps-con-Directivas)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |  F29  |:heavy_check_mark: | [Inclusión de Archivos con JSPS](#Inclusión-de-Archivos-con-JSPs)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
+|  F30  |:heavy_check_mark: | [Inclusión Estatica](#Inclusión-Estatica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
+
+
+
+
 
 ---
 
@@ -3040,6 +3045,20 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F29        | [Inclusión de Archivos con JSPs](https://github.com/BrianMarquez3/Learning-Java/tree/main/Inclusion%20de%20Archivos%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+## Inclusión Estatica
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F30        | [Inclusión Estatica](https://github.com/BrianMarquez3/Learning-Java/tree/main/InclusionEstatica)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+
+
+
+
+
+
+
+
 
 
 
