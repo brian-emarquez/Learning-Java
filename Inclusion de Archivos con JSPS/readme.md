@@ -32,7 +32,7 @@ _Inclusion Estatica_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/inclusionEstatica.png" />
+      <img align="center" style="padding=0;" src="../images/inclusionEstatica.png" />
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ Se puede incluir archivos provados (desde la carpeta WEB.INF)
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/inclusionDinamica.png" />
+      <img align="center" style="padding=0;" src="../images/inclusionDinamica.png" />
     </td>
   </tr>
 </table>
