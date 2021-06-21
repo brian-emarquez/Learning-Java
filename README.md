@@ -208,7 +208,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F28  |:heavy_check_mark: | [Excel Jsps con Directivas](#Excel-Jsps-con-Directivas)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |  F29  |:heavy_check_mark: | [Inclusión de Archivos con JSPS](#Inclusión-de-Archivos-con-JSPs)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |  F30  |:heavy_check_mark: | [Inclusión Estatica](#Inclusión-Estatica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
-
+|  F31  |:heavy_check_mark: | [Inclusión Dinamica](#Inclusión-Dinamica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 
 
 
@@ -3053,8 +3053,11 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |F30        | [Inclusión Estatica](https://github.com/BrianMarquez3/Learning-Java/tree/main/InclusionEstatica)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
+## Inclusión Dinamica
 
-
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F31        | [Inclusión Dinamica](https://github.com/BrianMarquez3/Learning-Java/tree/main/InclusionEstatica)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
