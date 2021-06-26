@@ -21,7 +21,6 @@
   </tr>
 </table>
 
-
 ### Alcance de atributos en un JSP (SCOPE)
 
 <table align="center" >
