@@ -10,7 +10,7 @@
 
 - Indirectamente el JSP manda llamar al metodo get o set asociado con la propiedad indicada en el JSP
 
- **Ejemlos de Propiedades de Javabeans**
+ **Ejemplos de Propiedades de Javabeans**
 
 
 <table align="center" >
