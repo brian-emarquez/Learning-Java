@@ -208,7 +208,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F28  |:heavy_check_mark: | [Excel Jsps con Directivas](#Excel-Jsps-con-Directivas)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |  F29  |:heavy_check_mark: | [Inclusión de Archivos con JSPS](#Inclusión-de-Archivos-con-JSPs)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |  F30  |:heavy_check_mark: | [Inclusión Estatica](#Inclusión-Estatica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
-|  F31  |:heavy_check_mark: | [Inclusión Dinamica](#Inclusión-Dinamica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
+|F31-F32|:heavy_check_mark: | [Inclusión Dinamica](#Inclusión-Dinamica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 
 
 
