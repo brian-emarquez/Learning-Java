@@ -20,3 +20,14 @@
     </td>
   </tr>
 </table>
+
+
+### Alcance de atributos en un JSP (SCOPE)
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/Alcance.png" />
+    </td>
+  </tr>
+</table>
