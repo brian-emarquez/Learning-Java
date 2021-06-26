@@ -20,20 +20,20 @@
 
 * Ejecute git config --list para verificar el nombre de usuario y el correo electrónico actuales en su repositorio local.
 
-```
+```bash
 config --list
 ```
 
 * Cambiar el nombre de usuario y correo electrónico como se desee. Haz que sea un cambio global o específico para el repositorio local:
 
-```
+```bash
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
 
 Para establecer la identidad solo en el repositorio actual, elimine --global y ejecute los siguientes comandos en su directorio Proyecto/Repo
 
-```
+```bash
 git config user.email "you@example.com"
 git config user.name "Your Name"
 ```
