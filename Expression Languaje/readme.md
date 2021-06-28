@@ -5,7 +5,7 @@ Nos Permite simplificar el despliegue de infirmacion en un JSP utilizanbdo JavaB
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/EL1.png" />
+      <img align="center" style="padding=0;" src="../images/EL1.png" />
     </td>
   </tr>
 </table>
@@ -15,7 +15,7 @@ Nos Permite simplificar el despliegue de infirmacion en un JSP utilizanbdo JavaB
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/EL_caracteristicas.png" />
+      <img align="center" style="padding=0;" src="../images/EL_caracteristicas.png" />
     </td>
   </tr>
 </table>
