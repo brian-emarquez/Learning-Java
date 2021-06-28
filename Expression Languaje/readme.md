@@ -23,4 +23,4 @@ Nos Permite simplificar el despliegue de infirmacion en un JSP utilizanbdo JavaB
 ### Mas caracteristicas de Expression Languaje
 
 - Acceso a propiedades de un Objeto de tipo Colletion o Arreglo
--  Ej. ```java${listaPersonas[indice/llave]}```
+-  Ej. `${listaPersonas[indice/llave]}`
