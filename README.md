@@ -3064,7 +3064,8 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F33        | [IManejo de Javabeans con JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Javabeans%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F33        | [Manejo de Javabeans con JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Javabeans%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F34        | [ Ejemplo Manejo de Javabeans con JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJabaBeans)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
