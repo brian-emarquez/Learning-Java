@@ -1,17 +1,12 @@
-<%-- 
-    Document   : index
-    Created on : 28 jun. 2021, 18:23:21
-    Author     : brian
---%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Ejemplo de Expresion Languaje</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Ejemplo de Expresion Lenguaje</h1>
+        <br />
+        <a href="variablesImplicitas.jsp?usuario=juan">Objetos implictos con E L</a>
+        
     </body>
 </html>
