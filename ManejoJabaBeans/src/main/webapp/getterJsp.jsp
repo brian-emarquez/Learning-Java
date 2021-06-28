@@ -10,10 +10,11 @@
         <br/>
         Valor base: <jsp:getProperty name="rectangulo" property="base" />
         <br/>
-        Valor Altura <jsp:getProperty name="rectangulo" property="altura" />
+        Valor altura: <jsp:getProperty name="rectangulo" property="altura" />
         <br/>
-        Valor area <jsp:getProperty name="rectangulo" property="area" />
-
-        
+        Valor area: <jsp:getProperty name="rectangulo" property="area" />
+        <br/>
+        <br/>
+        <a href="index.jsp">Regresar al inicio</a>
     </body>
 </html>
