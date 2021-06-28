@@ -210,7 +210,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  F30  |:heavy_check_mark: | [Inclusión Estatica](#Inclusión-Estatica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |F31-F32|:heavy_check_mark: | [Inclusión Dinamica](#Inclusión-Dinamica)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |F33-F34|:heavy_check_mark: | [Manejo de Javabeans con JSPS](#Manejo-de-Javabeans-con-JSPS)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
-|F35|:heavy_check_mark: | [Expression Languaje](#Expression-Languaje)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
+|F35-F36|:heavy_check_mark: | [Expression Languaje](#Expression-Languaje)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 
 
 ---
@@ -3072,8 +3072,8 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F35        | Expression Languaje](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Javabeans%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
-
+|F35        | [Expression Languaje](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Javabeans%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F36        | [Ejercicio Expression Languaje](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Javabeans%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 
