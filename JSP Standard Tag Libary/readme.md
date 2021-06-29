@@ -33,5 +33,38 @@ stsl.jar
     xmlns:c = "http://java,sun.com/JSP/Page">
 ```
 
+### Libreria Core de JSTL
+
+- Tags de Despliegue de informacion
+
+```java
+   <c:out value=${persona.nombre}>
+```
+
+- Tag de cracion y manipulacion de variables:
+
+```java
+   <c:set var="nombre" value="Carlos" scape="page/>
+```
+
+- Tags de Elementos condicionales
+
+```java
+   <c:text="${i>0}"/> y <c:choose> <c:when text="a">...
+```
+
+- Tags de iteeracion de elementos
+
+```java
+   <c:forEach var="persona" item=${persnas}>...
+```
+
+
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|F38        | [Ejemplo JSP Standard Tag Libary]()  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/BrianMarquez3/Learning-Java) |
+
+
 
 
