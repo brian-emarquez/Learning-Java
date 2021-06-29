@@ -32,6 +32,11 @@ SpringMVC : Es un extrernsion del framework de Spring, que utiliza JSP(vista) co
 </table>
 
 
+**Pasos Generales de un servlet controlador**
+
+a) Procesamos y validamos lo parametros (si aplica)
+b) Realizamos la logica de presentacion almacenamos el resultado en JavaBeans
+c) Compartimos l objeto bean a utiliazr en algun alcance (scape)
 
 
 
