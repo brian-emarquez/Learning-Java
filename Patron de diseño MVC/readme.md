@@ -1,4 +1,4 @@
-### Matron de Diseño MVC
+### Patron de Diseño MVC
 
 - Los Servlets esta enfocados en controlar el flujo de la peticion HTTP
 
