@@ -3262,7 +3262,7 @@ _Ventajas_
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |Spring-05   | [Inversion Of Control](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|Spring-06   | [Inversion Of Control 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|Spring-06   | [Inversion Of Control 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ## Spring MVC
