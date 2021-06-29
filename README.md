@@ -232,9 +232,9 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  Spring-02   |:heavy_check_mark: | [Hola Mundo Spring usando controlador](#Hola-Mundo-Spring-usando-controlador)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  Spring-03   |:heavy_check_mark: | [Personalizar el puerto HTTP](#Personalizar-el-puerto-HTTP)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  Spring-04   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  Spring-05   |:heavy_check_mark: | [Inversion Of Control](#Inversion-Of-Control)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  Spring-05   |:heavy_check_mark: | [Basico Inversion Of Control 1](#Basico-Inversion-Of-Control-1)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  Spring-06   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  Spring-07   |:heavy_check_mark: | [Inyeccion de Dependencias](#Inyeccion-de-Dependencias)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  Spring-07   |:heavy_check_mark: | [Teoria Inyeccion de Dependencias](#Teoria Inyeccion-de-Dependencias)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -3248,7 +3248,7 @@ _CAMBIO DE PUERTO_
 </table>
 
 
-## Inversion Of Control
+## Basico Inversion Of Control 1
 
 - Invierte el flujo de control del programa, externalizando(agente externo: framework) la contruccion y manejo de objetos
 
@@ -3278,7 +3278,7 @@ _Ventajas_
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |Spring-06   | [Spring MVC](https://github.com/BrianMarquez3/Learning-Java/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
-## Inyeccion de Dependencias
+## Teoria Inyeccion de Dependencias
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
