@@ -6,7 +6,19 @@
 
 - La Informacionqeu se comparte entrer lo componente (Sevlets y JSPS) suele manejarse con JavaBeans
 
-- `El patron de Diseño MVC (Modelo Vista Controlador) Nos permite integrar a los JSPS(vista) , a los servlets (controlador y los javaBeans (Modelo)`
+- `El patron de Diseño MVC (Modelo Vista Controlador) Nos permite integrar a los JSP`S(vista) , a los servlets (controlador) y los javaBeans (Modelo)`
+
+
+### Frameworks que utilizan el patron MVC
+
+`JSP/Servlets` : se implmenta manualmente con ayuda del objeo RequestDispatcher para controlar el flujo de la aplicacion.
+
+`Struts`: 
+ Es un framework de Apache , el cual utiliza JSP'( vista con tags de Struts, ActonForm(Modelo), Action (Controlador), entrer otros companentes.
+
+JavaServerFaces(JSF): Es una tecnologias que utiliza conceptos como JSP's(VIST) con tags de JSF, managedBean(Controlador) y JavaBeans (Modelo)
+
+SpringMVC : Es un extrernsion del framework de Spring, que utiliza JSP(vista) con tags de Spring, clases Java (Controladores) y JavaBeans (Modelo)
 
 
 
