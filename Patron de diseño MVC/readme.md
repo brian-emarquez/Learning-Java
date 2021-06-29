@@ -21,6 +21,15 @@ JavaServerFaces(JSF): Es una tecnologias que utiliza conceptos como JSP's(VIST) 
 SpringMVC : Es un extrernsion del framework de Spring, que utiliza JSP(vista) con tags de Spring, clases Java (Controladores) y JavaBeans (Modelo)
 
 
+**Arquitectura MVC con JSP`s y Servlets**
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/MVC_JSp_Servlets.png" />
+    </td>
+  </tr>
+</table>
 
 
 
