@@ -3141,7 +3141,7 @@ stsl.jar
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F37        | [JSP Standard Tag Libary](https://github.com/BrianMarquez3/Learning-Java/tree/main/JSP%20Standard%20Tag%20Libary)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
-|F38        | [Ejercicio JSP Standard Tag Libary]()  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
+|F38        | [Ejercicio JSP Standard Tag Libary](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjemploJSTL)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 

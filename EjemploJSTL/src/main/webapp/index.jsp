@@ -8,8 +8,6 @@
         <h1>Ejemplo JSTLV</h1>
         <br />
         <br />
-
-                
-                
+        <a href="jspCore.jsp?opcion=1">Ir al JSP de JSTL CORE</a>        
     </body>
 </html>
