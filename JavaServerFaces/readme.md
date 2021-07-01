@@ -35,7 +35,7 @@ Capa del cliente -> Capa Web (JSF) -> Capa de Negocio -> Capa Datos - JDBC
 <table>
     <caption>.:Patron de diseño MVC con JSF:.</caption>
 <tr>
-    <td>Modelo (ManagedBean de MOdelo)</td>
+    <td colspan="3">Modelo (ManagedBean de MOdelo)</td>
 </tr>
 
 <tr>
