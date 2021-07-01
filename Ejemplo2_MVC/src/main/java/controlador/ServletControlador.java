@@ -37,10 +37,17 @@ public class ServletControlador extends HttpServlet{
             //Alcanse apllication
             ServletContext application = this.getServletContext();
             application.setAttribute("mensaje", "Las variables fueron agregadas");
+        }else if("listarVariables".equals(accion)){           
+            //4. Redirecciones al jsp 
+            request.getRequestDispatcher("WEB-INF/alcanseVariables.jsp").forward(request, response);  
         }
-                
-        //4. recionar a la vista selecionada
-        RequestDispatcher rd = request.getRequestDispatcher("vista/desplegarVariables.jsp");
-        rd.forward(request, response);
+        else{
+            //4. Redirecciones a la pagina de inicio
+            request.setAttribute("mensaje", "Accion no proporcionada o desconocida");
+            request.getRequestDispatcher("index.jsp").forward(request, response);
+            
+            // Esta liena no agregaria informacion al JSP
+            //response.sendRedirect("index.jsp");
+        }             
     }
 }
