@@ -52,6 +52,20 @@ Capa del cliente -> Capa Web (JSF) -> Capa de Negocio -> Capa Datos - JDBC
 - Al Ejecutar un Facelet, toos lo componentes JSF se converten a instancias Java y son adminitradas por un component TRee
 
 
+_Modificaciones antes de empesar un proyecto_
+
+```java
+   <dependencies>
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <version>8.0.1</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+```
+
+
 
 
 

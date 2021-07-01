@@ -3199,6 +3199,17 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Hola Mundo JavaServlet Faces
 
+```java
+   <dependencies>
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <version>8.0.1</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+```
+
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G2       | [Hola Mundo JavaServlet Faces](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
