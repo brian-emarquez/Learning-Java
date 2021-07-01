@@ -37,6 +37,14 @@ Capa del cliente -> Capa Web (JSF) -> Capa de Negocio -> Capa Datos - JDBC
     <td>Modelo (ManagedBean de MOdelo)</td>
 </th>
 
+<th>
+    <td>Vista (Facelets o JSPs)</td>
+</th>
+
+<th>
+    <td>Controlador (ManagedBean COntrolador)</td>
+</th>
+
 </table>
 
 
