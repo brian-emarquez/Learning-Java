@@ -25,6 +25,21 @@ _Alguna de las caracteristicas nuevas son:_
 - Soporte nativo para AJAX
 - soporte por default para facelets
 
+### Arquitectura JavaServer Faces
+
+Capa del cliente -> Capa Web (JSF) -> Capa de Negocio -> Capa Datos - JDBC
+
+
+### Patron de diseño MVC con JSF
+
+<table>
+<th>
+    <td>Modelo (ManagedBean de MOdelo)</td>
+</th>
+
+</table>
+
+
 
 
 
