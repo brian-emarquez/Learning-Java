@@ -217,26 +217,9 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 
 ## JavaServlet Faces
 
-<table>
-    <caption>.:Patron de diseño MVC con JSF:.</caption>
-<tr>
-    <td colspan="3" align="center">Modelo (ManagedBean de MOdelo)</td>
-</tr>
-
-<tr>
-    <td>Vista (Facelets o JSPs)</td>
-    <td>Controlador (ManagedBean COntrolador)</td>
-</tr>
-</table>
-
-
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  G1  |:heavy_check_mark: | [Introduccion JavaServlet Faces](#Introduccion-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-
-
-
-
 
 
 
@@ -3192,6 +3175,21 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 
 ## Introduccion JavaServlet Faces
+
+
+<table>
+    <caption>.:Patron de diseño MVC con JSF:.</caption>
+<tr>
+    <td colspan="3" align="center">Modelo (ManagedBean de MOdelo)</td>
+</tr>
+
+<tr>
+    <td>Vista (Facelets o JSPs)</td>
+    <td>Controlador (ManagedBean COntrolador)</td>
+</tr>
+</table>
+
+<br/>
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
