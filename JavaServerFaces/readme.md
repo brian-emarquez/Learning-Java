@@ -42,8 +42,15 @@ Capa del cliente -> Capa Web (JSF) -> Capa de Negocio -> Capa Datos - JDBC
     <td>Vista (Facelets o JSPs)</td>
     <td>Controlador (ManagedBean COntrolador)</td>
 </tr>
-
 </table>
+
+### Tecnologias de lo Facelets
+
+- Los Facelets son la tecnologia estandar de despliegue de JSF
+- Los Facelets puede ser hasta un 30% mas rapidos en el analissi y alboracion de paginas
+- Los facelets fueron creados tomando en cuenta el cliclo de vida de JSF
+- Al Ejecutar un Facelet, toos lo componentes JSF se converten a instancias Java y son adminitradas por un component TRee
+
 
 
 
