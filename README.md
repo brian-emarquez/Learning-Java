@@ -2520,7 +2520,7 @@ _Establecer Conexion_
   </tr>
 </table>
 
-- Hacer el test de coneccion para comprobar que todo este correcto
+- Hacer el test de conexion para comprobar que todo este correcto
 
 
 _Conexión a la Base de Datos_
