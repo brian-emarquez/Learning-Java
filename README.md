@@ -2476,6 +2476,15 @@ _Ejecutar y Conectar a SQL Developer con las credenciales creadas_
 
 ## Descargar E Instalar Connector/J para MYSQL
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/MYSQLConecctor.jpeg" />
+    </td>
+  </tr>
+</table>
+
+
 📦 [Instalador Connector/J MySQL](https://dev.mysql.com/downloads/connector/j/?os=26) Platform Independent (Architecture Independent), ZIP Archive. <br>
 
 <table align="center" >
