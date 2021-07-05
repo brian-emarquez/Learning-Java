@@ -2497,7 +2497,24 @@ MySQL Connector / J es el controlador JDBC oficial para MySQL. MySQL Connector /
   </tr>
 </table>
 
-_Conexión_
+
+_Establecer Conexion_
+
+- Seleccionar el Driver Descardo
+- Colocar las credenciles
+- Hacer el test de coneccion para comprobar que todo este correcto
+
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/jdbc_mysql-coneccion.png" />
+    </td>
+  </tr>
+</table>
+
+
+_Conexión a la Base de Datos_
 
 <table align="center" >
   <tr>
