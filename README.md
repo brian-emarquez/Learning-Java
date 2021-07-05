@@ -2501,9 +2501,6 @@ MySQL Connector / J es el controlador JDBC oficial para MySQL. MySQL Connector /
 _Establecer Conexion_
 
 - Seleccionar el Driver Descargado
-- Colocar las credenciales
-- Hacer el test de coneccion para comprobar que todo este correcto
-
 
 <table align="center" >
   <tr>
@@ -2512,6 +2509,18 @@ _Establecer Conexion_
     </td>
   </tr>
 </table>
+
+- Colocar las credenciales
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/credencialesMYSQL.png" />
+    </td>
+  </tr>
+</table>
+
+- Hacer el test de coneccion para comprobar que todo este correcto
 
 
 _Conexión a la Base de Datos_
