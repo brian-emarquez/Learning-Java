@@ -2476,6 +2476,8 @@ _Ejecutar y Conectar a SQL Developer con las credenciales creadas_
 
 ## Descargar E Instalar Connector/J para MYSQL
 
+MySQL Connector / J es el controlador JDBC oficial para MySQL. MySQL Connector / J 8.0 es compatible con todas las versiones de MySQL a partir de MySQL 5.6
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
