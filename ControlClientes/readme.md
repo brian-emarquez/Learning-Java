@@ -1,3 +1,13 @@
+<h2 align="center"> Control Clientes - Proyecto Servlet y JSP</h2>
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/servletLogo.jpeg" />
+    </td>
+  </tr>
+</table>
+
 ### Control Clientes - Proyecto Servlet y JSP
 
 
