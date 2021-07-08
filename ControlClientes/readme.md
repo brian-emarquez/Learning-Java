@@ -61,3 +61,5 @@ _Usaremos la herramienta BIzagui Modeler_
             <version>2.8.0</version>
         </dependency>
 ```
+### Clase Conexion
+
