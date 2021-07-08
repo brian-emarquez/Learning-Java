@@ -19,3 +19,11 @@ Instalacion y Prueba de Conector
 </table>
 
 
+### Modelados
+
+_Usaremos la herramienta BIzagui Modeler_
+
+📦 Descargar [Bizagui Modeler](https://portal.bizagi.com/en/bizagi-modeler-download) Software de mapeo de procesos de negocio gratuito, intuitivo y colaborativo utilizado por millones de personas en todo el mundo.<br>
+
+📦 Software Online Visual [Online Visual](https://online.visual-paradigm.com/diagrams/features/bpmn-tool/) Herramienta de diagrama de BPMN en línea.<br>
+
