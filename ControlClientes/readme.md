@@ -1,5 +1,6 @@
 ### Control Clientes
 
+
 Instalacion y Prueba de Conector
 
 <table align="center" >
@@ -46,3 +47,17 @@ _Usaremos la herramienta BIzagui Modeler_
   </tr>
 </table>
 
+### Agregar Liberias al proyecto
+
+```java
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.25</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-dbcp2</artifactId>
+            <version>2.8.0</version>
+        </dependency>
+```
