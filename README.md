@@ -3403,6 +3403,8 @@ _CAMBIO DE PUERTO_
 # server.port=7070
 ```
 
+**Controlador**
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -3410,6 +3412,17 @@ _CAMBIO DE PUERTO_
     </td>
   </tr>
 </table>
+
+**Thymeleaf plugin**
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/thymeleaf.png" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -3420,7 +3433,7 @@ _CAMBIO DE PUERTO_
 - Spring MVC esta diseñado sifuiendo el patron de diseño Front Controller
 - En Spring MVC el Front Controller es mejor conocido como DispatcherServlet
 
-    **Funciones** Enviar peticiones(request) a lo manejadores (handlers) para que sean preocesadas
+**Funciones** Enviar peticiones(request) a lo manejadores (handlers) para que sean preocesadas
 
 - A Partir de Spring 4.0 se pueden crear RRESFUL Web servives utilizando la anotacion `@RestController`, `@PathVariable`
 
