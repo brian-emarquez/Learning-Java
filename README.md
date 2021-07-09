@@ -3391,7 +3391,7 @@ public class HomeController {
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |Spring-02   | [Hola Mundo Spring usando controlador](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 |Spring-03   | [Hola Mundo Spring usando controlador 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoSpring2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|Spring-04   | [Hola Mundo Thymeleaf ](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoSpring2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|Spring-04   | [Hola Mundo Thymeleaf ](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoThymeleaf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 ## Personalizar el puerto HTTP
 
