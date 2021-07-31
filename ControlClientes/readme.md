@@ -1,5 +1,9 @@
 <h2 align="center"> Control Clientes - Proyecto Servlet y JSP</h2>
 
+**Descargar Conector Java**
+
+[Connector/J](https://dev.mysql.com/downloads/connector/j/?os=26)
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
