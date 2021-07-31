@@ -2,12 +2,8 @@ package datos;
 
 import com.mysql.cj.xdevapi.Client;
 import dominio.Cliente;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
+import java.sql.*;
+import java.util.*;
 
 public class ClienteDaoJDBC {
     private static final String SQL_SELECT = "SELECT id_cliente, nombre, apellido, email, telefono, saldo"
@@ -156,5 +152,4 @@ public class ClienteDaoJDBC {
         }
         return rows;
     }
-
 }
