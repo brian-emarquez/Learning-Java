@@ -2,7 +2,7 @@
 
 **Descargar Conector Java**
 
-📦 Descargar [Connector/J](https://dev.mysql.com/downloads/connector/j/?os=26)
+📦 Descargar [Connector/J](https://dev.mysql.com/downloads/connector/j/?os=26) Conecctor para Glashfish.
 
 <table align="center" >
   <tr>
