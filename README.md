@@ -225,8 +225,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 
 
 
-
-
 ---
 
 <table align="center" >
@@ -3247,7 +3245,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 <table>
     <caption>.:Patron de diseño MVC con JSF:.</caption>
 <tr>
-    <td colspan="3" align="center">Modelo (ManagedBean de MOdelo)</td>
+    <td colspan="3" align="center">Modelo (ManagedBean de Modelo)</td>
 </tr>
 
 <tr>
