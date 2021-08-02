@@ -369,6 +369,8 @@ public List<Cliente> listar() {
 
 ## Backend
 
+- Se observa el Backend terminado.
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -377,7 +379,14 @@ public List<Cliente> listar() {
   </tr>
 </table>
 
-## Uso de Botstrap
+## Bootstrap
+
+Link [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+Uso de bootstrap para: 
+
+- Para agregar estilos facilmente
+- Adaptacion en Pantalla
 
 <table align="center" >
   <tr>
@@ -386,6 +395,21 @@ public List<Cliente> listar() {
     </td>
   </tr>
 </table>
+
+## Iconos
+
+Link [Font Awesome](https://fontawesome.com/start)
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/fontAwersome.png" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
