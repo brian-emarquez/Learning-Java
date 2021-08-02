@@ -398,6 +398,8 @@ Uso de bootstrap para:
 
 ## Iconos
 
+Se Agregaran Iconos para que sea mas interactivo con el usuario
+
 Link [Font Awesome](https://fontawesome.com/start)
 
 <table align="center" >
