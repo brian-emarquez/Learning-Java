@@ -16,7 +16,19 @@
         <title>Control de Clientes</title>
     </head>
     <body>
-        <h1>Control de Clientes</h1>
+        
+        <!<!-- Cabecero -->
+        <header>
+            <div>
+                <div>
+                    <div>
+                        <h1>Control de Clientes</h1>
+                    </div>                
+                </div>
+            </div>
+        </header>
+        
+        
         <ul>
             <c:forEach var="cliente" items="${clientes}">
                 <li>${cliente.idCliente} ${cliente.nombre} ${cliente.apellido} ${cliente.saldo}</li>
