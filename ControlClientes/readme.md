@@ -366,3 +366,26 @@ public List<Cliente> listar() {
         return rows;
     }
 ```
+
+## Backend
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/controlClientes1.png" />
+    </td>
+  </tr>
+</table>
+
+## Uso de Botstrap
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images\bootstrapEjemplo.png" />
+    </td>
+  </tr>
+</table>
+
+
+
