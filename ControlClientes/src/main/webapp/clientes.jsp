@@ -18,16 +18,7 @@
     <body>
         
         <!<!-- Cabecero -->
-        <header>
-            <div>
-                <div>
-                    <div>
-                        <h1>Control de Clientes</h1>
-                    </div>                
-                </div>
-            </div>
-        </header>
-        
+        <jsp:include page="WEB-INF/paginas/comunes/cabecero.jsp"/>
         
         <ul>
             <c:forEach var="cliente" items="${clientes}">
