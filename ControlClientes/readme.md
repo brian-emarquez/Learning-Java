@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-_JDBC PATH_
+_JDBC URL_
 
 ```java
 jdbc:mysql://localhost:3306/mysql?zeroDateTimeBehavior=CONVERT_TO_NULL&useTimezone=true&serverTimezon
