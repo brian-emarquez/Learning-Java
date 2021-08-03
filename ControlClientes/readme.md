@@ -416,7 +416,7 @@ Link [Font Awesome](https://fontawesome.com/start)
 
 **Cabeceros - Pie de Pagina**
 
-_Visualiza de Backend_
+_Visualizacion de Backend_
 
 ```java
 <ul>
@@ -424,7 +424,7 @@ _Visualiza de Backend_
         <li>${cliente.idCliente} ${cliente.nombre} ${cliente.apellido} ${cliente.saldo}</li>
         </c:forEach>
 </ul>
-´´´
+```
 
 
 <table align="center" >
