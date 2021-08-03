@@ -416,6 +416,17 @@ Link [Font Awesome](https://fontawesome.com/start)
 
 **Cabeceros - Pie de Pagina**
 
+_Visualiza de Backend_
+
+```java
+<ul>
+    <c:forEach var="cliente" items="${clientes}">
+        <li>${cliente.idCliente} ${cliente.nombre} ${cliente.apellido} ${cliente.saldo}</li>
+        </c:forEach>
+</ul>
+´´´
+
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
