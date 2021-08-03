@@ -20,10 +20,13 @@
 
         <!<!-- Botones del Nevegacion -->
         <jsp:include page="WEB-INF/paginas/comunes/botonesNavegacion.jsp"/>
-    
+
+        <!<!-- listado clientes -->
+        <jsp:include page="WEB-INF/paginas/cliente/listadoClientes.jsp"/>
+
+
         <!<!-- Pie de Pagina -->
         <jsp:include page="WEB-INF/paginas/comunes/piePagina.jsp"/>
- 
 
         <!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>-->
 
