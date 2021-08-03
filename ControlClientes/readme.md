@@ -435,6 +435,17 @@ _Visualizacion de Backend_
   </tr>
 </table>
 
+## Listado de Clientes
+
+- Se Observa el listado de clientes , ,usando modulos deparados 
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/controllientes3.png" />
+    </td>
+  </tr>
+</table>
 
 
 
