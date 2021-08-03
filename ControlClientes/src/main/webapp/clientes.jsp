@@ -12,14 +12,26 @@
 
         <!-- Awersome Font -->
         <script src="https://kit.fontawesome.com/4499a2eb69.js" crossorigin="anonymous"></script>
-        
+
         <title>Control de Clientes</title>
     </head>
     <body>
-        
+
         <!<!-- Cabecero -->
         <jsp:include page="WEB-INF/paginas/comunes/cabecero.jsp"/>
-        
+
+        <!<!-- Botones del Nevegacion -->
+        <section id="action" class="py-4 mb-4 bg-light">
+            <div class="container">
+                <div class="col-md-3">
+                    <a href="#" class="btn btn-primary btn-block"
+                       data-toggle="modal" data-target="#agregarClienteModal">
+                        <i class="fas fa-plus">Agregar Cliente</i>
+                    </a>
+                </div>
+            </div>
+        </section>
+
         <ul>
             <c:forEach var="cliente" items="${clientes}">
                 <li>${cliente.idCliente} ${cliente.nombre} ${cliente.apellido} ${cliente.saldo}</li>
