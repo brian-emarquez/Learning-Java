@@ -12,6 +12,11 @@
   </tr>
 </table>
 
+_JDBC PATH_
+
+```java
+jdbc:mysql://localhost:3306/mysql?zeroDateTimeBehavior=CONVERT_TO_NULL&useTimezone=true&serverTimezon
+```
 
 Instalacion y Prueba de Conector
 
