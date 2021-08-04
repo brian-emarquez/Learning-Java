@@ -465,7 +465,7 @@ _Visualizacion de Backend_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/ventanaModal1.png" />
+      <img align="center" style="padding=0;" src="../images/ventanaModal1png" />
     </td>
   </tr>
 </table>
