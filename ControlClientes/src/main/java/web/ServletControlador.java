@@ -22,10 +22,11 @@ public class ServletControlador extends HttpServlet {
             throws ServletException, IOException {
         List<Cliente> clientes = new ClienteDaoJDBC().listar();
         System.out.println("clientes = " + clientes);
-        request.setAttribute("clientes", clientes);
-        request.setAttribute("totalClientes", clientes.size());
-        request.setAttribute("saldoTotal", this.calcularSaldoTotal(clientes));
-        request.getRequestDispatcher("clientes.jsp").forward(request, response);
+        HttpSession session = request.getSession();
+        session.setAttribute("clientes", clientes);
+        session.setAttribute("totalClientes", clientes.size());
+        session.setAttribute("saldoTotal", this.calcularSaldoTotal(clientes));
+        //request.getRequestDispatcher("clientes.jsp").forward(request, response);
         response.sendRedirect("clientes.jsp");
     }
 
@@ -66,9 +67,10 @@ public class ServletControlador extends HttpServlet {
         String telefono = request.getParameter("telefono");
         double saldo = 0;
         String saldoString = request.getParameter("saldo");
-        if (saldoString != null && "".equals(saldoString)) {
+        if(saldoString != null && !"".equals(saldoString)){
             saldo = Double.parseDouble(saldoString);
         }
+        
 
         // Creamos el objeto de cliente
         Cliente cliente = new Cliente(nombre, apellido, email, telefono, saldo);
