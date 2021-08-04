@@ -448,7 +448,7 @@ _Visualizacion de Backend_
 </table>
 
 
-## Listado CLiente - Completo
+## Listado Cliente - Completo
 
 - Se Agregaron las tarjetas en el lado derecho, teniendo en cuenta el GRID de Botstrap.
 

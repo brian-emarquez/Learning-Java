@@ -63,3 +63,6 @@
         </div>
     </div>
 </section>
+
+<!<!-- Agregar Cliente MPdal -->
+<jsp:include page="/WEB-INF/paginas/cliente/agregarCliente.jsp"/>

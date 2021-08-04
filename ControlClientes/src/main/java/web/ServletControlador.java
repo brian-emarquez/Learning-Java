@@ -13,20 +13,21 @@ public class ServletControlador extends HttpServlet{
     
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) 
-            throws ServletException, IOException{
+            throws ServletException, IOException
+    {
         List<Cliente> clientes = new ClienteDaoJDBC().listar();
         System.out.println("clientes = " + clientes);
         request.setAttribute("clientes", clientes);
         request.setAttribute("totalClientes", clientes.size());
-        request.setAttribute("saldoTotal", this.calcularSaldototal(clientes));
+        request.setAttribute("saldoTotal", this.calcularSaldoTotal(clientes));
         request.getRequestDispatcher("clientes.jsp").forward(request, response);
-           
+        response.sendRedirect("clientes.jsp");
     }
     
-    private double calcularSaldototal(List<Cliente> clientes){
+    private double calcularSaldoTotal(List<Cliente> clientes){
         double saldoTotal = 0;
         for(Cliente cliente: clientes){
-            saldoTotal +=cliente.getSaldo();
+            saldoTotal += cliente.getSaldo();
         }  
         return saldoTotal;
     }
