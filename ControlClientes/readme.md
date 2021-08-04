@@ -435,7 +435,7 @@ _Visualizacion de Backend_
   </tr>
 </table>
 
-## Listado de Clientes
+## Listado de Clientes - Basico
 
 - Se Observa el listado de clientes , ,usando modulos deparados 
 
@@ -448,7 +448,15 @@ _Visualizacion de Backend_
 </table>
 
 
+## Listado CLiente - Completo
 
+- Se Agregaron las tarjetas en el lado derecho, teniendo en cuenta el GRID de Botstrap.
 
-
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/controlClientes4.png" />
+    </td>
+  </tr>
+</table>
 
