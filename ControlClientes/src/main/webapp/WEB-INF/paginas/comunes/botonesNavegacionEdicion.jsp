@@ -3,14 +3,14 @@
         <div class="row">
             <div class="col-md-3">
                 <a href="index.jsp" class="btn btn-light btn-block">
-                    <i class="fas fas-arrow-left"></i> Regresar al incio                  
+                    <i class="fas fa-arrow-left"></i> Regresar al incio                  
                 </a>
             </div
             <div class="col-md-3">
                 <button type="submit" class="btn btn-success" btn-block">
-                    <i 
+                    <i class="fas fa-check"></i> Guardar Cliente
                 </button>
-            </div>      
-        </div>
+            </div>  
+        </div>      
     </div>
 </section>
