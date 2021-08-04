@@ -10,6 +10,7 @@
 
         <!-- Awersome Font -->
         <script src="https://kit.fontawesome.com/4499a2eb69.js" crossorigin="anonymous"></script>
+        
         <title>Control de Clientes</title>
     </head>
     <body>

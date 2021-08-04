@@ -107,6 +107,7 @@ public class ServletControlador extends HttpServlet {
 
     private void modificarCliente(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        
         //recuperamos los valores del formulario editarCliente
         int idCliente = Integer.parseInt(request.getParameter("idCliente"));
         String nombre = request.getParameter("nombre");
