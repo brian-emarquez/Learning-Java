@@ -1,6 +1,6 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
-<fmt:setLocale value="es_PE"/>
+<fmt:setLocale value="es_MX"/>
 
 <section id="clientes">
     <div class="container">
@@ -11,7 +11,7 @@
                         <h4>Listado de Clientes</h4>
                     </div>
                     <table class="table table-striped">
-                        <thead class="table table-dark">
+                        <thead class="thead-dark">
                             <tr>
                                 <th>#</th>
                                 <th>Nombre</th>
@@ -21,7 +21,7 @@
                         </thead>
                         <tbody>
                             <!-- Iteramos cada elemento de la lista de clientes -->
-                            <c:forEach var="cliente" items="${clientes}" varStatus="status">
+                            <c:forEach var="cliente" items="${clientes}" varStatus="status" >
                                 <tr>
                                     <td>${status.count}</td>
                                     <td>${cliente.nombre} ${cliente.apellido}</td>
@@ -39,7 +39,7 @@
                 </div>
             </div>
 
-            <!<!-- Inicio Tarjetas para los totales -->
+            <!--Inicio Tarjetas para los totales-->
             <div class="col-md-3">
                 <div class="card text-center bg-danger text-white mb-3">
                     <div class="card-body">
@@ -57,12 +57,13 @@
                             <i class="fas fa-users"></i> ${totalClientes}
                         </h4>
                     </div>
-                </div>       
+                </div>        
             </div>
-            <!<!-- Fin Tarjetas para los totales -->
+            <!--Fin Tarjetas para los totales-->
         </div>
     </div>
 </section>
 
-<!<!-- Agregar Cliente MPdal -->
+<!-- Agregar cliente MODAL -->
 <jsp:include page="/WEB-INF/paginas/cliente/agregarCliente.jsp"/>
+                        
