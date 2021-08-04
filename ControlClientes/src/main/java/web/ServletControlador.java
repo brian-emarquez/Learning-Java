@@ -14,7 +14,19 @@ public class ServletControlador extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        this.accionDefault(request, response);
+
+        String accion = request.getParameter("accion");
+        if (accion != null) {
+            switch (accion) {
+                case "editar":
+                    this.editarCliente(request, response);
+                    break;
+                default:
+                    this.accionDefault(request, response);
+            }
+        } else {
+            this.accionDefault(request, response);
+        }
 
     }
 
@@ -36,6 +48,16 @@ public class ServletControlador extends HttpServlet {
             saldoTotal += cliente.getSaldo();
         }
         return saldoTotal;
+    }
+
+    private void editarCliente(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        //recuperamos el idCliente
+        int idCliente = Integer.parseInt(request.getParameter("idCliente"));
+        Cliente cliente = new ClienteDaoJDBC().encontrar(new Cliente(idCliente));
+        request.setAttribute("cliente", cliente);
+        String jspEditar = "/WEB-INF/paginas/cliente/editarCliente.jsp";
+        request.getRequestDispatcher(jspEditar).forward(request, response);
     }
 
     @Override
@@ -67,10 +89,9 @@ public class ServletControlador extends HttpServlet {
         String telefono = request.getParameter("telefono");
         double saldo = 0;
         String saldoString = request.getParameter("saldo");
-        if(saldoString != null && !"".equals(saldoString)){
+        if (saldoString != null && !"".equals(saldoString)) {
             saldo = Double.parseDouble(saldoString);
         }
-        
 
         // Creamos el objeto de cliente
         Cliente cliente = new Cliente(nombre, apellido, email, telefono, saldo);
@@ -78,7 +99,7 @@ public class ServletControlador extends HttpServlet {
         // Insert BD
         int registrosModificados = new ClienteDaoJDBC().insertar(cliente);
         System.out.println("registrosModificados = " + registrosModificados);
-        
+
         //redirigimos haci la accion por def
         this.accionDefault(request, response);
     }
