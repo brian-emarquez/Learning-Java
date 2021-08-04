@@ -462,6 +462,8 @@ _Visualizacion de Backend_
 
 ## Ventanas Molda - Agregar Cliente
 
+- Ventana modal de Agregar cliente con Valudaciones en Bootstrap
+
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
