@@ -219,7 +219,7 @@ public class Cliente {
     }
 ```
 
-### Creacion de Clase DaO
+### Creacion de Clase Dao
 
 - Uso del patron de diseño DAO (Objeto de acceso a datos)
 
@@ -386,6 +386,8 @@ public List<Cliente> listar() {
 ## Bootstrap
 
 Link [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+Link [Colores Bootstrap](https://getbootstrap.com/docs/4.0/utilities/colors/)
 
 Uso de bootstrap para: 
 
