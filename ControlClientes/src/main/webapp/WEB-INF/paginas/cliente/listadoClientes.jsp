@@ -45,7 +45,7 @@
                     <div class="card-body">
                         <h3>Saldo Total</h3>
                         <h4 class="display-4">
-                            <fmt:formatNumber value="${saltoTotal}" type="currency" />
+                            <fmt:formatNumber value="${saldoTotal}" type="currency" />
                         </h4>
                     </div>
                 </div>
