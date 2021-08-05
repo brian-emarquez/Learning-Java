@@ -11,11 +11,18 @@
         <!-- Awersome Font -->
         <script src="https://kit.fontawesome.com/4499a2eb69.js" crossorigin="anonymous"></script>
 
+        <!--  BOX ICONS Slidebar -->
+        <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+
+        <!-- CSS Slidebar -->
+        <link href="assets/css/styles.css" rel="stylesheet" type="text/css" />
+
         <title>Control de Clientes</title>
     </head>
-    <body>
+    <body id="body-pd">
 
-        <!<!-- Cabecero -->
+
+        <!-- Cabecero -->
         <jsp:include page="/WEB-INF/paginas/comunes/cabecero.jsp"/>
 
         <!<!-- Botones del Nevegacion -->
@@ -26,6 +33,13 @@
 
         <!<!-- Pie de Pagina -->
         <jsp:include page="/WEB-INF/paginas/comunes/piePagina.jsp"/>
+
+        <!-- Sliderbar -->
+        <jsp:include page="/WEB-INF/paginas/comunes/slidebar.jsp"/>
+
+
+        <!-- MAIN JS -->
+        <script src="assets/js/main.js"></script>
 
         <!<!-- v4.6.x  -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
