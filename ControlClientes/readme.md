@@ -462,7 +462,7 @@ _Visualizacion de Backend_
   </tr>
 </table>
 
-## Ventanas Molda - Agregar Cliente
+## Ventanas Moldal - Agregar Cliente
 
 - Ventana modal de Agregar cliente con Valudaciones en Bootstrap
 
@@ -474,4 +474,18 @@ _Visualizacion de Backend_
   </tr>
 </table>
 
+## Siderbar
+
+-Iconos para el Siderar
+
+[Material Desing Icon](https://materialdesignicons.com/icon/home-outline)
+
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/controlClientes5.png" />
+    </td>
+  </tr>
+</table>
 
