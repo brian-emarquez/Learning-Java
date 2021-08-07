@@ -29,7 +29,8 @@
                                     <h4>Editar Cliente</h4>
                                 </div>
                                 <div class="card-body">
-                                    <div class="form-group">
+
+                                    <div class="form-group" >
                                         <label for="nombre">Nombre</label>
                                         <input type="text" class="form-control" name="nombre" required value="${cliente.nombre}">
                                     </div>
@@ -49,6 +50,7 @@
                                         <label for="saldo">Saldo</label>
                                         <input type="number" class="form-control" name="saldo" required value="${cliente.saldo}" step="any">
                                     </div>
+
                                 </div>
                             </div>
                         </div>
@@ -66,4 +68,6 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
     </body>
+
+
 </html>
