@@ -6,7 +6,7 @@
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <script src="https://kit.fontawesome.com/4499a2eb69.js" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/f90d3bf50d.js" crossorigin="anonymous"></script>
 
         <title>Editar Cliente</title>
     </head>
@@ -15,7 +15,7 @@
         <jsp:include page="/WEB-INF/paginas/comunes/cabecero.jsp"/>
 
         <form action="${pageContext.request.contextPath}/ServletControlador?accion=modificar&idCliente=${cliente.idCliente}"
-              method="POST" class="was-validated">
+              class="was-validated">
 
             <!--Botones de Navegacion -->
             <jsp:include page="/WEB-INF/paginas/comunes/botonesNavegacionEdicion.jsp"/>
@@ -31,7 +31,7 @@
                                 <div class="card-body">
                                     <div class="form-group">
                                         <label for="nombre">Nombre</label>
-                                        <input type="text" class="form-control" name="nombre" required value=${cliente.nombre}>
+                                        <input type="text" class="form-control" name="nombre" required value="${cliente.nombre}">
                                     </div>
                                     <div class="form-group">
                                         <label for="apellido">Apellido</label>
@@ -57,6 +57,7 @@
             </section>
 
         </form>
+
         <!--Pie de Pagina-->
         <jsp:include page="/WEB-INF/paginas/comunes/piePagina.jsp"/>
 

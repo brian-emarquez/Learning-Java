@@ -28,6 +28,7 @@
                                     <td> <fmt:formatNumber value="${cliente.saldo}" type="currency"/> </td>
                                     <td>
                                         <a href="${pageContext.request.contextPath}/ServletControlador?accion=editar&idCliente=${cliente.idCliente}"
+
                                            class="btn btn-secondary">
                                             <i class="fas fa-angle-double-right"></i> Editar
                                         </a>
@@ -66,4 +67,3 @@
 
 <!-- Agregar cliente MODAL -->
 <jsp:include page="/WEB-INF/paginas/cliente/agregarCliente.jsp"/>
-                        

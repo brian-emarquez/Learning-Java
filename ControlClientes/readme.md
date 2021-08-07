@@ -15,10 +15,18 @@
 _JDBC URL_
 
 ```java
-jdbc:mysql://localhost:3306/mysql?zeroDateTimeBehavior=CONVERT_TO_NULL&useTimezone=true&serverTimezon
+jdbc:mysql://localhost:3306/mysql?zeroDateTimeBehavior=CONVERT_TO_NULL&useTimezone=true&serverTimezon=UTC
 ```
 
-Instalacion y Prueba de Conector
+_Configuracion Manual de Driver_
+
+```java
+com.mysql.cj.jdbc.Driver
+MySQL (Connector/J driver)
+```
+
+
+_Instalacion y Prueba de Conector_
 
 <table align="center" >
   <tr>
