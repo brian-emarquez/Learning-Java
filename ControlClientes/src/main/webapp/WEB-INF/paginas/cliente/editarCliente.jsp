@@ -15,7 +15,7 @@
         <jsp:include page="/WEB-INF/paginas/comunes/cabecero.jsp"/>
 
         <form action="${pageContext.request.contextPath}/ServletControlador?accion=modificar&idCliente=${cliente.idCliente}"
-              class="was-validated">
+              method="POST" class="was-validated">
 
             <!--Botones de Navegacion -->
             <jsp:include page="/WEB-INF/paginas/comunes/botonesNavegacionEdicion.jsp"/>
