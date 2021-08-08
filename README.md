@@ -3584,7 +3584,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 <table>
   <tr>
-      <td>Number</td>
+      <td>Server</td>
       <td>Name</td>
       <td>Authors</td>
       <td>Editorial</td>
@@ -3594,7 +3594,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
   </tr>
 
   <tr>
-      <td>1</td>
+      <td>Terabox</td>
       <td>Java Como Programar en Java</td>
       <td>Paul Deitel, Harvey Deitel</td>
       <td>Pearson</td>
@@ -3604,13 +3604,13 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
   </tr>
 
    <tr>
-      <td>2</td>
+      <td>OneDrive</td>
       <td>Java Como Programar en Java</td>
       <td>Paul Deitel, Harvey Deitel</td>
       <td>Pearson</td>
       <td>978-607-32-3802-1</td>
       <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EfYWr7zbWd9EnWunYLyXkZkB2RgYmEuOWH-x2M9xV_8NLg?e=ohhhEi">Java Como Programar en Java</a></td>
-      <td></td>
+      <td>-</td>
   </tr>
 
 </table>
