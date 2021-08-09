@@ -26,3 +26,16 @@ Un ManegagedBean se puede declarar de distitas maneras:
     - <managed-bean> ... </managed-bean>
 
 
+**Alcance de los Managed Beans**
+
+<table>
+
+<td>
+<th>Application</th>
+<th>Application</th>
+</td>
+
+
+
+
+</table>
