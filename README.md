@@ -3285,6 +3285,17 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 - Soporte por default para Facelets
 - Mas componentes y valodadores
 
+**Arquitectura JSF**
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./ArquitecturaJSF.png" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 <br/>
