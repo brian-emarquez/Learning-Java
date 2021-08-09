@@ -49,6 +49,15 @@ Un ManegagedBean se puede declarar de distitas maneras:
 
 ## Managed Beans JSF Intoduccion
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/JSF1.png" />
+    </td>
+  </tr>
+</table>
+
+
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G4       | [Managed Beans JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
