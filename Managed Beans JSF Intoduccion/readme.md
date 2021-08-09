@@ -30,10 +30,10 @@ Un ManegagedBean se puede declarar de distitas maneras:
 
 <table>
 
-<th>
+<tr>
     <td>Application</td>
-    <td>Application</td>
-</th>
+    <td></td>
+</tr>
 
 
 
