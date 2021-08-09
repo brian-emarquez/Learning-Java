@@ -3257,7 +3257,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Introduccion de JavaServer Faces
 
-**1. Introduccion a JavaServer Faces**
+**Introduccion a JavaServer Faces**
 
 - Es una tecnologia que fue diseñada para simplificar la contruccion la interfaz de usuario para aplicaciones web Java.
 
@@ -3277,7 +3277,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 - `Extensibilidad`: JSF es altamente extensible debido a su arquitectura
 - `Internacionalizacion`: Las vistas pueden mostrarse en distintos idiomas
 
-** Nuevas Caracteristicas**
+**Nuevas Caracteristicas**
 
 - Manejo de condicioones por default mas inteligentes
 - Manejo anotaciones para viarias configuraciones
