@@ -1,4 +1,4 @@
-## Managed Beans JSF Intoduccion
+## Managed Beans JSF 2.0 Intoduccion
 
 - Un managed Bean es una clase Java que sigue la nomenclatura de JavaBeans.
     * Los Maneged beans no estan obligados a extender de ningunaotra clase
