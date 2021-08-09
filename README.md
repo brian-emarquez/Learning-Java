@@ -3254,6 +3254,32 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 </tr>
 </table>
 
+
+## Introduccion de JavaServer Faces
+
+**1. Introduccion a JavaServer Faces**
+
+- Es una tecnologia que fue diseñada para simplificar la contruccion la interfaz de usuario para aplicaciones web Java.
+
+- Java server Faces (JSF) es el marco de aplicaciones web estandar para java Enterprive Edition. (JAVA EE)
+
+- Al ser un estandar de java, la tecnilogia cuenta con el apoyo de la industria solida.
+
+- La tecnologia ah crecido en el uso a nivel mundial
+
+
+**Caracteristicas**
+
+- `MVC`: Implementa el patro de diseño Modelo-Vista-controlador
+- `RAD`: Desarrollo rapido de aplicaicones para Web
+- `Componentes de interfaz de usuario`: JSF tiene desarrollados componetes reutilizable listo para utilizarse.
+- `Render-Kits`: Los compones puede despligarse no solamente en navegadores web sino en dispositivos móviles y utros tipos de clientes
+- `Extensibilidad`: JSF es altamente extensible debido a su arquitectura
+- `Internacionalizacion`: Las vistas pueden mostrarse en distintos idiomas
+
+
+
+
 <br/>
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
