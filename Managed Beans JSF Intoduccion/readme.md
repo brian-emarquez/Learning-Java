@@ -29,7 +29,6 @@ Un ManegagedBean se puede declarar de distitas maneras:
 **Alcance de los Managed Beans**
 
 <table>
-
 <tr>
     <td>Application</td>
     <td> - Persiste durante toda la aplicacion</td>
@@ -46,9 +45,10 @@ Un ManegagedBean se puede declarar de distitas maneras:
     <td>Request</td>
     <td> - Persiste solo durante la peticion del usuario</td>
 </tr>
-
-
-
-
-
 </table>
+
+## Managed Beans JSF Intoduccion
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G4       | [Managed Beans JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
