@@ -32,8 +32,21 @@ Un ManegagedBean se puede declarar de distitas maneras:
 
 <tr>
     <td>Application</td>
-    <td></td>
+    <td> - Persiste durante toda la aplicacion</td>
 </tr>
+<tr>
+    <td>Session</td>
+    <td> - Persiste durante el tiempo de la sesion del usuario</td>
+</tr>
+<tr>
+    <td>View</td>
+    <td> - Persiste en la misma vista , utuil en AJAX</td>
+</tr>
+<tr>
+    <td>Request</td>
+    <td> - Persiste solo durante la peticion del usuario</td>
+</tr>
+
 
 
 
