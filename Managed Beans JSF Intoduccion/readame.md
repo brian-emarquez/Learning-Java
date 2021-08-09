@@ -22,4 +22,7 @@ Un ManegagedBean se puede declarar de distitas maneras:
 
 * En el archivo faces-conf.xml
 
+* En el archivo faces-config.xml:
+    - <managed-bean> ... </managed-bean>
+
 
