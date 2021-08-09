@@ -3295,6 +3295,35 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
   </tr>
 </table>
 
+**Configuraciones**
+
+
+```java
+@FacesConfig(
+    //Activa CDI- build-in beans
+    version = JSF_2_3            
+)
+```
+
+**log4j2**
+
+```java
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="INFO">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss} [%t] %-5level %logger{36} -%msg%n"></PatternLayout>
+        </console>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console" /> 
+        </Root>
+    </Loggers>
+</configuration>
+```
+
+
 
 
 
