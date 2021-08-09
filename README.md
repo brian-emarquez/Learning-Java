@@ -3277,6 +3277,13 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 - `Extensibilidad`: JSF es altamente extensible debido a su arquitectura
 - `Internacionalizacion`: Las vistas pueden mostrarse en distintos idiomas
 
+** Nuevas Caracteristicas**
+
+- Manejo de condicioones por default mas inteligentes
+- Manejo anotaciones para viarias configuraciones
+- Soporte nativo para AJAX
+- Soporte por default para Facelets
+- Mas componentes y valodadores
 
 
 
