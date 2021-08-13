@@ -223,7 +223,10 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G1  |:heavy_check_mark: | [Introduccion JavaServlet Faces](#Introduccion-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 |  G2  |:heavy_check_mark: | [Hola Mundo JavaServlet Faces](#Hola-Mundo-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 |  G3  |:heavy_check_mark: | [Managed Beans JSF Intoduccion](#Managed-Beans-JSF-Intoduccion)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-|  G4  |:heavy_check_mark: | [Managed Beans JSF Intoduccion](#Managed-Beans-JSF-Intoduccion)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
+|  G4  |:heavy_check_mark: | [Reglas de Navegacion en JSF](#Reglas-de-Navegacion-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
+|  G5  |:heavy_check_mark: | [Backing Bean en JSF](#Backing-Bean-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
+
+
 
 ---
 
@@ -3388,6 +3391,31 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G3       | [Managed Beans JSF Intoduccion](https://github.com/BrianMarquez3/Learning-Java/tree/main/Managed%20Beans%20JSF%20Intoduccion)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 |G4       | [Managed Beans JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+
+
+## Reglas de Navegacion en JSF
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G4       | [Reglas de Navegacion en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/ReglasNavegacionJSF%20-%20Teoria)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+
+## Backing Bean en JSF
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G4       | [Reglas de Navegacion en JSF]()  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
