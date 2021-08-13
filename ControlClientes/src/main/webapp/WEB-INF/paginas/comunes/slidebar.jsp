@@ -3,7 +3,7 @@
         <div>
             <div class="nav__brand">
                 <ion-icon name="menu-outline" class="nav__toggle" id="nav-toggle"></ion-icon>
-                <a href="#" class="nav__logo">Nightshroud</a>
+                <a href="#" class="nav__logo">Velo Oscuro</a>
             </div>
             <div class="nav__list" id="actions">
                 <a href="#" class="nav__link active">
@@ -13,7 +13,7 @@
 
                 <a href="#" class="nav__link" data-toggle="modal" data-target="#agregarClienteModal">
                     <ion-icon name="person-add-outline" class="nav__icon"></ion-icon>
-                    <span class="nav__name">Users</span>
+                    <span class="nav__name">Agregar Usuario</span>
                 </a>
 
                 <a href="#" class="nav__link">
