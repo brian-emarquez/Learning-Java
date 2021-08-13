@@ -30,3 +30,23 @@ _Ejemplo nevegacion estatica:_
 a) outcome por default, busca directamente la pagina login.hhml
 b)Busca el outcome en face-config.xml, en encontrando el caso que determian la sguiente pagina a mostrar
 
+## Nevegacion Dinamica
+
+la Navegacion dinamica utiliza un metodo action , el cual tiene la logica para detterminar el outcome.
+
+
+Codigo pagina JSF (vista)
+
+<h:commandButton label="Aceptar"
+
+```java
+action="#{loginBean.verificarUsuario }"/>} // Expression Language
+```
+
+## Creacion de reglas de Navegacion 
+
+```java
+<faces-config..>
+    <navigation-rule>
+        <from-view-id>inicio.xhtml</from-view-id>
+```
