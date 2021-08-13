@@ -52,7 +52,7 @@ Un ManegagedBean se puede declarar de distitas maneras:
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/JSF1.png" />
+      <img align="center" style="padding=0;" src="../images/JSF1.png" />
     </td>
   </tr>
 </table>
