@@ -223,7 +223,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G1  |:heavy_check_mark: | [Introduccion JavaServlet Faces](#Introduccion-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 |  G2  |:heavy_check_mark: | [Hola Mundo JavaServlet Faces](#Hola-Mundo-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 |  G3  |:heavy_check_mark: | [Managed Beans JSF Intoduccion](#Managed-Beans-JSF-Intoduccion)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-
+|  G4  |:heavy_check_mark: | [Managed Beans JSF Intoduccion](#Managed-Beans-JSF-Intoduccion)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 
 
 ---
