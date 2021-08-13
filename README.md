@@ -249,8 +249,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  Spring-09   |:heavy_check_mark: | [Teoria Inyeccion de Dependencias](#Teoria-Inyeccion-de-Dependencias)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
-
-
 ---
 
 ## DOC
