@@ -3403,7 +3403,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G4       | [Reglas de Navegacion en JSF]()  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G4       | [RBacking Bean en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/BackingBeanJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 
 
 
