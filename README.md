@@ -224,7 +224,9 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G2  |:heavy_check_mark: | [Hola Mundo JavaServlet Faces](#Hola-Mundo-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 |  G3  |:heavy_check_mark: | [Managed Beans JSF Intoduccion](#Managed-Beans-JSF-Intoduccion)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 |  G4  |:heavy_check_mark: | [Reglas de Navegacion en JSF](#Reglas-de-Navegacion-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-|  G5  |:heavy_check_mark: | [Backing Bean en JSF](#Backing-Bean-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
+|  G5  |:heavy_check_mark: | [Backing Bean en JSF](#Backing-Bean-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
+|  G6  |:heavy_check_mark: | [Ciclo de Vida en JSF](#Ciclo-de-Vida-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
+
 
 
 
@@ -3405,7 +3407,11 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G5      | [Backing Bean en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/BackingBeanJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 
+## Ciclo de Vida en JSF
 
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G6      | [Ciclo de Vida en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/BackingBeanJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 
 
 
