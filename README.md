@@ -226,7 +226,8 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G4  |:heavy_check_mark: | [Reglas de Navegacion en JSF](#Reglas-de-Navegacion-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 |  G5  |:heavy_check_mark: | [Backing Bean en JSF](#Backing-Bean-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
 |  G6  |:heavy_check_mark: | [Ciclo de Vida en JSF](#Ciclo-de-Vida-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
-
+gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
+|  G7  |:heavy_check_mark: | [Ciclo de Vida en JSF Ejercicio](#Ciclo-de-Vida-en-JSF-Ejercicio)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
 
 
 
@@ -3412,6 +3413,17 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G6      | [Ciclo de Vida en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Ciclo%20de%20Vida%20de%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+
+
+## Ciclo de Vida en JSF Ejercicio
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G7      | [Ciclo de Vida en JSF Ejercicio]()  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+
+
+
+
 
 
 
