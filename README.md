@@ -3745,6 +3745,11 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
 
+## Diagramador Online
+
+📈 [Diagrams](https://www.diagrams.net/)
+
+
 ## Paypal Donation
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
