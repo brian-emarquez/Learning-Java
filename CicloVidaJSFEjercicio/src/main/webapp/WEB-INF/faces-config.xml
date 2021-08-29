@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<face-config
+    xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://xmls.jcp.org.xml/ns/javae
+                        http://xmls.jcp.org.xml/ns/javae/web-facesconfig_2_3.xsd"                       
+    version="2.3">                    
+     
+    <lifecycle>
+        <phase-listener>
+            beans.lifecycle.DebuggerListener
+        </phase-listener>
+    </lifecycle>
+    
+</face-config>
