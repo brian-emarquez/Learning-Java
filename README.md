@@ -229,7 +229,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G7  |:heavy_check_mark: | [Ciclo de Vida en JSF Ejercicio](#Ciclo-de-Vida-en-JSF-Ejercicio)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
 
 
-
 ---
 
 <table align="center" >
