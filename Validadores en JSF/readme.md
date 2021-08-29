@@ -29,7 +29,6 @@ Ejemplo de un validador estandar
     <f:validateLongRaNge mininum="18" maximun="50" />
 ```
 
-
 _Ejemplo de un validador personalizado:_
 
 ```java
