@@ -227,6 +227,8 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G5  |:heavy_check_mark: | [Backing Bean en JSF](#Backing-Bean-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
 |  G6  |:heavy_check_mark: | [Ciclo de Vida en JSF](#Ciclo-de-Vida-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
 |  G7  |:heavy_check_mark: | [Ciclo de Vida en JSF Ejercicio](#Ciclo-de-Vida-en-JSF-Ejercicio)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
+|  G8  |:heavy_check_mark: | [Validadores en JSF](#Validadores-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
+
 
 
 ---
@@ -3420,6 +3422,11 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |G7      | [Ciclo de Vida en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/CicloVidaJSFEjercicio)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 
 
+## Validadores en JSF
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G8      | [Validadores en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/CicloVidaJSFEjercicio)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 
 
 
