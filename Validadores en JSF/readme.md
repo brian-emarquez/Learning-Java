@@ -26,9 +26,17 @@ Ejemplo de un validador estandar
 
 ```java
 <h:inputText id="edadId"> required ="true" value="#{persona.edad}" />
-<f:validateLongRnage mininum="18" maximun="50" />
+    <f:validateLongRaNge mininum="18" maximun="50" />
 ```
 
+
+_Ejemplo de un validador personalizado:_
+
+```java
+<h:inputText id="ipID" required="true" value="#{ipBean.ipValor}>
+    <f:validador validadorId="validadorIP" />
+</h:inputText> 
+```
 
 
 
