@@ -236,7 +236,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  H1  |:heavy_check_mark: | [JavaEE](#JavaEE)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 
-/*Sin contenido */
+/* Sin contenido */
 
 
 ---
