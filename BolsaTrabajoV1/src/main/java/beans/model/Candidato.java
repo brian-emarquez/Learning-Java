@@ -8,11 +8,17 @@ import org.apache.logging.log4j.Logger;
 @Named
 @RequestScoped
 public class Candidato {
-    private String nombre = "Introduce tu nombre";
-    
+    private String nombre;
+    private String apellido;
+    private String salarioDeseado;
     
     Logger log = LogManager.getRootLogger();
-
+    
+    public Candidato(){
+        log.info("Creando el objeto candidato");
+        this.setNombre("Introduce tu nombre");
+    }
+    
     public String getNombre() {
         return nombre;
     }
