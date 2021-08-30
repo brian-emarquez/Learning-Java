@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:h="http://java.sun.com/jsf/html"
-      xmls:f="http://xmlns.jcp.org/jsf/core">
+      xmls:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
     <head>
         <title>Bolsa de Trabajo V1</title>
     </head>
@@ -19,10 +20,17 @@
                     <td><h:message for="apellido"></h:message></td>
                 </tr>
                 <tr>
-                    <td><h:outputLabel for="salarioDeseado" value="Salario Deseado:"></h:outputLabel></td>
-                    <td><h:inputText id="salarioDeseado" required="true" value="#{candidato.salarioDeseado}"></h:inputText></td>
+                    <td><h:outputLabel for="salarioDeseado" value="Salario Deseado:"/></td>
+                    <td><h:inputText id="salarioDeseado" required="true" value="#{candidato.salarioDeseado}">
+                            <f:validateLongRange minimum = "500" maximum = "5000" />
+                        </h:inputText>
+                    </td>
+                </tr>
+                
+                <tr>
                     <td><h:message for="salarioDeseado"></h:message></td>
                 </tr>
+                
             </table>
             <h:commandButton action="#{vacanteForm.enviar}" value="Enviar" />
         </h:form>

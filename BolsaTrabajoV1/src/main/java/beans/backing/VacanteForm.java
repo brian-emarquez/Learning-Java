@@ -15,7 +15,11 @@ public class VacanteForm {
     private Candidato candidato;
 
     Logger log = LogManager.getRootLogger();
-
+    
+    public VacanteForm(){
+        log.info("Creado el objeto VacanteForm");
+    }
+    
     public void setCandidato(Candidato candidato) {
         this.candidato = candidato;
     }
