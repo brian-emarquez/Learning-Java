@@ -27,5 +27,6 @@ Son todas las conversiones que JSF realiza de manera automatica, por ejemplo al 
 Utilizando el atributo ```converter```
 
 ```java
-<h:inputText id="edadId" value="#{empleadoBean.edad}">  
+<h:inputText id="edadId" value="#{empleadoBean.edad}"
+converter="javax.faces.Integer">  
 ```
