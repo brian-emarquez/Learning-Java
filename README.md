@@ -220,14 +220,15 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  G1  |:heavy_check_mark: | [Introduccion JavaServlet Faces](#Introduccion-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-|  G2  |:heavy_check_mark: | [Hola Mundo JavaServlet Faces](#Hola-Mundo-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-|  G3  |:heavy_check_mark: | [Managed Beans JSF Intoduccion](#Managed-Beans-JSF-Intoduccion)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-|  G4  |:heavy_check_mark: | [Reglas de Navegacion en JSF](#Reglas-de-Navegacion-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-|  G5  |:heavy_check_mark: | [Backing Bean en JSF](#Backing-Bean-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
-|  G6  |:heavy_check_mark: | [Ciclo de Vida en JSF](#Ciclo-de-Vida-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
-|  G7  |:heavy_check_mark: | [Ciclo de Vida en JSF Ejercicio](#Ciclo-de-Vida-en-JSF-Ejercicio)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
-|  G8 - G9  |:heavy_check_mark: | [Validadores en JSF](#Validadores-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](#Backing-Bean-en-JSF) |
+|  G1  |:heavy_check_mark: | [Introduccion JavaServlet Faces](#Introduccion-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G2  |:heavy_check_mark: | [Hola Mundo JavaServlet Faces](#Hola-Mundo-JavaServlet-Faces)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G3  |:heavy_check_mark: | [Managed Beans JSF Intoduccion](#Managed-Beans-JSF-Intoduccion)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G4  |:heavy_check_mark: | [Reglas de Navegacion en JSF](#Reglas-de-Navegacion-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G5  |:heavy_check_mark: | [Backing Bean en JSF](#Backing-Bean-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G6  |:heavy_check_mark: | [Ciclo de Vida en JSF](#Ciclo-de-Vida-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G7  |:heavy_check_mark: | [Ciclo de Vida en JSF Ejercicio](#Ciclo-de-Vida-en-JSF-Ejercicio)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G8 - G9  |:heavy_check_mark: | [Validadores en JSF](#Validadores-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G10  |:heavy_check_mark: | [Convertidores en JSF](#Convertidores-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Java EE
@@ -3438,9 +3439,11 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |G9      | [Validadores en JSF Ejercicio]()  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
+## Convertidores en JSF
 
-
-
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G10     | [Convertidores en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Validadores%20en%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 
