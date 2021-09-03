@@ -216,7 +216,7 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |F41|:heavy_check_mark: | [Proyecto Control Clientes](#Proyecto-Control-Clientes)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 
 
-## JavaServlet Faces
+## JavaServer Faces
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -3393,7 +3393,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G2       | [Hola Mundo JavaServlet Faces](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G2       | [Hola Mundo JavaServlet Faces](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 ## Managed Beans JSF Intoduccion
@@ -3401,41 +3401,41 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G3       | [Managed Beans JSF Intoduccion](https://github.com/BrianMarquez3/Learning-Java/tree/main/Managed%20Beans%20JSF%20Intoduccion)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
-|G4       | [Managed Beans JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G4       | [Managed Beans JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 ## Reglas de Navegacion en JSF
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G4       | [Reglas de Navegacion en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/ReglasNavegacionJSF%20-%20Teoria)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G4       | [Reglas de Navegacion en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/ReglasNavegacionJSF%20-%20Teoria)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 ## Backing Bean en JSF
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G5      | [Backing Bean en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/BackingBeanJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G5      | [Backing Bean en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/BackingBeanJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 ## Ciclo de Vida en JSF
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G6      | [Ciclo de Vida en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Ciclo%20de%20Vida%20de%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G6      | [Ciclo de Vida en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Ciclo%20de%20Vida%20de%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 ## Ciclo de Vida en JSF Ejercicio
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G7      | [Ciclo de Vida en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/CicloVidaJSFEjercicio)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G7      | [Ciclo de Vida en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/CicloVidaJSFEjercicio)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 ## Validadores en JSF
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G8      | [Validadores en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Validadores%20en%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
-|G9      | [Validadores en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/BolsaTrabajoV1)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G8      | [Validadores en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Validadores%20en%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
+|G9      | [Validadores en JSF Ejercicio]()  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 
