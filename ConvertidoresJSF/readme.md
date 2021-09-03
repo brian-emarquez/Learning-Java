@@ -38,3 +38,9 @@ Utilizando el componente ```converter```
     <f:converter convertedId="javax.faces.Integer"/>  
 </h:inputText>
 ```
+
+## Convertidores Personalizados
+
+- JSF permite crear convertidores personalizados
+- Pass para crear y utilizar una clase Converter
+
