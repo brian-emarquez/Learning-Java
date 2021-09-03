@@ -30,3 +30,11 @@ Utilizando el atributo ```converter```
 <h:inputText id="edadId" value="#{empleadoBean.edad}"
 converter="javax.faces.Integer">  
 ```
+
+Utilizando el componente ```converter```
+
+```java
+<h:inputText value="#{empleadoBean.edad}">
+    <f:converter convertedId="javax.faces.Integer"/>  
+</h:inputText>
+```
