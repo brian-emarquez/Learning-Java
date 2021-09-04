@@ -231,6 +231,8 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G10  |:heavy_check_mark: | [Convertidores en JSF](#Convertidores-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  G10 - G11 |:heavy_check_mark: | [Convertidores en JSF](#Convertidores-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  G12 - G13 |:heavy_check_mark: | [Internacionalizacion en JSF](#Internacionalizacion-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  G14 - G15 |:heavy_check_mark: | [Manejo de Eventos en JSF](#Manejo-de-Eventos-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 
 ## Java EE
@@ -3455,7 +3457,16 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G12     | [Internacionalizacion en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/MensajesInternacionalizacion)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
-|G13     | [Internacionalizacion en JSF Ejercicio]()  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
+|G13     | [Internacionalizacion en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/BolsaTrabajoV3)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
+
+
+## Manejo de Eventos en JSF
+
+Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G14     | [Manejo de Eventos en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/MensajesInternacionalizacion)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
+
+
 
 
 
