@@ -11,6 +11,19 @@
             beans.lifecycle.DebuggerListener
         </phase-listener>
     </lifecycle>
+    
+    <application>
+        <locale-config>
+            <default-locale>es</default-locale>
+        </locale-config>
         
+        <resource-bundle>
+            <base-name>mensajes</base-name>
+            <var>msgs</var>
+        </resource-bundle>
+        
+        <message-bundle>jsf</message-bundle>
+        
+    </application>        
 
 </faces-config>

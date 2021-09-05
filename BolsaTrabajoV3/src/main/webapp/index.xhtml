@@ -9,17 +9,17 @@
         <h:form>
             <table>
                 <tr>
-                    <td><h:outputLabel for="nombre" value="Nombre:"></h:outputLabel></td>
+                    <td><h:outputLabel for="nombre" value="#{msgs['vacanteForm.nombre']}"></h:outputLabel></td>
                     <td><h:inputText id="nombre" required="true" value="#{candidato.nombre}"></h:inputText></td>
                     <td><h:message for="nombre"></h:message></td>
                 </tr>
                 <tr>
-                    <td><h:outputLabel for="apellido" value="Apellido:"></h:outputLabel></td>
+                    <td><h:outputLabel for="apellido" value="#{msgs['vacanteForm.apellido']}"></h:outputLabel></td>
                     <td><h:inputText id="apellido" required="true" value="#{candidato.apellido}"></h:inputText></td>
                     <td><h:message for="apellido"></h:message></td>
                 </tr>
                 <tr>
-                    <td><h:outputLabel for="salarioDeseado" value="Salario Deseado:"/></td>
+                    <td><h:outputLabel for="salarioDeseado" value="#{msgs['vacanteForm.salarioDeseado']}"/></td>
                     <td><h:inputText id="salarioDeseado" required="true" value="#{candidato.salarioDeseado}">
                             <f:validateLongRange minimum = "500" maximum = "5000" />
                         </h:inputText>
@@ -32,7 +32,7 @@
                 
                 
                 <tr>
-                    <td><h:outputLabel for="fechaNacimiento" value="Feca de Nacimiento"></h:outputLabel></td>
+                    <td><h:outputLabel for="fechaNacimiento" value="#{msgs['vacanteForm.fechaNacimiento']}"></h:outputLabel></td>
                     <td><h:inputText id="FechaNacimiento" required="true" value="#{candidato.fechaNacimiento}">
                             <f:convertDateTime pattern="dd/MM/yyyy"></f:convertDateTime>
                         </h:inputText>
@@ -42,7 +42,7 @@
                 </tr>
                 
             </table>
-            <h:commandButton action="#{vacanteForm.enviar}" value="Enviar" />
+            <h:commandButton action="#{vacanteForm.enviar}" value="#{msgs['vacanteForm.enviar']}" />
         </h:form>
     </body>
 </html>
