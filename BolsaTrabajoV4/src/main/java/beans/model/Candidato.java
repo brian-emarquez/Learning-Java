@@ -19,7 +19,7 @@ public class Candidato {
 
     public Candidato() {
         log.info("Creando el objeto candidato");
-        this.setNombre("Introduce tu nombre");
+//      this.setNombre("Introduce tu nombre");
     }
 
     public String getNombre() {
