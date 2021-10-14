@@ -1,7 +1,6 @@
 ## Bolsa de Trabajo V5
 
 
-
 ```java
 <dependency>
             <groupId>org.apache.logging.log4j</groupId>

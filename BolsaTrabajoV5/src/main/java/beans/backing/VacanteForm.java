@@ -3,7 +3,9 @@ package beans.backing;
 import beans.model.Candidato;
 import javax.enterprise.context.RequestScoped;
 import javax.faces.application.FacesMessage;
+import javax.faces.component.UIViewRoot;
 import javax.faces.context.FacesContext;
+import javax.faces.event.ValueChangeEvent;
 import javax.inject.Inject;
 import javax.inject.Named;
 import org.apache.logging.log4j.LogManager;
@@ -42,5 +44,12 @@ public class VacanteForm {
             log.info("Entrando al caso de fallo");
             return "fallo";
         }
+    }
+    
+    public void codigoPostalListener(ValueChangeEvent valueChangeEvent){    
+        FacesContext facesContext = FacesContext.getCurrentInstance();
+        UIViewRoot uiViewRoot = facesContext.getViewRoot();
+        String nuevoCodigoPostal = valueChangeEvent.getNewValue();
+        
     }
 }
