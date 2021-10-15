@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Java?style=for-the-badge">
 </P>
 
-
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -41,9 +40,9 @@
   </tr>
 </table>
 
-  <!-- ![java](./images/java_proyect_1.gif) -->
 
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
+
 
 ## Tabla de contenidos
 
