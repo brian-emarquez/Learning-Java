@@ -49,7 +49,7 @@ public class VacanteForm {
     public void codigoPostalListener(ValueChangeEvent valueChangeEvent){    
         FacesContext facesContext = FacesContext.getCurrentInstance();
         UIViewRoot uiViewRoot = facesContext.getViewRoot();
-        String nuevoCodigoPostal = valueChangeEvent.getNewValue();
-        
+        String nuevoCodigoPostal = (String) valueChangeEvent.getNewValue();
+        if("03810".equals(nuevoCodigoPostal))
     }
 }
