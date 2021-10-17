@@ -3,6 +3,7 @@ package beans.backing;
 import beans.model.Candidato;
 import javax.enterprise.context.RequestScoped;
 import javax.faces.application.FacesMessage;
+import javax.faces.component.UIInput;
 import javax.faces.component.UIViewRoot;
 import javax.faces.context.FacesContext;
 import javax.faces.event.ValueChangeEvent;
@@ -46,10 +47,24 @@ public class VacanteForm {
         }
     }
     
+    //
     public void codigoPostalListener(ValueChangeEvent valueChangeEvent){    
         FacesContext facesContext = FacesContext.getCurrentInstance();
         UIViewRoot uiViewRoot = facesContext.getViewRoot();
         String nuevoCodigoPostal = (String) valueChangeEvent.getNewValue();
-        if("03810".equals(nuevoCodigoPostal))
+        
+        if("03810".equals(nuevoCodigoPostal)){
+            UIInput coloniaInputText = (UIInput) uiViewRoot.findComponent("vacanteForm:colonia");
+            String nuevaColonia = "Arequipa";
+            coloniaInputText.setValue(nuevaColonia);
+            coloniaInputText.setSubmittedValue(nuevaColonia);
+            
+            UIInput ciudadInputText = (UIInput) uiViewRoot.findComponent("vacanteForm:ciudad");
+            String nuevaCiudad = "Ciudad de Arequipa";
+            ciudadInputText.setValue(nuevaCiudad);
+            ciudadInputText.setSubmittedValue(nuevaCiudad);
+            
+            facesContext.renderResponse();       
+        }
     }
 }
