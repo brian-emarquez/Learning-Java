@@ -1,4 +1,4 @@
-<h2 align="center"> Java <img src="https://media3.giphy.com/media/LW3rWb97gvR0xVghDQ/giphy.gif" width="50px">  | POO, JDBC, Servlets, JavaEE, Web Services, JSF, EJB, JPA, PrimeFaces, Hibernate, Spring, Struts . </h2>
+<h2 align="center"> Java <img src="https://media3.giphy.com/media/LW3rWb97gvR0xVghDQ/giphy.gif" width="50px">  | POO, JDBC, Servlets, JavaEE, Web Services, JSF, EJB, JPA, PrimeFaces, Hibernate, Spring, Struts </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
