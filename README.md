@@ -214,7 +214,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |F39-F40|:heavy_check_mark: | [Patron de Diseño MVC](#Patron-de-Diseño-MVC)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 |F41|:heavy_check_mark: | [Proyecto Control Clientes](#Proyecto-Control-Clientes)   | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) 
 
-
 ## JavaServer Faces
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
@@ -239,9 +238,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  H1  |:heavy_check_mark: | [JavaEE](#JavaEE)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
-
-/* Sin contenido */
-
 
 ---
 
@@ -382,7 +378,8 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 
 📦 [Instalador JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
 📦 [Instalador JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
-📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Instalador Oracle JDK Java SE Development ACTUAL ☕ <br>
+📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
+📦 [Instalador JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) Instalador Oracle JDK Java SE Development ACTUAL ☕ <br>
 📦 [Instalador Netbeans 12](https://netbeans.org/) Instalador Apache NetBeans. <br>
 📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Instalador Visual Studio Code. <br>
 📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Instalador Eclipse Technology. <br>
