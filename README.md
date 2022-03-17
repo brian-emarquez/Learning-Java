@@ -372,10 +372,30 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
   ![java](./images/magnatron1.jpg)
 ## Instalacion
 
-📦 [Instalador JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
+**Java SE**
+
+📦 [Instalador JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Instalador Oracle JDK Java SE 8 Development ☕ <br>
+ 
+📦 [Instalador JDK 9](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html) Instalador Oracle JDK Java SE 9 Development ☕ <br>
+
+📦 [Instalador JDK 10](https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html) Instalador Oracle JDK Java SE 10 Development ☕ <br>
+
 📦 [Instalador JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
+
+📦 [Instalador JDK 12](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) Instalador Oracle JDK Java SE 12 Development ☕ <br>
+
+📦 [Instalador JDK 13](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) Instalador Oracle JDK Java SE 13 Development ☕ <br>
+
+📦 [Instalador JDK 14](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html) Instalador Oracle JDK Java SE 14 Development ☕ <br>
+
+📦 [Instalador JDK 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html) Instalador Oracle JDK Java SE 15 Development ☕ <br>
+
 📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
+
 📦 [Instalador JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) Instalador Oracle JDK Java SE Development ACTUAL ☕ <br>
+
+**IDE**
+
 📦 [Instalador Netbeans 12](https://netbeans.org/) Instalador Apache NetBeans. <br>
 📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Instalador Visual Studio Code. <br>
 📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Instalador Eclipse Technology. <br>
