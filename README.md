@@ -84,7 +84,6 @@
 |  033   |:heavy_check_mark: | [Busqueda Secuencial](#Busqueda-Secuencial)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  034   |:heavy_check_mark: | [Busqueda Binaria](#Busqueda-Binaria)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">       | [![edit in Gitpot](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://gitpod.io/#https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) | [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria) |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
-
 ### Operadores Java
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -148,7 +147,6 @@
 |  C26-C27 |:heavy_check_mark: | [Manejo de Generics](#Manejo-de-Generics)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C28-C29 |:heavy_check_mark: | [Manejo de Archvos](#Manejo-de-Archvos)   | <img src="https://media.giphy.com/media/QWXdqi3A3NbQSefSFj/giphy.gif" width="17px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
-
 ## Java con JDBC
 
 La API de Java Database Connectivity (JDBC) proporciona acceso universal a los datos desde el lenguaje de programación Java. Con la API de JDBC, puede acceder prácticamente a cualquier fuente de datos, desde bases de datos relacionales hasta hojas de cálculo y archivos planos. La tecnología JDBC también proporciona una base común sobre la cual se pueden construir herramientas e interfaces alternativas. 
@@ -169,7 +167,6 @@ La API de Java Database Connectivity (JDBC) proporciona acceso universal a los d
 |  D17  |:heavy_check_mark: | [Patrones de Diseño y Buenas Practicas](#Patrones-de-Diseño-y-Buenas-Practicas)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D18  |:heavy_check_mark: | [Creacion de Capas de datos](#Creacion-de-Capas-de-datos)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  D19  |:heavy_check_mark: | [Manejo del Pool de Conexiones](#Manejo-del-Pool-de-Conexiones)   | <img src="https://media.giphy.com/media/nA5PIseVjV3he/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
 
 ## Servlets y JSP
 
@@ -230,7 +227,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 |  G10 - G11 |:heavy_check_mark: | [Convertidores en JSF](#Convertidores-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  G12 - G13 |:heavy_check_mark: | [Internacionalizacion en JSF](#Internacionalizacion-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  G14 - G15 |:heavy_check_mark: | [Manejo de Eventos en JSF](#Manejo-de-Eventos-en-JSF)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-
 
 
 ## Java EE
@@ -3465,14 +3461,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |G15     | [Manejo de Eventos en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/BolsaTrabajoV5)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
-
-
-
-
-
 ## JavaEE
-
-/* Sin contenido */
 
 
 ---

@@ -3,10 +3,12 @@
       xmlns:h="http://java.sun.com/jsf/html"
       xmlns:f="http://xmlns.jcp.org/jsf/core">
     <head>
-        <title>Bolsa de Trabajo V1</title>
+        <title>Hola Mundo JSF</title>
     </head>
     <body>
-        <h:form>
+        <h:form id="vacanteForm">
+            <h:messages globalOnly="true" ></h:messages>
+            
             <table>
                 <tr>
                     <td><h:outputLabel for="nombre" value="#{msgs['vacanteForm.nombre']}"></h:outputLabel></td>
@@ -21,25 +23,35 @@
                 <tr>
                     <td><h:outputLabel for="salarioDeseado" value="#{msgs['vacanteForm.salarioDeseado']}"/></td>
                     <td><h:inputText id="salarioDeseado" required="true" value="#{candidato.salarioDeseado}">
-                            <f:validateLongRange minimum = "500" maximum = "5000" />
+                            <f:validateLongRange minimum="500" maximum="5000"/>
                         </h:inputText>
                     </td>
-                </tr>
-
-                <tr>
                     <td><h:message for="salarioDeseado"></h:message></td>
                 </tr>
-
-
                 <tr>
                     <td><h:outputLabel for="fechaNacimiento" value="#{msgs['vacanteForm.fechaNacimiento']}"></h:outputLabel></td>
-                    <td><h:inputText id="FechaNacimiento" required="true" value="#{candidato.fechaNacimiento}">
+                    <td><h:inputText id="fechaNacimiento" required="true" value="#{candidato.fechaNacimiento}">
                             <f:convertDateTime pattern="dd/MM/yyyy"></f:convertDateTime>
-                        </h:inputText>                    
+                        </h:inputText>
                     </td>
-                    <td><h:message for="fechaNacimiento"></h:message></td>
+                     <td><h:message for="fechaNacimiento"></h:message></td>
                 </tr>
-
+                <tr>
+                    <td><h:outputLabel for="codigoPostal" value="#{msgs['vacanteForm.codigoPostal']}" ></h:outputLabel></td>
+                    <td><h:inputText id="codigoPostal" immediate="true" onchange="this.form.submit()" required="true" value="#{candidato.codigoPostal}" 
+                                     valueChangeListener="#{vacanteForm.codigoPostalListener}"></h:inputText></td>
+                    <td><h:message for="codigoPostal"></h:message></td>
+                </tr>
+                <tr>
+                    <td><h:outputLabel for="colonia" value="#{msgs['vacanteForm.colonia']}" ></h:outputLabel></td>
+                    <td><h:inputText id="colonia" required="true" value="#{candidato.colonia}"></h:inputText></td>
+                    <td><h:message for="colonia"></h:message></td>
+                </tr>
+                <tr>
+                    <td><h:outputLabel for="ciudad" value="#{msgs['vacanteForm.ciudad']}" ></h:outputLabel></td>
+                    <td><h:inputText id="ciudad" required="true" value="#{candidato.ciudad}"></h:inputText></td>
+                    <td><h:message for="ciudad"></h:message></td>
+                </tr>                
             </table>
             <h:commandButton action="#{vacanteForm.enviar}" value="#{msgs['vacanteForm.enviar']}" />
         </h:form>
