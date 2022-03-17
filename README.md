@@ -375,35 +375,32 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 **Java SE**
 
 📦 [Instalador JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Instalador Oracle JDK Java SE 8 Development ☕ <br>
- 
 📦 [Instalador JDK 9](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html) Instalador Oracle JDK Java SE 9 Development ☕ <br>
-
 📦 [Instalador JDK 10](https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html) Instalador Oracle JDK Java SE 10 Development ☕ <br>
-
 📦 [Instalador JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
-
 📦 [Instalador JDK 12](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) Instalador Oracle JDK Java SE 12 Development ☕ <br>
-
 📦 [Instalador JDK 13](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) Instalador Oracle JDK Java SE 13 Development ☕ <br>
-
 📦 [Instalador JDK 14](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html) Instalador Oracle JDK Java SE 14 Development ☕ <br>
-
 📦 [Instalador JDK 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html) Instalador Oracle JDK Java SE 15 Development ☕ <br>
-
 📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Instalador Oracle JDK Java SE Development ☕ <br>
+📦 [Instalador JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) Instalador Oracle JDK Java SE Development ☕ <br>
 
-📦 [Instalador JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) Instalador Oracle JDK Java SE Development ACTUAL ☕ <br>
+**IDE Netbeans**
 
-**IDE**
+📦 [Instalador Netbeans 8](https://filehippo.com/es/download_netbeans/8.0/?ex=BB-2188.0) Instalador Apache NetBeans 8. <br>
+📦 [Instalador Netbeans 9](https://netbeans.apache.org/download/nb90/nb90.html) Instalador Apache NetBeans 9. <br>
+📦 [Instalador Netbeans 10](https://netbeans.apache.org/download/nb100/nb100.html) Instalador Apache NetBeans 10. <br>
+📦 [Instalador Netbeans 11](https://netbeans.apache.org/download/nb111/nb111.html) Instalador Apache NetBeans 11. <br>
+📦 [Instalador Netbeans 12](https://netbeans.apache.org/download/nb120/nb120.html) Instalador Apache NetBeans 12. <br>
+📦 [Instalador Netbeans 13](https://netbeans.apache.org/download/nb13/nb13.html) Instalador Apache NetBeans 13. <br>
 
-📦 [Instalador Netbeans 12](https://netbeans.org/) Instalador Apache NetBeans. <br>
+
 📦 [Instalardor Visual Studio Code](https://code.visualstudio.com/) Instalador Visual Studio Code. <br>
 📦 [Instalador Eclipse](https://www.eclipse.org/downloads/) Instalador Eclipse Technology. <br>
 📦 [Instalador IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) Instalador IntelliJ IDEA de jetbrains. <br>
 📦 [Instalador MySQL](https://dev.mysql.com/downloads/mysql/) Instalador MySQL Community Downloads. <br>
 📦 [Instalador Oracle XE](https://www.oracle.com/database/technologies/xe-downloads.html) Instalador Oracle Database Express Edition. <br>
 📦 [IBM Db2® Database](https://www.ibm.com/account/reg/us-en/signup?formid=urx-33669) Instalador Software de Gestión de Datos | IBM. <br>
-
 
 
 <table align="center" >
