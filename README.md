@@ -422,6 +422,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador Oracle XE](https://www.oracle.com/database/technologies/xe-downloads.html) Instalador Oracle Database Express Edition. <br>
 
 **BM Db2® Database**
+
 📦 [IBM Db2® Database](https://www.ibm.com/account/reg/us-en/signup?formid=urx-33669) Instalador Software de Gestión de Datos | IBM. <br>
 
 
