@@ -393,6 +393,9 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador Netbeans 11](https://netbeans.apache.org/download/nb111/nb111.html) Instalador Apache NetBeans 11. <br>
 📦 [Instalador Netbeans 12](https://netbeans.apache.org/download/nb120/nb120.html) Instalador Apache NetBeans 12. <br>
 📦 [Instalador Netbeans 13](https://netbeans.apache.org/download/nb13/nb13.html) Instalador Apache NetBeans 13. <br>
+📦 [Instalador Netbeans 14](https://netbeans.apache.org/download/nb14/) Instalador Apache NetBeans 14. <br>
+📦 [Instalador Netbeans 14](https://netbeans.apache.org/download/nb15/) Instalador Apache NetBeans 15. <br>
+
 
 **Visual Studio Code**
 
