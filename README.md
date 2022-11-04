@@ -3833,7 +3833,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 ## Paypal Donation
 
-🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+☕ Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ## Licence 
 
