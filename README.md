@@ -382,10 +382,10 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador JDK 13](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) Instalador Oracle JDK Java SE 13 Development  <br>
 📦 [Instalador JDK 14](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html) Instalador Oracle JDK Java SE 14 Development  <br>
 📦 [Instalador JDK 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html) Instalador Oracle JDK Java SE 15 Development  <br>
-📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Instalador Oracle JDK Java SE Development <br>
-📦 [Instalador JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) Instalador Oracle JDK Java SE Development <br>
-📦 [Instalador JDK 19](https://www.oracle.com/java/technologies/downloads/#java19) Instalador Oracle JDK Java SE Development<br>
-📦 [Instalador JDK 20](https://www.oracle.com/pe/java/technologies/downloads/#jdk20-windows) Instalador Oracle JDK Java SE Development<br>
+📦 [Instalador JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) Instalador Oracle JDK Java SE 16 Development <br>
+📦 [Instalador JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) Instalador Oracle JDK Java SE 17 Development <br>
+📦 [Instalador JDK 19](https://www.oracle.com/java/technologies/downloads/#java19) Instalador Oracle JDK Java SE 19 Development<br>
+📦 [Instalador JDK 20](https://www.oracle.com/pe/java/technologies/downloads/#jdk20-windows) Instalador Oracle JDK Java SE 20 Development<br>
 
 **IDE Netbeans**
 
@@ -398,6 +398,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador Netbeans 14](https://netbeans.apache.org/download/nb14/) Instalador Apache NetBeans 14. <br>
 📦 [Instalador Netbeans 15](https://netbeans.apache.org/download/nb15/) Instalador Apache NetBeans 15. <br>
 📦 [Instalador Netbeans 16](https://netbeans.apache.org/download/nb16/) Instalador Apache NetBeans 16. <br>
+📦 [Instalador Netbeans 17](https://netbeans.apache.org/download/nb17/) Instalador Apache NetBeans 16. <br>
 
 **Visual Studio Code**
 📦 [Instalador Visual Studio Code](https://code.visualstudio.com/) Code editing.Redefined. <br>
