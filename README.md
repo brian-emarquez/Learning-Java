@@ -104,7 +104,7 @@
 |  B8  |:heavy_check_mark: | [Paso por valor](#Paso-por-valor)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B9  |:heavy_check_mark: | [Paso por referencia](#Paso-por-referencia)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B10 |:heavy_check_mark: | [Return Null en Java](#Return-Null-en-Java)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B11 |:heavy_check_mark: | [Uso del This](#[Uso-del-This)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B11 |:heavy_check_mark: | [Uso del This](#Uso-del-This)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B12 |:heavy_check_mark: | [Uso del This 2](#Uso-del-This-2)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B13 |:heavy_check_mark: | [Encapsulamiento](#Encapsulamiento)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">     | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  B14 |:heavy_check_mark: | [Metodo toString](#Metodo-toString)   | <img src="https://media.giphy.com/media/kn4jCiHuiK4Hu4HhFa/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
@@ -450,29 +450,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Hola Mundo](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundo)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 ## Concatenacion
 
 ```java
@@ -718,29 +696,7 @@ public static void main(String args[]) {
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Variables I Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -750,30 +706,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Variables II Datos Envoltorio](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables_II_Datos_Envoltorio)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
-
 ---
 
 ## Constantes
@@ -782,29 +714,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Constantes](https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -814,29 +723,7 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ingresar Datos Consola ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosConsola)          |      ✔️     |   [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -846,29 +733,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ingresar Dato ViaShow InputDialog ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosViaShowInputDialog)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -878,29 +742,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operadores Matematicos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -910,29 +751,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operadores Matematicos Cortos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicosCortos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -944,27 +762,6 @@ Look at the following code:
 
 Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -974,30 +771,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operaciones Matematicas Math ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operacionesMatematicasMath)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
-
 ---
 
 ## Calcular volumen de un cilindro
@@ -1005,30 +778,6 @@ Look at the following code:
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Calcular volumen de un cilindro ](https://github.com/BrianMarquez3/Learning-Java/tree/main/calcularvolumendeuncilindro)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -1040,27 +789,6 @@ Look at the following code:
 
 Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -1089,29 +817,6 @@ public static void main(String[] args) {
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Condicionales](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -1150,30 +855,6 @@ Scanner entrada = new Scanner(System.in);
   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Condicionales II](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_II_switch_case)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -1232,30 +913,6 @@ public static void main(String args[]) {
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
-
 ---
 ## Adivinar numero random
 
@@ -1263,29 +920,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Adivinar numero random](https://github.com/BrianMarquez3/Learning-Java/tree/main/adivinar_numero_random)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -1297,27 +931,6 @@ Look at the following code:
 
 Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 ---
 ## Ciclo Do While
 
@@ -1325,30 +938,9 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo Do While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_doWhile)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 ---
+
 ## Ciclo For
 
   | Carpeta                    | Link |      Home   |  Code | Version | Estado |
@@ -1363,30 +955,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
-
 ---
 
 ## Escalera con For
@@ -1395,29 +963,7 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Escalera con For](https://github.com/BrianMarquez3/Learning-Java/tree/main/escalera_conFor)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 ---
 ## Arreglos
 
@@ -1427,29 +973,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 ## Mezclar 2 Arreglos
@@ -1486,30 +1009,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
-
 
 ---
 
@@ -1520,30 +1019,6 @@ Look at the following code:
   | Carpeta                    | Link |       Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Palindromos](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 
 ---
@@ -1558,29 +1033,6 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamientos Metodo de la Burbuja](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 
 ---
 
@@ -1590,29 +1042,7 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamientos Metodo de la Burbuja Mejorado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamientos_burbujaMejorado)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 ---
 ## Ordenamientos por Seleccion
 
@@ -1621,29 +1051,7 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamiento por seleccion](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 ---
 ## Busqueda Secuencial
 
@@ -1651,29 +1059,7 @@ Look at the following code:
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Secuencial](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
-```diff
-
-  /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-  /**
- *
- * @author brian
- */
- 
- /**
-     * @param args the command line arguments
-     */
-+     public static void main(String[] args) {
--         // ordenamiento_burbuja
-}
- 
-```
 ---
 
 ## Busqueda Binaria
@@ -2964,13 +2350,13 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 -`sesion.isNew()`: Permite saber si la sesion ha sio recien creada
 
--`sesion.getCreationTime(): Permite conocer en la fecha y hora cuando se creo la sesion
+-`sesion.getCreationTime()`: Permite conocer en la fecha y hora cuando se creo la sesion
 
 -`sesion.getLastAccedesTime()`: Permite conocer la ultima ves en que la sesion fue accedisa por el cliente
 
 - `sesion.getMaxInactiveInterval()`: Primite conocer el tiempo de inactividad(en segundos) necesaio  para wu ela sesion se destruya sino recibe una peticion
 
-- sesion.setMaxInactiveInterval(): Permite modificar el valor mencionado en funcion anterior. Este valor tambien se puede modificar en el archovo web.xml
+- `sesion.setMaxInactiveInterval()`: Permite modificar el valor mencionado en funcion anterior. Este valor tambien se puede modificar en el archovo web.xml
 
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
