@@ -233,7 +233,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  H1  |:heavy_check_mark: | [JavaEE](#JavaEE)   | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">| ☕ | 💾 | [  ⬅️ Atras]() |
 
----
 
 <table align="center" >
   <p align="center">Velocidad</p>
@@ -441,7 +440,6 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 </table>
  <!-- ![java](./images/15.png) -->
 
----
 
 
 ## Hola Mundo
@@ -692,105 +690,79 @@ public static void main(String args[]) {
   </tr>
   
 
-  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Variables I Datos Primitivos](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-
-
----
-
 ## Variables-II
 
-| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Variables II Datos Envoltorio](https://github.com/BrianMarquez3/Learnig-Java/tree/main/variables_II_Datos_Envoltorio)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
----
 
 ## Constantes
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Constantes](https://github.com/BrianMarquez3/Learning-Java/tree/main/constantes)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
-
 ## Ingresar Datos Consola
 
-  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |     Home    |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ingresar Datos Consola ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosConsola)          |      ✔️     |   [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-
-
----
-
 ## Ingresar Dato ViaShow InputDialog
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ingresar Dato ViaShow InputDialog ](https://github.com/BrianMarquez3/Learning-Java/tree/main/IngresarDatosViaShowInputDialog)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
-
 ## Operadores Matematicos
 
-  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |       Home  |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operadores Matematicos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
-
 ## Operadores Matematicos Cortos
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operadores Matematicos Cortos ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadoresMatematicosCortos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
-
 ## Operador Incremental Decremental
 
-  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |     Home    |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operador Incremental Decremental ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operadorIncrementalDecremental)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-
----
 
 ## Operaciones Matematicas Math
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operaciones Matematicas Math ](https://github.com/BrianMarquez3/Learning-Java/tree/main/operacionesMatematicasMath)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
----
+
 
 ## Calcular volumen de un cilindro
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                  | Link         |    Home    |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Calcular volumen de un cilindro ](https://github.com/BrianMarquez3/Learning-Java/tree/main/calcularvolumendeuncilindro)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
----
 
 ## Manejo de Fechas
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |    Home     |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Manejo de fechas ](https://github.com/BrianMarquez3/Learning-Java/tree/main/fechas)          |      ✔️     |   [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
-
-
----
 
 ## Condicionales
 
@@ -813,7 +785,7 @@ public static void main(String[] args) {
     }
 ```
 
-  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |     Home    |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Condicionales](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
@@ -852,11 +824,10 @@ Scanner entrada = new Scanner(System.in);
         }
 ```
 
-  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |     Home   |  Code        | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Condicionales II](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_II_switch_case)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
----
 
 ## Condicionales III  
 
@@ -909,72 +880,61 @@ public static void main(String args[]) {
     }
 ```
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Condicionales III](https://github.com/BrianMarquez3/Learning-Java/tree/main/condicionales_III_String)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
----
+
 ## Adivinar numero random
 
-  | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |     Home   |  Code        | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Adivinar numero random](https://github.com/BrianMarquez3/Learning-Java/tree/main/adivinar_numero_random)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
-
 ## Ciclo While
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_While)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-Look at the following code:
 
----
 ## Ciclo Do While
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+  | Carpeta                  | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo Do While](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_doWhile)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-
----
-
 ## Ciclo For
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo For](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_For)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
----
 
 ## Ciclo foreach
 
-  | Carpeta                    | Link |   Home   |  Code | Version | Estado | 
+| Carpeta                    | Link        |   Home      |  Code       | Version     | Estado      | 
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ciclo foreach](https://github.com/BrianMarquez3/Learning-Java/tree/main/ciclo_foreach)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
----
 
 ## Escalera con For
 
-  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Escalera con For](https://github.com/BrianMarquez3/Learning-Java/tree/main/escalera_conFor)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
 ## Arreglos
 
 <P> Un array (arreglo) en Java es una estructura de datos que nos permite almacenar un conjunto de datos de un mismo tipo. El tamaño de los arrays se declara en un primer momento y no puede cambiar luego durante la ejecución del programa, como sí puede hacerse en otros lenguajes.</P>
 
-  | Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/arreglos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
 ## Mezclar 2 Arreglos
 
 ```java
@@ -1005,23 +965,19 @@ Look at the following code:
 
 ```
 
-  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Mezclar 2 Arreglos](https://github.com/BrianMarquez3/Learning-Java/tree/main/mezclar2Arreglos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-
----
 
 ## Palindromos
 
 <P>, también llamado palíndromo, palíndroma o palindroma, es una palabra o frase que se lee igual en un sentido que en otro (por ejemplo, Ana) </P>
 
-  | Carpeta                    | Link |       Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Palindromos](https://github.com/BrianMarquez3/Learning-Java/tree/main/palidromos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-
----
 
 ## Ordenamientos Metodo de la Burbuja
 
@@ -1029,42 +985,38 @@ Look at the following code:
 
   ![Spring](./images/burbuja.png)
 
-  | Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+| Carpeta                    | Link        |    Home     |  Code       | Version     | Estado      |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamientos Metodo de la Burbuja](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_burbuja)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
 
 ## Ordenamientos Metodo de la Burbuja Mejorado
 
-| Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+| Carpeta                    | Link        |    Home     |  Code       | Version     | Estado      |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamientos Metodo de la Burbuja Mejorado](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamientos_burbujaMejorado)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
 ## Ordenamientos por Seleccion
 
 
-| Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+| Carpeta                    | Link         |    Home    |  Code       | Version     | Estado      |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamiento por seleccion](https://github.com/BrianMarquez3/Learning-Java/tree/main/ordenamiento_porSeleccion)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
 ## Busqueda Secuencial
 
-| Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+| Carpeta                    | Link        |    Home     |  Code       | Version     | Estado      |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Secuencial](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Secuencial)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
----
 
 ## Busqueda Binaria
 
-| Carpeta                    | Link |    Home   |  Code | Version | Estado |  
+| Carpeta                    | Link        |    Home     |  Code       | Version     | Estado      |  
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Binaria](https://github.com/BrianMarquez3/Learning-Java/tree/main/Busqueda_Binaria)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
