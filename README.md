@@ -42,6 +42,12 @@
 
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
+
+| Name         | Link     |    
+|:------------:|:--------:|
+| Tesis| [Cursos Virtuales](https://github.com/BrianMarquez3/CursosVirtuales) | 
+
+
 ## Tabla de contenidos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
