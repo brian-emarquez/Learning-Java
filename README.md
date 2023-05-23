@@ -1085,13 +1085,13 @@ public static void main(String args[]) {
 ```
 ### Operadores Ternario
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operador Ternario](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Operadores-Java) | yes | yes | ✔️ |
 
 ### Break y Continue
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Break y Continue](https://github.com/BrianMarquez3/Learning-Java/tree/main/BreakContinue)          |      ✔️     |  [⬅️Atras](#Operadores-Java) | yes | yes | ✔️ |
 
@@ -1101,14 +1101,14 @@ public static void main(String args[]) {
 ### Clases en Java
 
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Clases en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/OperarioTernario)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Creacion de Metodos
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Creacion de Metodos](https://github.com/BrianMarquez3/Learning-Java/tree/main/Creacion_Metodos_%20Java)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1124,20 +1124,20 @@ this.b = a;
 
 ![java](./images/this.png)
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operador This](https://github.com/BrianMarquez3/Learning-Java/tree/main/metodo_this)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Constructores
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Constructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Sobrecarga Constructores
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Sobrecarga Constructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/Sobrecarga_Constructores)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1154,31 +1154,31 @@ this.b = a;
 system.gc();
 ```
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Alcance de Variables](https://github.com/BrianMarquez3/Learning-Java/tree/main/Alcance_De_Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Proyecto caja
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Proyecto caja](https://github.com/BrianMarquez3/Learning-Java/tree/main/Proyecto_Caja)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Paso por valor
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Paso por valor](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paso%20por%20Valor)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 ## Paso por referencia
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Paso por referencia](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paso%20por%20Referencia)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Return Null en Java
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Return Null en Java](https://github.com/BrianMarquez3/Learning-Java/tree/main/Return_Null_en_Java)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1186,7 +1186,7 @@ system.gc();
 
   ![java](./images/this1.png)
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Uso del This](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1194,7 +1194,7 @@ system.gc();
 ## Uso del This 2
 
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Uso del This 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/Uso_del_This_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1216,7 +1216,7 @@ public String getNombre(){
     }
 ```
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Encapsulamiento](https://github.com/BrianMarquez3/Learning-Java/tree/main/Encapsulamiento)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1224,7 +1224,7 @@ public String getNombre(){
 ## Metodo toString
 
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Metodo toString](https://github.com/BrianMarquez3/Learning-Java/tree/main/Metodo_toString)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1235,14 +1235,14 @@ Contexto Estatico y Contexto Dinamico
 
 palabra `static`
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Contexto estatico](https://github.com/BrianMarquez3/Learning-Java/tree/main/ContextoStatico)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Contexto estatco 2
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Contexto estatco 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/ContextoStatico_2)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1259,26 +1259,24 @@ super();
 
 ## Sobrecarga de Contructores
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Sobrecarga de Contructores](https://github.com/BrianMarquez3/Learning-Java/tree/main/SobrecargaConstructores_Ejercicio)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Sobrecarga de Metodos
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Sobrecarga de Metodos](https://github.com/BrianMarquez3/Learning-Java/tree/main/SobrecarcaMetodos)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 ## Paquetes
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Paquete](https://github.com/BrianMarquez3/Learning-Java/tree/main/Paquetes)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Palabra Final
-
-
 
 _Uso de la Palabra Final_
 
@@ -1304,7 +1302,7 @@ public final static int MI_CONSTATNE = 1;
 </table>
 
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Palabra Final](https://github.com/BrianMarquez3/Learning-Java/tree/main/PalabraFinal)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1330,19 +1328,19 @@ public final static int MI_CONSTATNE = 1;
         }
 ```   
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Arreglo III](https://github.com/BrianMarquez3/Learning-Java/tree/main/Arreglos_III)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Matrices
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Matrices I](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
-| [Matrices II](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices_II)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
-| [Matrices III](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices_III)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
-| [Matrices IV](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices_IV)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Matrices II](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices_II)      |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Matrices III](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices_III)    |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
+| [Matrices IV](https://github.com/BrianMarquez3/Learning-Java/tree/main/Matrices_IV)      |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## UML
@@ -1359,7 +1357,7 @@ public final static int MI_CONSTATNE = 1;
 </table>
 
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [UML](https://github.com/BrianMarquez3/Learning-Java/tree/main/UML)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
@@ -1376,18 +1374,17 @@ public final static int MI_CONSTATNE = 1;
 
 
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Sistema de Ventas](https://github.com/BrianMarquez3/Learning-Java/tree/main/Argumentos%20Variables)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
 
 ## Proyecto Mundo PC
 
-| Files                   | Link |      Home   |  Code | Version | Estado |
+| Carpeta                    | Link        |      Home   |  Code       | Version     | Estado      |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Proyecto Mundo PC](https://github.com/BrianMarquez3/Learning-Java/tree/main/MundoPC)          |      ✔️     |  [⬅️Atras](#Fundamentos-Java) | yes | yes | ✔️ |
 
----
 
 <table align="center" >
   <tr>
@@ -1742,6 +1739,7 @@ ublic class ManejoArchivos {
 |C29         | [Manejo de Archvos II Leer Archivos](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoArchivos_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ---
+
 ## Java con JDBC
 ### Descargar e Instalar Oracle
 
@@ -2258,7 +2256,7 @@ public class ejemplo extends HttpServlet{
 
 ## Cabeceros de Respuesta con Servlets EJERCICIO
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F12        | [Cabeceros de Respuesta con Servlets EJERCICIO](https://github.com/BrianMarquez3/Learning-Java/tree/main/CabecerosRespuesta)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2271,7 +2269,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Manejo de Cookies EJERCICIO
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F14        | [Manejo de Cookies EJERCICIO](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoCoockies)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2285,7 +2283,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
   </tr>
 </table>
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F15        | [Cookies Contador](https://github.com/BrianMarquez3/Learning-Java/tree/main/CoockiesContador)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2311,7 +2309,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 - `sesion.setMaxInactiveInterval()`: Permite modificar el valor mencionado en funcion anterior. Este valor tambien se puede modificar en el archovo web.xml
 
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F16        | [Sesion HTTP](https://github.com/BrianMarquez3/Learning-Java/tree/main/Sesion%20HTTP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2333,7 +2331,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
   </tr>
 </table>
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F17        | [Ejemplo HTTP Session](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjemploHTTPSession)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2397,20 +2395,20 @@ public class Personas{
 >Equivalente a @Getter, @Setter, @RequiredArgsConstructor, @EqualsAndHashCode, @ToString
 
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F18        | [Uso de Lombok](https://github.com/BrianMarquez3/Learning-Java/tree/main/Lombok)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ## Carrito Compras
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F19        | [Carrito ComprasT ADD](https://github.com/BrianMarquez3/Learning-Java/tree/main/Lombok)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ## Introduccion a los JSPS
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F20        | [Introduccion a los JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/Introduccion%20a%20los%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2432,27 +2430,27 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 </html>
 ```
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F21        | [Hola JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ## Elementos de un JSP
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F22       | [Elementos de un JSP](https://github.com/BrianMarquez3/Learning-Java/tree/main/Elementos%20de%20un%20JSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ## ExpresionesJSP
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F23        | [ExpresionesJSP](https://github.com/BrianMarquez3/Learning-Java/tree/main/ExpresionesJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ## ScriptletsJSP
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F24        | [ScriptletsJSP](https://github.com/BrianMarquez3/Learning-Java/tree/main/ScriptletsJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2460,7 +2458,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 ## DeclaracionesJSP
 
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F25        | [DeclaracionesJSP](https://github.com/BrianMarquez3/Learning-Java/tree/main/DeclaracionesJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2481,13 +2479,13 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 </jsp:root>
 ```
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F26        | [Documentos con JPSX](https://github.com/BrianMarquez3/Learning-Java/tree/main/DocumentosJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ## Directivas con JSPS
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F27        | [Directivas con JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/Directivas%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2501,7 +2499,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
   </tr>
 </table>
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F28        | [Excel Jsps con Directivas](https://github.com/BrianMarquez3/Learning-Java/tree/main/ExcelJSP)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
@@ -2509,20 +2507,20 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 ## Inclusión de Archivos con JSPS
 
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F29        | [Inclusión de Archivos con JSPs](https://github.com/BrianMarquez3/Learning-Java/tree/main/Inclusion%20de%20Archivos%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ## Inclusión Estatica
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F30        | [Inclusión Estatica](https://github.com/BrianMarquez3/Learning-Java/tree/main/InclusionEstatica)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 
 ## Inclusión Dinamica
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F31        | [Inclusión Dinamica](https://github.com/BrianMarquez3/Learning-Java/tree/main/InclusionEstatica)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 |F32        | [Inclusión Dinamica Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/InclusionDinamica_Ejemplo)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
@@ -2530,14 +2528,14 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Manejo de Javabeans con JSPS
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F33        | [Manejo de Javabeans con JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/Manejo%20de%20Javabeans%20con%20JSPS)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 |F34        | [ Ejemplo Manejo de Javabeans con JSPS](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoJabaBeans)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 
 ## Expression Languaje
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F35        | [Expression Languaje](https://github.com/BrianMarquez3/Learning-Java/tree/main/Expression%20Languaje)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 |F36        | [Ejercicio Expression Languaje](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjmploExpressionLanguage)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
@@ -2603,7 +2601,7 @@ stsl.jar
    <c:forEach var="persona" item=${persnas}>...
 ```
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F37        | [JSP Standard Tag Libary](https://github.com/BrianMarquez3/Learning-Java/tree/main/JSP%20Standard%20Tag%20Libary)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 |F38        | [Ejercicio JSP Standard Tag Libary](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjemploJSTL)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
@@ -2619,7 +2617,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
   </tr>
 </table>
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |F39        | [Patron de Diseño MVC](https://github.com/BrianMarquez3/Learning-Java/tree/main/Patron%20de%20dise%C3%B1o%20MVC)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
 |F40        | [Ejercicio Patron de Diseño MVC](https://github.com/BrianMarquez3/Learning-Java/tree/main/Ejemplo1_MVC)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Servlets-y-JSP) |
@@ -2750,7 +2748,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 <br/>
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G1       | [Introduccion JavaServlet Faces](https://github.com/BrianMarquez3/Learning-Java/tree/main/JavaServerFaces)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 
@@ -2773,14 +2771,14 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
     </dependencies>  
 ```
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G2       | [Hola Mundo JavaServlet Faces](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 ## Managed Beans JSF Intoduccion
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G3       | [Managed Beans JSF Intoduccion](https://github.com/BrianMarquez3/Learning-Java/tree/main/Managed%20Beans%20JSF%20Intoduccion)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
 |G4       | [Managed Beans JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
@@ -2788,33 +2786,33 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Reglas de Navegacion en JSF
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G4       | [Reglas de Navegacion en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/ReglasNavegacionJSF%20-%20Teoria)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 ## Backing Bean en JSF
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G5      | [Backing Bean en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/BackingBeanJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 ## Ciclo de Vida en JSF
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G6      | [Ciclo de Vida en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Ciclo%20de%20Vida%20de%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 ## Ciclo de Vida en JSF Ejercicio
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G7      | [Ciclo de Vida en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/CicloVidaJSFEjercicio)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 
 
 ## Validadores en JSF
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G8      | [Validadores en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/Validadores%20en%20JSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 |G9      | [Validadores en JSF Ejercicio]()  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
@@ -2822,7 +2820,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Convertidores en JSF
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G10     | [Convertidores en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/ConvertidoresJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 |G11     | [Convertidores en JSF - Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/BolsaTrabajoV4)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
@@ -2831,7 +2829,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 ## Internacionalizacion en JSF
 
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G12     | [Internacionalizacion en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/MensajesInternacionalizacion)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 |G13     | [Internacionalizacion en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/BolsaTrabajoV3)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
@@ -2839,7 +2837,7 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 
 ## Manejo de Eventos en JSF
 
-Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G14     | [Manejo de Eventos en JSF](https://github.com/BrianMarquez3/Learning-Java/tree/main/MensajesInternacionalizacion)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
 |G15     | [Manejo de Eventos en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/BolsaTrabajoV5)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServer-Faces) |
@@ -3166,7 +3164,8 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 ## Spotify Java
 
-🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
+🎵 Music Java [List on Spotify ](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
+🎵 Music Black [List on Spotify](https://open.spotify.com/playlist/7qygdaimAmyWYmayTmb2w0?si=49366adf9cb94085)
 
 ## Diagramador Online
 
@@ -3195,4 +3194,3 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java
         <td>G</td>
     </tr>
 </table>
-
