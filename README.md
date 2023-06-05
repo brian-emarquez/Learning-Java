@@ -45,7 +45,7 @@
 
 | Name         | Link     |    Proyect  |   Name Backend   |
 |:------------:|:--------:|:-----------:|:----------------:|
-| Tesis| [Sistema Cursos Virtuales](https://github.com/BrianMarquez3/CursosVirtuales) | SCV |  EDITH   |
+| Tesis| [Virtual Courses System](https://github.com/BrianMarquez3/CursosVirtuales) | SCV |  EDITH   |
 
 
 ## Tabla de contenidos
