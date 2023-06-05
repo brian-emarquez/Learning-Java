@@ -43,7 +43,7 @@
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
 
-| Name         | Link     |    Proyect  |   Name backend   |
+| Name         | Link     |    Proyect  |   Name Backend   |
 |:------------:|:--------:|:-----------:|:----------------:|
 | Tesis| [Sistema Cursos Virtuales](https://github.com/BrianMarquez3/CursosVirtuales) | SCV |  EDITH   |
 
