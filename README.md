@@ -43,14 +43,14 @@
 📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
 
-| Name         | Link     |    
-|:------------:|:--------:|
-| Tesis| [Cursos Virtuales](https://github.com/BrianMarquez3/CursosVirtuales) | 
+| Name         | Link     |    Proyect  |   Name backend   |
+|:------------:|:--------:|:-----------:|:----------------:|
+| Tesis| [Sistema Cursos Virtuales](https://github.com/BrianMarquez3/CursosVirtuales) | SCV |  EDITH   |
 
 
 ## Tabla de contenidos
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A  |:heavy_check_mark: | [Que es java](#Que-es-java)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | ☕ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  B   |:heavy_check_mark: | [James Gosling](#James-Gosling)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | ☕ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
