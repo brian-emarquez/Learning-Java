@@ -389,6 +389,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) Instalador Oracle JDK Java SE 17 Development <br>
 📦 [Instalador JDK 19](https://www.oracle.com/java/technologies/downloads/#java19) Instalador Oracle JDK Java SE 19 Development<br>
 📦 [Instalador JDK 20](https://www.oracle.com/pe/java/technologies/downloads/#jdk20-windows) Instalador Oracle JDK Java SE 20 Development<br>
+📦 [Instalador JDK 21](https://www.oracle.com/pe/java/technologies/downloads/#java21) Instalador Oracle JDK Java SE 21 Development<br>
 
 **IDE Netbeans**
 
@@ -403,6 +404,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador Netbeans 16](https://netbeans.apache.org/download/nb16/) Instalador Apache NetBeans 16. <br>
 📦 [Instalador Netbeans 17](https://netbeans.apache.org/download/nb17/) Instalador Apache NetBeans 17. <br>
 📦 [Instalador Netbeans 18](https://netbeans.apache.org/download/nb18/) Instalador Apache NetBeans 18. <br>
+📦 [Instalador Netbeans 19](https://netbeans.apache.org/front/main/download/nb19/) Instalador Apache NetBeans 19. <br>
 
 **Visual Studio Code**
 📦 [Instalador Visual Studio Code](https://code.visualstudio.com/) Code editing.Redefined. <br>
@@ -421,6 +423,7 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador Eclipse IDE 2021-12](https://www.eclipse.org/downloads/packages/release/2021-12/r) Instalador Eclipse Technology. <br>
 📦 [Instalador Eclipse IDE 2022-03](https://www.eclipse.org/downloads/packages/release/2022-03/r) Instalador Eclipse Technology. <br>
 📦 [Instalador Eclipse IDE 2022-06](https://www.eclipse.org/downloads/packages/release/2023-06/r) Instalador Eclipse Technology. <br>
+📦 [Instalador Eclipse IDE 2023-09](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-09/R/eclipse-inst-jre-win64.exe&mirror_id=576) Instalador Eclipse Technology. <br>
 
 **JetBrains**
 
@@ -447,7 +450,6 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
   </tr>
 </table>
  <!-- ![java](./images/15.png) -->
-
 
 
 ## Hola Mundo
