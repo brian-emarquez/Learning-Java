@@ -276,9 +276,6 @@ Los Servlets son las respuesta de la tecnología Java a la programación CGI. So
 
 ![java](./images/JavaRed.jpg)
 
-## Ques es Java 
-
-La plataforma Java es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones, y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común. [Wikipedia.](https://es.wikipedia.org/wiki/Plataforma_Java)<br>
 
 ### Inferencia
 
@@ -303,6 +300,8 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
 ### Caracteristicas
 
+Tendencia -  [Google Trends Java](https://trends.google.es/trends/explore?q=%2Fm%2F07sbkfb&date=now%201-d&geo=PE&hl=es)
+
 - Lenguaje java fuertemente tipado
 - Lenguaje Orientao a Objeto (POO)
 - Esta en todas partes
@@ -312,7 +311,7 @@ La plataforma Java es el nombre de un entorno o plataforma de computación origi
 
   ![java](./images/popularidad.png)
 
-### Ejemplo
+### Ejemplo Java
 
   ![java](./images/ejemplo.png)
 
