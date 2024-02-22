@@ -3136,7 +3136,6 @@ _Ventajas_
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |        | [Configuraciones GIT](https://github.com/BrianMarquez3/Learning-Java/tree/main/GitCambioCuenta)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [Atras](#Programacion-Java) |
 
-
 ---
 	   
 ## Indice TIOBE
@@ -3179,7 +3178,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 ## Diagramador Online
 
 📈 [Diagrams](https://www.diagrams.net/)
-📈 [MIlanote](https://milanote.com/)
+📈 [Milanote](https://milanote.com/)
 
 ## Paypal Donation
 
