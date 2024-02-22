@@ -60,4 +60,4 @@ Un ManegagedBean se puede declarar de distitas maneras:
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G4       | [Managed Beans JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |
+|G4       | [Managed Beans JSF Ejercicio](https://github.com/brian-emarquez/Learning-Java/tree/main/ManagedBeansJSF)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#JavaServlet-Faces) |

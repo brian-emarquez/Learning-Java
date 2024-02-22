@@ -29,4 +29,4 @@ Nos Permite simplificar el despliegue de infirmacion en un JSP utilizanbdo JavaB
 
 Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|F36        | [Ejercicio Expression Languaje](https://github.com/BrianMarquez3/Learning-Java/tree/main/EjmploExpressionLanguage)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/BrianMarquez3/Learning-Java) |
+|F36        | [Ejercicio Expression Languaje](https://github.com/brian-emarquez/Learning-Java/tree/main/EjmploExpressionLanguage)  | <img src="https://media.giphy.com/media/YIW8ZTQHpcWjaDzyAr/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/brian-emarquez/Learning-Java) |
