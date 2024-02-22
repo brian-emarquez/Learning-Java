@@ -3175,11 +3175,11 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 ## Spotify Java
 
 🎵 Music Java [List on Spotify ](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
-🎵 Music Black [List on Spotify](https://open.spotify.com/playlist/7qygdaimAmyWYmayTmb2w0?si=49366adf9cb94085)
 
 ## Diagramador Online
 
 📈 [Diagrams](https://www.diagrams.net/)
+📈 [MIlanote](https://milanote.com/)
 
 ## Paypal Donation
 
