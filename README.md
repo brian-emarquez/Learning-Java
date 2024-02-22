@@ -2856,9 +2856,6 @@ Numeration  | File   |  Link       |    Folk     |  Code       | Version     | S
 |G15     | [Manejo de Eventos en JSF Ejercicio](https://github.com/BrianMarquez3/Learning-Java/tree/main/BolsaTrabajoV5)  | <img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="17px">  | ✔️ | yes | yes | ✔️ | 💾 | [Atras](#JavaServer-Faces) |
 
 
-## JavaEE
-
-
 ---
 
 ## Spring Boot
@@ -3099,7 +3096,7 @@ _Ventajas_
 	   
 - Aprende a desarrollar Microservicios con Spring Boot y Spring Cloud, una de las tecnologías JAVA más usadas y demandadas en el mundo.
 	   
-🏫 Link de Entrenamiento [Learning SpringBoot](https://github.com/BrianMarquez3/Learning-SpringBoot)
+🏫 Link [Learning SpringBoot](https://github.com/brian-emarquez/Learning-SpringBoot)
 	   
 	   
 ---
@@ -3143,10 +3140,7 @@ _Ventajas_
 
 <p>El índice de la comunidad de programación TIOBE es un indicador de la popularidad de los lenguajes de programación. 
 El índice se actualiza una vez al mes. Las calificaciones se basan en la cantidad de ingenieros calificados en todo el mundo, 
-cursos y proveedores externos. Los motores de búsqueda populares como Google, Bing, Yahoo !, Wikipedia, Amazon, YouTube y 
-Baidu se utilizan para calcular las calificaciones. 
-Es importante tener en cuenta que el índice TIOBE no se trata del mejor lenguaje de 
-programación o del lenguaje en el que se han escrito la mayoría de las líneas de código .</p>
+cursos y proveedores externos.</p>
 
 [Indice TIOBE](https://www.tiobe.com/tiobe-index/)
 
