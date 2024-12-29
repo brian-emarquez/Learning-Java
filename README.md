@@ -40,12 +40,11 @@
   </tr>
 </table>
 
-📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
 
 | Name         | Link     |    Proyect  |   Name Backend(Engine)   |
 |:------------:|:--------:|:-----------:|:------------------------:|
-| Tesis| [Virtual Courses System](https://github.com/brian-emarquez/CursosVirtuales) | SCV |  EDITH   |
+| Tesis| [Virtual Courses System](https://github.com/orgs/Ollarves/repositories) | SCV |  EDITH   |
 
 
 ## Tabla de contenidos
