@@ -388,6 +388,12 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador JDK 19](https://www.oracle.com/java/technologies/downloads/#java19) Instalador Oracle JDK Java SE 19 Development<br>
 📦 [Instalador JDK 20](https://www.oracle.com/pe/java/technologies/downloads/#jdk20-windows) Instalador Oracle JDK Java SE 20 Development<br>
 📦 [Instalador JDK 21](https://www.oracle.com/pe/java/technologies/downloads/#java21) Instalador Oracle JDK Java SE 21 Development<br>
+📦 [Instalador JDK 22](https://www.oracle.com/pe/java/technologies/downloads/#java22) Instalador Oracle JDK Java SE 22 Development<br>
+📦 [Instalador JDK 23](https://www.oracle.com/pe/java/technologies/downloads/#java23) Instalador Oracle JDK Java SE 23 Development<br>
+📦 [Instalador JDK 24](https://www.oracle.com/pe/java/technologies/downloads/#java24) Instalador Oracle JDK Java SE 24 Development<br>
+📦 [Instalador JDK 25](https://www.oracle.com/pe/java/technologies/downloads/#java25) Instalador Oracle JDK Java SE 25 Development<br>
+📦 [Instalador JDK 26](https://www.oracle.com/pe/java/technologies/downloads/#java26) Instalador Oracle JDK Java SE 26 Development<br>
+📦 [Instalador JDK 27](https://www.oracle.com/pe/java/technologies/downloads/#java27) Instalador Oracle JDK Java SE 27 Development<br>
 
 **IDE Netbeans**
 
