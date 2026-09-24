@@ -42,11 +42,6 @@
 
 
 
-| Name         | Link     |    Proyect  |   Name Backend(Engine)   |
-|:------------:|:--------:|:-----------:|:------------------------:|
-| Tesis| [Virtual Courses System](https://github.com/orgs/Ollarves/repositories) | SCV |  EDITH   |
-
-
 ## Tabla de contenidos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
