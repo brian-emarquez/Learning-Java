@@ -410,10 +410,25 @@ JavaFX es una plataforma para crear aplicaciones de Internet enriquecidas median
 📦 [Instalador Netbeans 18](https://netbeans.apache.org/download/nb18/) Instalador Apache NetBeans 18. <br>
 📦 [Instalador Netbeans 19](https://netbeans.apache.org/front/main/download/nb19/) Instalador Apache NetBeans 19. <br>
 📦 [Instalador Netbeans 20](https://netbeans.apache.org/front/main/download/nb20/) Instalador Apache NetBeans 20. <br>
+📦 [Instalador Netbeans 21](https://netbeans.apache.org/front/main/download/nb21/) Instalador Apache NetBeans 21. <br>
+📦 [Instalador Netbeans 22](https://netbeans.apache.org/front/main/download/nb22/) Instalador Apache NetBeans 22. <br>
+📦 [Instalador Netbeans 23](https://netbeans.apache.org/front/main/download/nb23/) Instalador Apache NetBeans 23. <br>
+📦 [Instalador Netbeans 24](https://netbeans.apache.org/front/main/download/nb24/) Instalador Apache NetBeans 24. <br>
+📦 [Instalador Netbeans 25](https://netbeans.apache.org/front/main/download/nb25/) Instalador Apache NetBeans 25. <br>
+📦 [Instalador Netbeans 26](https://netbeans.apache.org/front/main/download/nb26/) Instalador Apache NetBeans 26. <br>
 
 **Visual Studio Code**
 
 📦 [Instalador Visual Studio Code](https://code.visualstudio.com/) Code editing.Redefined. <br>
+
+**Antigravity**
+
+📦 [Descargar Antigravity](https://antigravity.com/) Code editing.Redefined. <br>  
+
+**IntelliJ IDEA**
+
+📦 [Instalador IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/#section=windows) Instalador IntelliJ IDEA Community Edition. <br>
+📦 [Instalador IntelliJ IDEA Ultimate Edition](https://www.jetbrains.com/idea/download/#section=windows) Instalador IntelliJ IDEA Ultimate Edition. <br>
 
 **Spring Tool Suite**
 
